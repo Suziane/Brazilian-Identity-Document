@@ -1,0 +1,13 @@
+Aqui está o resultado dos campos reconhecidos em formato JSON:
+
+```json
+{
+    "codigo": "PA107330939",
+    "numero": "088713455",
+    "numero_lateral": "43621648098",
+    "local": "MONTE BÉLO-MG",
+    "data_emissao": "12/08/2002",
+    "assinatura_emissor": "ANTONAGI KEI",
+    "observacoes": ""
+}
+```

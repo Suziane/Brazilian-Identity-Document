@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "PR99120996",
+  "numero": "76073635398",
+  "numero_lateral": "552315155",
+  "local": "MAJOR VIEIRA-SC",
+  "data_emissao": "12/08/1973",
+  "assinatura_emissor": "CECON LORENZI",
+  "observacoes": ""
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "código": "SP024040633",
+  "número": "86865158935",
+  "número lateral": "180672790",
+  "local": "NHAMUNDÁ-AM",
+  "data emissão": "30/08/1968",
+  "assinatura emissor": "MASSADY FELUCI",
+  "observações": ""
+}
+```

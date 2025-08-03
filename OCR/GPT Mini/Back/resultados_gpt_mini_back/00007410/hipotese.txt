@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "P3913827773",
+    "numero": "238192147606",
+    "numero_lateral": "6168913",
+    "local": "POTENGI-CE",
+    "data_emissao": "26/06/2008",
+    "assinatura_emissor": "MANI LEUTWILER AR",
+    "observacoes": ""
+}
+```

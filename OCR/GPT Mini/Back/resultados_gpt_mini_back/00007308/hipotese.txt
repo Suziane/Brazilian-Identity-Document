@@ -1,0 +1,13 @@
+Aqui está o reconhecimento dos campos solicitados, organizado em formato JSON:
+
+```json
+{
+  "codigo": "901340872",
+  "numero": "",
+  "numero_lateral": "901340872",
+  "local": "Soure-PA",
+  "data_emissao": "05/07/1987",
+  "assinatura_emissor": "Rinhel Adzgauskas HA 08945885301",
+  "observacoes": ""
+}
+```

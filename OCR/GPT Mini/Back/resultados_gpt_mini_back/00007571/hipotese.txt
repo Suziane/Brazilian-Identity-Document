@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "MG650041758",
+    "numero": "03042721670",
+    "numero_lateral": "544047572",
+    "local": "PIÉN-PR",
+    "data_emissao": "26/09/2010",
+    "assinatura_emissor": "GALLETTI KIYAMA LIMA",
+    "observacoes": "P ;"
+}
+```

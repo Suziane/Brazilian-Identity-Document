@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "MG034254946",
+  "numero": "941993340794",
+  "numero_lateral": "541409",
+  "local": "INIMUTABA-MG",
+  "data_emissao": "02/05/1997",
+  "assinatura_emissor": "BENSON HEROI CEJA",
+  "observacoes": ""
+}
+```

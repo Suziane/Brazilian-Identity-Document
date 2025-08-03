@@ -1,0 +1,11 @@
+```json
+{
+  "código": "MT743877123",
+  "número": "74920728153",
+  "número_lateral": "658010193",
+  "local": "LUCÉLIA-SP",
+  "data_emissão": "13/09/1982",
+  "assinatura_emissor": "TURBUK PIAS",
+  "observações": ""
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "PE856527243",
+  "numero": "94594121794",
+  "numero_lateral": "521427989",
+  "local": "ITAPETIM-PE",
+  "data_emissao": "06/05/1983",
+  "assinatura_emissor": "TANKEVICIUS WACHEHOLZ",
+  "observacoes": ""
+}
+```

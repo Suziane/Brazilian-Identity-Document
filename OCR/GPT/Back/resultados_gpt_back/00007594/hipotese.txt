@@ -1,0 +1,11 @@
+```json
+{
+  "código": "SP584585372",
+  "número": "81058911843",
+  "número_lateral": "811020930",
+  "local": "RUROPOLIS-PA",
+  "data_emissao": "22/09/2002",
+  "assinatura_emissor": "",
+  "observações": ""
+}
+```

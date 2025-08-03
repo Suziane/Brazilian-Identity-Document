@@ -1,0 +1,15 @@
+Aqui está o resultado em formato JSON de acordo com os campos solicitados:
+
+```json
+{
+    "codigo": "35994048481",
+    "numero": "",
+    "numero_lateral": "35994048481",
+    "local": "DOMINGOS MARTINS-ES",
+    "data_emissao": "28/03/2007",
+    "assinatura_emissor": "CARRABO BOGUEZ",
+    "observacoes": "T"
+}
+```
+
+Se houver mais alguma informação que deseja ou se precisar de mais ajuda, fique à vontade para perguntar!

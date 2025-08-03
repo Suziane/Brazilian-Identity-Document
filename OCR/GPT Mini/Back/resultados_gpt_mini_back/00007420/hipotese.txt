@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "MT240692461",
+    "numero": "62840245505",
+    "numero lateral": "634971529",
+    "local": "MACAMBIRA-SE",
+    "data emissão": "09/05/2003",
+    "assinatura emissor": "MALHONE MANTELAT ARAGÃO",
+    "observações": "S ; J"
+}
+```

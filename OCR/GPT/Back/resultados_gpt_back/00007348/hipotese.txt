@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "ES976450438",
+    "numero": "57735442255",
+    "numero_lateral": "34153949",
+    "local": "RIO NOVO-MG",
+    "data_emissao": "08/09/1966",
+    "assinatura_emissor": "FEDERICE TOMA",
+    "observacoes": ""
+}
+```

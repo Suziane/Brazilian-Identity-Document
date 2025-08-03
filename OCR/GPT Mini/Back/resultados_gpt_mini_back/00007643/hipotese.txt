@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "67017867113",
+  "numero": "790562519",
+  "numero_lateral": "790562519",
+  "local": "PARAISO-SP",
+  "data_emissao": "04/03/1984",
+  "assinatura_emissor": "ERISON KASUE B",
+  "observacoes": ""
+}
+```

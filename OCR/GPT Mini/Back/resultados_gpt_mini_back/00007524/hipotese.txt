@@ -1,0 +1,13 @@
+Aqui está o resultado em JSON com os campos identificados da imagem:
+
+```json
+{
+    "codigo": "RN429262283",
+    "numero": "02462964642",
+    "numero_lateral": "250374764",
+    "local": "CAJAMAR-SP",
+    "data_emissao": "08/05/2000",
+    "assinatura_emissor": "VIN NICOMEDES AMA",
+    "observacoes": ""
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "SP171940631",
+  "numero": "07410513627",
+  "numero_lateral": "104438350",
+  "local": "TRINDADE DO SUL-RS",
+  "data_emissao": "10/03/2020",
+  "assinatura_emissor": "",
+  "observacoes": "J"
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "código": "PI123366609",
+  "número": "73191301591",
+  "número lateral": "10620825",
+  "local": "BRASILEIA-AC",
+  "data emissão": "28/11/1968",
+  "assinatura emissor": "RINALDINI EDVAN",
+  "observações": ""
+}
+```

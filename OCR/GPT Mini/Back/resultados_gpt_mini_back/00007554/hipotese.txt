@@ -1,0 +1,13 @@
+Aqui está o resultado em formato JSON conforme solicitado:
+
+```json
+{
+  "codigo": "SP921858180",
+  "numero": "986294210",
+  "numero_lateral": "88493567369",
+  "local": "COARACI-BA",
+  "data_emissao": "23/05/1962",
+  "assinatura_emissor": "YOSIMOTO GRACIANO",
+  "observacoes": "E;"
+}
+```

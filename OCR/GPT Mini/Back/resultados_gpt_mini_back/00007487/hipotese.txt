@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "RN343210610",
+  "numero": "858767800",
+  "numero_lateral": "24334389554",
+  "local": "QUATA-SP",
+  "data_emissao": "GOIANA-PE",
+  "assinatura_emissor": "CTUBO POIANI MAJIMA",
+  "observacoes": "EXERCE ATIVIDADE REMUNERADA;"
+}
+```

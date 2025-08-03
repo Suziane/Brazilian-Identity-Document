@@ -1,0 +1,13 @@
+Aqui está o resultado do reconhecimento dos campos da imagem em formato JSON:
+
+```json
+{
+  "codigo": "GUI RIQUEZA CIRC 90000848732",
+  "numero": "144531822",
+  "numero_lateral": "144531822",
+  "local": "PONTO LUCENA-RS",
+  "data_emissao": "05/09/1959",
+  "assinatura_emissor": "DETRAN MG (MINAS GERAIS)",
+  "observacoes": ""
+}
+```

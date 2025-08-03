@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "MG225113426",
+    "numero": "11681097172",
+    "numero_lateral": "933604675",
+    "local": "COQUEIRO BAIXO-RS",
+    "data_emissao": "02/07/1975",
+    "assinatura_emissor": "LANETZKI LAULE PEREIRA",
+    "observacoes": "N;"
+}
+```

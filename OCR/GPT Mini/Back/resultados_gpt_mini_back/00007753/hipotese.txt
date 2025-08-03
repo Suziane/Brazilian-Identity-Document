@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "MG322606799",
+    "numero": "93176048533",
+    "numero_lateral": "8347777387",
+    "local": "SANTA HELENA DE MINAS-MG",
+    "data_emissao": "15/03/1983",
+    "assinatura_emissor": "DETRAN RJ RIO DE JANEIRO",
+    "observacoes": ""
+}
+```

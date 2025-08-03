@@ -1,0 +1,11 @@
+```json
+{
+  "código": "GO884405221",
+  "número": "42191795609",
+  "número_lateral": "824668699",
+  "local": "LADAINHA-MG",
+  "data_emissão": "04/09/1961",
+  "assinatura_emissor": "GERONIMO MARTINI",
+  "observações": ""
+}
+```

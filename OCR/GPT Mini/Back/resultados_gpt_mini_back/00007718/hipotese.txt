@@ -1,0 +1,13 @@
+Aqui está o resultado em formato JSON com os campos reconhecidos:
+
+```json
+{
+    "codigo": "SC169449856",
+    "numero": "5727621",
+    "numero_lateral": "57727621",
+    "local": "RIACHAC-PB",
+    "data_emissao": "12/01/1985",
+    "assinatura_emissor": "KOFF KLAUSS KATTY",
+    "observacoes": ""
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "0414455779",
+  "numero": "685414644770",
+  "numero_lateral": "",
+  "local": "CUJUBIM-RO",
+  "data_emissao": "25/08/1972",
+  "assinatura_emissor": "CAPELLARI JAN NUNES",
+  "observacoes": ""
+}
+```

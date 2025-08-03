@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "Nasciel Yussuke Beloti",
+  "cpf": "643.305.100-65",
+  "filiacao": "Fry Abate Ricciardi Souza, Iwazaki Mazziotti Rosemary Almeida",
+  "data_nascimento": "04/04/1969",
+  "primeira_habilitacao": "01/06/1989",
+  "validade": "03/04/2015",
+  "documento_identidade": "133928524",
+  "orgao_emissor": "SEJ",
+  "uf": "CE",
+  "numero_registro": "20310278095",
+  "acc": "",
+  "permissao": "",
+  "categoria": "AB",
+  "numero_valido": "491818040"
+}
+```

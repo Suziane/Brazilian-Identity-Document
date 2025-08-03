@@ -1,0 +1,13 @@
+Aqui está o resultado formatado em JSON com os dados reconhecidos:
+
+```json
+{
+    "codigo": "R0513960298",
+    "numero": "56574991382",
+    "numero_lateral": "597511977",
+    "local": "ITAJA-GO",
+    "data_emissao": "10/04/1979",
+    "assinatura_emissor": "SERIKAKU WEL",
+    "observacoes": ""
+}
+```

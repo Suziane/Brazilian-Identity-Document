@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "171606072",
+    "numero": "",
+    "numero_lateral": "171606072",
+    "local": "BUJARI-AC",
+    "data_emissao": "24/05/2012",
+    "assinatura_emissor": "ROGRAEF LUSSIM M BARROS",
+    "observacoes": "H ;"
+}
+```

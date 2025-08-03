@@ -1,0 +1,11 @@
+```json
+{
+    "numero": "81400960249",
+    "codigo": "ES173699314",
+    "numero_lateral": "96566932",
+    "local": "CALMON-SC",
+    "data_emissao": "31/03/1963",
+    "assinatura_emissor": "BARAGLIA KARAS",
+    "observacoes": ""
+}
+```

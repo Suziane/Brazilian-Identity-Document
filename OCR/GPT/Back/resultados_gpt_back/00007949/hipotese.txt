@@ -1,0 +1,11 @@
+```json
+{
+  "código": "ES995365776",
+  "número": "81548680865",
+  "número_lateral": "417350315",
+  "local": "MOEDA-MG",
+  "data_emissão": "31/12/1987",
+  "assinatura_emissor": "FALCIN PANHOCA GIA",
+  "observações": "B;"
+}
+```

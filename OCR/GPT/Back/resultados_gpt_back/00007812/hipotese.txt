@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "SP585793716",
+  "numero": "85265134688",
+  "numero_lateral": "274610739",
+  "local": "HUMAITÁ-RS",
+  "data_emissao": "ABATIA-PR",
+  "assinatura_emissor": "BALCONI MARTINHO FUS",
+  "observacoes": "X: U: Y:"
+}
+```

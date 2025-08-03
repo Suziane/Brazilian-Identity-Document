@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "305147200",
+  "numero": "",
+  "numero_lateral": "",
+  "local": "PEÇANHA-MG",
+  "data_emissao": "07/01/1961",
+  "assinatura_emissor": "SOMERA BUZANELLO",
+  "observacoes": ""
+}
+```

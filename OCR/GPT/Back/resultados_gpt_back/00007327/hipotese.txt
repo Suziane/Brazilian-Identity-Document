@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "SP019360347",
+  "numero": "47234853913",
+  "numero_lateral": "030804562",
+  "local": "LAVINIA-SP",
+  "data_emissao": "22/04/1956",
+  "assinatura_emissor": "IVAMOTO BROCARDO",
+  "observacoes": ""
+}
+```

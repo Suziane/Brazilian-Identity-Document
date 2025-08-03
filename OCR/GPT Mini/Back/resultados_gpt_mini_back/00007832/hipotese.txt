@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "ZP767836924",
+  "numero": "335356190",
+  "numero_lateral": "82240627467",
+  "local": "MESÓPOLIS-SP",
+  "data_emissao": "20/09/2006",
+  "assinatura_emissor": "MEGID TAMBOR",
+  "observacoes": ""
+}
+```

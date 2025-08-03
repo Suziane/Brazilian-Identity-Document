@@ -1,0 +1,15 @@
+Aqui está a estrutura JSON com os campos reconhecidos a partir da imagem:
+
+```json
+{
+  "codigo": "SP939607468",
+  "numero": "181296622",
+  "numero_lateral": "181296622",
+  "local": "LINDOESTE-PR",
+  "data_emissao": "12/05/2001",
+  "assinatura_emissor": "VANSTREELS S7",
+  "observacoes": ""
+}
+``` 
+
+Caso precise de mais alguma coisa, estou à disposição!

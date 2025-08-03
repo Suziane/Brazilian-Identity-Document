@@ -1,0 +1,11 @@
+```json
+{
+  "código": "PD963876902",
+  "número": "72294046512",
+  "número_lateral": "322533317",
+  "local": "CUIABA-MT",
+  "data_emissão": "21/04/2018",
+  "assinatura_emissor": "SAGLIETTI S",
+  "observações": ""
+}
+```

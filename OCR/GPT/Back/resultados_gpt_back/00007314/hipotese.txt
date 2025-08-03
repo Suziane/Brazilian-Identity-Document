@@ -1,0 +1,11 @@
+```json
+{
+  "código": "MG831262857",
+  "número": "1877992580",
+  "número_lateral": "808398585",
+  "local": "GAVIÃO-BA",
+  "data_emissão": "12/01/1996",
+  "assinatura_emissor": "SEARWRIGHT MOURI JESUS",
+  "observações": "N"
+}
+```

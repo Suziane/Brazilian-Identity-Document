@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "681099576",
+  "numero": "",
+  "numero_lateral": "681099576",
+  "local": "GUAIRA-SP",
+  "data_emissao": "20/12/1968",
+  "assinatura_emissor": "DETAN MG MINAS GERAIS",
+  "observacoes": ""
+}
+```

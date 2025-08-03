@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "PI066451246",
+  "numero": "44390531969",
+  "numero_lateral": "503838241",
+  "local": "SANTA HELENA DE GOIÁS-GO",
+  "data_emissao": "16/03/1970",
+  "assinatura_emissor": "",
+  "observacoes": ""
+}
+```

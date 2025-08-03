@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "SC008875157",
+    "numero": "559238943325",
+    "numero_lateral": "46537022",
+    "local": "AURORA DO PARÁ-PA",
+    "data_emissao": "18/04/2011",
+    "assinatura_emissor": "SEGRE LANDUCCI",
+    "observacoes": ""
+}
+```

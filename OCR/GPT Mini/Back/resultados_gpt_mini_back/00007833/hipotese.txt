@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "BA022586321",
+  "numero": "907698790944",
+  "numero_lateral": "304474760",
+  "local": "ITABAIANA-SE",
+  "data_emissao": "31/03/2018",
+  "assinatura_emissor": "FAILACHE AITA SA",
+  "observacoes": ""
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "SP794321232",
+    "numero": "18652321354",
+    "numero_lateral": "560345657",
+    "local": "IKUPI ES",
+    "data_emissao": "27/06/1994",
+    "assinatura_emissor": "TAMEDURUS GO",
+    "observacoes": ""
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "PI199705200",
+  "numero": "129993437",
+  "numero_lateral": "",
+  "local": "MUCURI-BA",
+  "data_emissao": "31/10/1965",
+  "assinatura_emissor": "KELI HUANCA O DA PAZ",
+  "observacoes": ""
+}
+```

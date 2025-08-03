@@ -1,0 +1,11 @@
+```json
+{
+  "código": "SC433905426",
+  "número": "29533565424",
+  "número_lateral": "472879828",
+  "local": "NOVA GLÓRIA-GO",
+  "data_emissão": "02/03/1971",
+  "assinatura_emissor": "ALTMAYER ERICA E",
+  "observações": ""
+}
+```

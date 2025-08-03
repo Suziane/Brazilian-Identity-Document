@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "SP654213895",
+  "numero": "107301150",
+  "numero_lateral": "F;",
+  "local": "CANGUARETAMA-RN",
+  "data_emissao": "12/12/1983",
+  "assinatura_emissor": "CELIDONIO INTROV",
+  "observacoes": ""
+}
+```

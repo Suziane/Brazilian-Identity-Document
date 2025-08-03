@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "SC879735828",
+  "numero": "04489656327",
+  "numero_lateral": "305147200",
+  "local": "PEÇANHA-MG",
+  "data_emissao": "07/01/1961",
+  "assinatura_emissor": "SCMERA BUZANELLO",
+  "observacoes": "H: W: P: U:"
+}
+```

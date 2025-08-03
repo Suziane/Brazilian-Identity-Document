@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "SE853589055",
+  "numero": "84427236775",
+  "numero_lateral": "548449668",
+  "local": "CÂNDIDO MENDES-MA",
+  "data_emissao": "17/09/1958",
+  "assinatura_emissor": "SARZI TOYAMA CUC",
+  "observacoes": ""
+}
+```

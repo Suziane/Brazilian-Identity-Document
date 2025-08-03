@@ -1,0 +1,11 @@
+```json
+{
+  "código": "MG447244673",
+  "número": "65904520947",
+  "número_lateral": "326667089",
+  "local": "SANTO ANTÔNIO-RN",
+  "data_emissão": "22/10/1952",
+  "assinatura_emissor": "JOJIMA TANKITI P",
+  "observações": ""
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "PE511205865",
+  "numero": "350722271",
+  "numero_lateral": "83428326473",
+  "local": "MARAPAOMA-SP",
+  "data_emissao": "08/06/1983",
+  "assinatura_emissor": "GRAVITO RODGE",
+  "observacoes": ""
+}
+```

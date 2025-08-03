@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "SP927863937",
+  "numero": "45348017126",
+  "numero_lateral": "918242411",
+  "local": "PORTO FELIZ-SP",
+  "data_emissao": "27/05/1992",
+  "assinatura_emissor": "COLACO SCRIAVETTO C",
+  "observacoes": ""
+}
+```

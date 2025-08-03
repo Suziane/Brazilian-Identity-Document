@@ -1,0 +1,11 @@
+```json
+{
+    "código": "PI879734094",
+    "número": "16493822463",
+    "número_lateral": "623612578",
+    "local": "DOM AQUINO-MT",
+    "data_emissão": "26/05/2015",
+    "assinatura_emissor": "KUREBAYASHI G",
+    "observações": ""
+}
+```

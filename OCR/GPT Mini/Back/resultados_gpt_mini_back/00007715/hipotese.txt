@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "34809700968",
+  "numero": "946245699",
+  "numero_lateral": "946245699",
+  "local": "ITA-SC",
+  "data_emissao": "06/11/1980",
+  "assinatura_emissor": "KATHRYN PRES",
+  "observacoes": ""
+}
+```

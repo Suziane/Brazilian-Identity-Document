@@ -1,0 +1,13 @@
+Aqui está o resultado em formato JSON com os dados reconhecidos:
+
+```json
+{
+    "codigo": "PX684646332",
+    "numero": "741304451",
+    "numero_lateral": "741304451",
+    "local": "CAEM-BA",
+    "data_emissao": "02/02/1990",
+    "assinatura_emissor": "BOZZINI EDNEI VI CALDEIRA",
+    "observacoes": ""
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "63167801",
+  "numero": "",
+  "numero_lateral": "",
+  "local": "BAEPENDI-MG",
+  "data_emissao": "23/12/1974",
+  "assinatura_emissor": "REGGI BERTOLON",
+  "observacoes": "U"
+}
+```

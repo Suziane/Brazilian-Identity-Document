@@ -1,0 +1,11 @@
+```json
+{
+  "código": "PE512491868",
+  "número": "17433820106",
+  "número_lateral": "476337390",
+  "local": "JATOBA-PE",
+  "data_emissao": "19/04/1964",
+  "assinatura_emissor": "GROMZYNSKI GALLIOPE CE",
+  "observações": ""
+}
+```

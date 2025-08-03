@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "PB338780097",
+  "numero": "29379328718",
+  "numero_lateral": "460648767",
+  "local": "POMBOS-PE",
+  "data_emissao": "15/11/1971",
+  "assinatura_emissor": "EDGARDO ROSSIGNOLI",
+  "observacoes": "Z;"
+}
+```

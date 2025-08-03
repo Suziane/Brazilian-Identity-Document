@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "MT769544700",
+  "numero": "64631936939",
+  "numero_lateral": "513497621",
+  "local": "SÃO FELIPE-BA",
+  "data_emissao": "24/04/1961",
+  "assinatura_emissor": "BERAN SEFRIN ACH MARTINS",
+  "observacoes": ""
+}
+```

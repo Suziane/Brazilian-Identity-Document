@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "60521632",
+  "numero": "",
+  "numero_lateral": "",
+  "local": "MARCOLÂNDIA-MT",
+  "data_emissao": "19/01/2007",
+  "assinatura_emissor": "LEONNA MINCONTY",
+  "observacoes": ""
+}
+```

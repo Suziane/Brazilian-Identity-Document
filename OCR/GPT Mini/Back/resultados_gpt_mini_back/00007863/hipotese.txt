@@ -1,0 +1,15 @@
+Aqui está o resultado do reconhecimento dos campos solicitados, formatado em JSON:
+
+```json
+{
+  "codigo": "MG890687898",
+  "numero": "049072934",
+  "numero lateral": "67787707417",
+  "local": "LASSANCE-MG",
+  "data emissao": "31/10/2014",
+  "assinatura emissor": "KIN MOLIN AKAMA",
+  "observacoes": ""
+}
+```
+
+Caso precise de mais alguma informação ou ajuste, é só avisar!

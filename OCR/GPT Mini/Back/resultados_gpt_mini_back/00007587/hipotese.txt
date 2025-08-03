@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "601146601",
+  "numero": "74836085436",
+  "numero_lateral": "",
+  "local": "PEDRÃO-BA",
+  "data_emissao": "28/12/2009",
+  "assinatura_emissor": "DETTRAN MG (MINAS GERAIS)",
+  "observacoes": ""
+}
+```

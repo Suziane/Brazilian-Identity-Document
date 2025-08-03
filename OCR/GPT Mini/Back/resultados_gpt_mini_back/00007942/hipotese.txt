@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "MA076734636",
+    "numero": "65767084370",
+    "numero_lateral": "220269309",
+    "local": "PUTINGA-RS",
+    "data_emissao": "21/12/1952",
+    "assinatura_emissor": "NIUTON VIGO SU",
+    "observacoes": ""
+}
+```

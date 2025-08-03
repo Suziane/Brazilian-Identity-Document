@@ -1,0 +1,13 @@
+Aqui está o resultado em formato JSON com os campos reconhecidos:
+
+```json
+{
+  "codigo": "052491387",
+  "numero": "99135346290",
+  "numero_lateral": "P/588675043",
+  "local": "Pacaraima PR",
+  "data_emissao": "02/10/2008",
+  "assinatura_emissor": "Assembleia do Poderão",
+  "observacoes": ""
+}
+```

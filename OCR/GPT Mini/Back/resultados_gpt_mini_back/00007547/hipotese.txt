@@ -1,0 +1,13 @@
+Aqui está o resultado formatado em JSON com os campos reconhecidos:
+
+```json
+{
+    "codigo": "P2291213545",
+    "numero": "51411590058",
+    "numero lateral": "224500635",
+    "local": "ABATÍÁ-PR",
+    "data emissao": "26/02/1962",
+    "assinatura emissor": "VIOTO GOYA PARMIGI",
+    "observacoes": ""
+}
+```

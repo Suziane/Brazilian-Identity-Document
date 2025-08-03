@@ -1,0 +1,11 @@
+```json
+{
+  "código": "MS243081588",
+  "número": "98319315290",
+  "número_lateral": "492106358",
+  "local": "NOVAIS-SP",
+  "data_emissão": "02/10/2001",
+  "assinatura_emissor": "ILEANA FUNARI J",
+  "observações": ""
+}
+```

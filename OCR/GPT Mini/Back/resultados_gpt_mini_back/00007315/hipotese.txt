@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "M2A204036057",
+    "numero": "79429657084",
+    "numero_lateral": "970614565",
+    "local": "PIRANGA-MG",
+    "data_emissao": "08/07/1961",
+    "assinatura_emissor": "REGO QUINTAVAL NUNES",
+    "observacoes": "B;"
+}
+```

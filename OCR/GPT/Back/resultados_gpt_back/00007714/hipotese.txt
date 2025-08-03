@@ -1,0 +1,11 @@
+```json
+{
+  "código": "PRQ37550291",
+  "número": "06629323032",
+  "número lateral": "561342023",
+  "local": "ITAPÉ-BA",
+  "data emissão": "20/04/2004",
+  "assinatura emissor": "STAMATO KELLEN MANAI",
+  "observações": ""
+}
+```

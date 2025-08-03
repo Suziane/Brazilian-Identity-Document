@@ -1,0 +1,11 @@
+```json
+{
+    "código": "P5779598712",
+    "número": "95346526850",
+    "número_lateral": "97433186",
+    "local": "ASCURRA-SC",
+    "data_emissão": "31/03/2001",
+    "assinatura_emissor": "BERENICE HERES RODRIGUES",
+    "observações": ""
+}
+```

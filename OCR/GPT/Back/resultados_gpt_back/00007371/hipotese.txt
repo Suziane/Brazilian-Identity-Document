@@ -1,0 +1,11 @@
+```json
+{
+  "código": "AL512998969",
+  "número": "61163092922",
+  "número_lateral": "409919037",
+  "local": "AQUIDAUANA-MS",
+  "data_emissão": "17/01/1973",
+  "assinatura_emissor": "SPURI VELLEGO G",
+  "observações": ""
+}
+```

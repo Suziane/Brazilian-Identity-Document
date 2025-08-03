@@ -1,0 +1,11 @@
+```json
+{
+    "código": "RJ118388879",
+    "número": "82941186769",
+    "número lateral": "992954033",
+    "local": "BALIZA-GO",
+    "data emissão": "21/12/1973",
+    "assinatura emissor": "RAJDEN TRUNEL MAN DA MOTA",
+    "observações": ""
+}
+```

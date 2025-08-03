@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "SE443694401",
+    "numero": "62154983173",
+    "numero_lateral": "953158611",
+    "local": "DOIS CORREGOS-SP",
+    "data_emissao": "17/03/1953",
+    "assinatura_emissor": "",
+    "observacoes": ""
+}
+```

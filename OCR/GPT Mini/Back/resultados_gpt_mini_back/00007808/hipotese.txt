@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "PB3216451561",
+  "numero": "50992343601",
+  "numero_lateral": "199704992",
+  "local": "CONSOLAÇÃO-MG",
+  "data_emissao": "20/01/1998",
+  "assinatura_emissor": "DETRAN RJ (RIO DE JANEIRO)",
+  "observacoes": ""
+}
+```

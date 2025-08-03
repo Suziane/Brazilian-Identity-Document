@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "871197757",
+    "numero": "",
+    "numero_lateral": "69117003543",
+    "local": "CUPIRA-PE",
+    "data_emissao": "21/05/1969",
+    "assinatura_emissor": "JOSY TORETTI",
+    "observacoes": ""
+}
+```

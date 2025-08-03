@@ -1,0 +1,11 @@
+```json
+{
+  "código": "BA125670990",
+  "número": "30073745432",
+  "número lateral": "958410557",
+  "local": "CHOROZINHO-CE",
+  "data emissão": "19/03/1989",
+  "assinatura emissor": "IN CORDOUTIS FRE",
+  "observações": ""
+}
+```

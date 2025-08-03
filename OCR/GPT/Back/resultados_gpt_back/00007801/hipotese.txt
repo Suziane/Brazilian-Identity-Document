@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "CE645521090",
+  "numero": "48718601735",
+  "numero_lateral": "727220270",
+  "local": "ARAÇAGI-PB",
+  "data_emissao": "20/11/1972",
+  "assinatura_emissor": "GUILA SINJIN ALOI",
+  "observacoes": "N; G; Y; EXERCE ATIVIDADE REMUNERADA:"
+}
+```

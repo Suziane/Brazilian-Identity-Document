@@ -1,0 +1,11 @@
+```json
+{
+  "código": "MG820388691",
+  "número": "31682331774",
+  "número_lateral": "639301422",
+  "local": "NOVO AIRÃO-AM",
+  "data_emissão": "10/02/2015",
+  "assinatura_emissor": "POLICITO CHICORIA LI",
+  "observações": ""
+}
+```

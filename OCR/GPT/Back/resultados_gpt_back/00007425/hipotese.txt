@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "MG676993261",
+  "numero": "65535414255",
+  "numero_lateral": "467123195",
+  "local": "TAPEJARA-PR",
+  "data_emissao": "27/01/2013",
+  "assinatura_emissor": "IEHUDA DOMENICHE I",
+  "observacoes": ""
+}
+```

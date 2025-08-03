@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "PB998087750",
+  "numero": "88171989117",
+  "numero_lateral": "212915602",
+  "local": "ROTEIRO-AL",
+  "data_emissao": "11/08/1983",
+  "assinatura_emissor": "DAQUINO CAWAM",
+  "observacoes": "Y ; J ;"
+}
+```

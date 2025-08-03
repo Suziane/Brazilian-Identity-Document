@@ -1,0 +1,11 @@
+```json
+{
+    "código": "PE962240686",
+    "número": "18062744746",
+    "número lateral": "702835963",
+    "local": "IRECE-BA",
+    "data emissão": "05/05/1980",
+    "assinatura emissor": "POLATO CLAYTON BICA",
+    "observações": ""
+}
+```

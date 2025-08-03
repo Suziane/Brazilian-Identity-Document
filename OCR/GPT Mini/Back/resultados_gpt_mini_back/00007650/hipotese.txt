@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "A170015843",
+    "numero": "43556453962",
+    "numero_lateral": "94022710",
+    "local": "INÚBIA PAULISTA-SP",
+    "data_emissao": "19/05/2001",
+    "assinatura_emissor": "MENEGHILLO QUINTAVALL",
+    "observacoes": ""
+}
+```

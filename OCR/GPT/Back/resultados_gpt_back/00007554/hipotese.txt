@@ -1,0 +1,11 @@
+```json
+{
+    "código": "SP921858180",
+    "número": "88493567369",
+    "número_lateral": "986294210",
+    "local": "COARACI-BA",
+    "data_emissão": "23/05/1962",
+    "assinatura_emissor": "YOSIMOTO GRACIANO",
+    "observações": "E;"
+}
+```

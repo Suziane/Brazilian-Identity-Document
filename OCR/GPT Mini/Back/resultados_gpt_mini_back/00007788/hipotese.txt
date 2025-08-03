@@ -1,0 +1,13 @@
+Aqui está o reconhecimento dos campos solicitados, organizado em um arquivo JSON:
+
+```json
+{
+    "codigo": "PR165647227",
+    "numero": "622930834",
+    "numero_lateral": "30658767495",
+    "local": "SARDÔA-MG",
+    "data_emissao": "30/08/1977",
+    "assinatura_emissor": "MOSER CANSANCAO",
+    "observacoes": ""
+}
+```

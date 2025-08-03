@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "PB653133269",
+  "numero": "4006115869",
+  "numero_lateral": "346700664",
+  "local": "GUAJARA-MIRIM-RO",
+  "data_emissao": "01/08/1993",
+  "assinatura_emissor": "",
+  "observacoes": ""
+}
+```

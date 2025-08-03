@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "220870441",
+    "numero": "588171292246",
+    "numero_lateral": "",
+    "local": "RIO DO CAMPO-SC",
+    "data_emissao": "17/03/2004",
+    "assinatura_emissor": "BIONGERMINO ALOWA 5",
+    "observacoes": ""
+}
+```

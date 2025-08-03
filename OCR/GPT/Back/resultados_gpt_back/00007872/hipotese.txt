@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "MG165019379",
+  "numero": "44539462535",
+  "numero_lateral": "780746271",
+  "local": "BORBA-AM",
+  "data_emissao": "22/06/1993",
+  "assinatura_emissor": "CEAZINI NOEMI ANE",
+  "observacoes": "J; P; O; I;"
+}
+```

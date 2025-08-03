@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "623612578",
+  "numero": "16493822463",
+  "numero_lateral": "",
+  "local": "DOM AQUINO-MT",
+  "data_emissao": "26/05/2015",
+  "assinatura_emissor": "DETRAN MG (MINAS GERAIS)",
+  "observacoes": ""
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "P112366609",
+    "numero": "10620825",
+    "numero_lateral": "73191301591",
+    "local": "BRASÍLIA-AC",
+    "data_emissao": "28/11/1968",
+    "assinatura_emissor": "RINALDINI EDVÂN",
+    "observacoes": ""
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+    "código": "SP515468710",
+    "número": "03639210741",
+    "número_lateral": "578289988",
+    "local": "MARAU-RS",
+    "data_emissão": "06/12/2006",
+    "assinatura_emissor": "SEIXAS HATORI TE PORTO",
+    "observações": ""
+}
+```

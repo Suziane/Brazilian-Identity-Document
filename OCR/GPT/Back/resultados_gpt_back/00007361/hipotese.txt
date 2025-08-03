@@ -1,0 +1,11 @@
+```json
+{
+  "código": "YGCNU821",
+  "número": "19434587078",
+  "número_lateral": "39089739",
+  "local": "MONÇÃO-MA",
+  "data_emissão": "30/04/2009",
+  "assinatura_emissor": "",
+  "observações": ""
+}
+```

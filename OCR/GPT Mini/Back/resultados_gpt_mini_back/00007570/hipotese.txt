@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "PB701242193",
+  "numero": "71465394562",
+  "numero_lateral": "60084130",
+  "local": "ITAMBE-BA",
+  "data_emissao": "04/05/2017",
+  "assinatura_emissor": "LUMINOSA PA",
+  "observacoes": ""
+}
+```

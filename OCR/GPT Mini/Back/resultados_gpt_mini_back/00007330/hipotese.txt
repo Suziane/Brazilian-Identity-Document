@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "EP654213893",
+  "numero": "107301150",
+  "numero_lateral": "79462634650",
+  "local": "CANGUARITAMA-RN",
+  "data_emissao": "12/12/1983",
+  "assinatura_emissor": "CELINDO NITROV",
+  "observacoes": ""
+}
+```

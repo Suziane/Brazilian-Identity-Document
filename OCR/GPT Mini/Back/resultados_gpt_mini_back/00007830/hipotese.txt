@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "SC463377679",
+  "numero": "017941562299",
+  "numero_lateral": "619046366",
+  "local": "CUMBÉ-SE",
+  "data_emissao": "25/03/1950",
+  "assinatura_emissor": "MARIELEN ANIE",
+  "observacoes": "K;"
+}
+```

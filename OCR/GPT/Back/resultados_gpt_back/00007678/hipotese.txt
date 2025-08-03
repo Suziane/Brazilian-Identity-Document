@@ -1,0 +1,11 @@
+```json
+{
+    "código": "BC203597195",
+    "número": "14832408098",
+    "número_lateral": "321801698",
+    "local": "PRADO FERREIRA-PR",
+    "data_emissão": "31/03/1961",
+    "assinatura_emissor": "",
+    "observações": "EXERCE ATIVIDADE REMUNERADA"
+}
+```

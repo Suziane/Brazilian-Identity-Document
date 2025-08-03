@@ -1,0 +1,11 @@
+```json
+{
+  "código": "MG406189695",
+  "número": "29098953882",
+  "número lateral": "913297966",
+  "local": "SEBERI-RS",
+  "data emissão": "19/07/1996",
+  "assinatura emissor": "MENDEZ TURCATO",
+  "observações": "N;"
+}
+```

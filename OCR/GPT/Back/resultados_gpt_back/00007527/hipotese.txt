@@ -1,0 +1,11 @@
+```json
+{
+    "código": "SC57396150",
+    "número": "56220886428",
+    "número lateral": "689452925",
+    "local": "ITAPITANGA-BA",
+    "data emissão": "04/05/1980",
+    "assinatura emissor": "HOSTER FRAGOAS PO",
+    "observações": ""
+}
+```

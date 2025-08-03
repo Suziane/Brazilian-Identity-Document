@@ -1,0 +1,11 @@
+```json
+{
+  "código": "CE066055396",
+  "número": "62637951117",
+  "número_lateral": "09771916",
+  "local": "SÃO JOSÉ DO BONFIM-PB",
+  "data_emissão": "16/09/1998",
+  "assinatura_emissor": "MELLA IWAMI TIYOMI",
+  "observações": ""
+}
+```

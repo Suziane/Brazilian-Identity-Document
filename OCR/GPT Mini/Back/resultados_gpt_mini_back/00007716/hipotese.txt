@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "564428268798",
+  "numero": "159075075",
+  "numero_lateral": "",
+  "local": "ALVORADA-RS",
+  "data_emissao": "17/05/2002",
+  "assinatura_emissor": "LORETI CARANI",
+  "observacoes": ""
+}
+```

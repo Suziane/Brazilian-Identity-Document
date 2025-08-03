@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "64538152",
+  "numero": "90337364970",
+  "numero_lateral": "",
+  "local": "GUACUÍ-ES",
+  "data_emissao": "05/04/1987",
+  "assinatura_emissor": "IMÃ José Caio Gle",
+  "observacoes": ""
+}
+```

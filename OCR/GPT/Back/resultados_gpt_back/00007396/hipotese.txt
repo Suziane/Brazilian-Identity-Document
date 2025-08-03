@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "RS744288878",
+  "numero": "97295352257",
+  "numero_lateral": "935834721",
+  "local": "GUARINOS-GO",
+  "data_emissao": "26/08/2002",
+  "assinatura_emissor": "VENTUROLI OEST NUNES",
+  "observacoes": "EXERCE ATIVIDADE REMUNERADA;"
+}
+```

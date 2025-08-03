@@ -1,0 +1,11 @@
+```json
+{
+  "código": "SP896067468",
+  "número": "964145258520",
+  "número_lateral": "181296622",
+  "local": "LINDOESTE-PR",
+  "data_emissão": "12/03/2001",
+  "assinatura_emissor": "",
+  "observações": ""
+}
+```

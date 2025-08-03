@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "TO696509084",
+  "numero": "01639157161",
+  "numero_lateral": "896715346",
+  "local": "PEDREIRA-SP",
+  "data_emissao": "01/09/1952",
+  "assinatura_emissor": "",
+  "observacoes": ""
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "SC454849531",
+    "numero": "699721815",
+    "numero_lateral": "61031952906",
+    "local": "PINHALÃO-PR",
+    "data_emissao": "16/05/2002",
+    "assinatura_emissor": "UMERITA MONARI",
+    "observacoes": ""
+}
+```

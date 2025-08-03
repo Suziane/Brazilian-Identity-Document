@@ -1,0 +1,13 @@
+Aqui está o resultado em formato JSON para os campos solicitados:
+
+```json
+{
+    "codigo": "CE006374344",
+    "numero": "09668243436",
+    "numero_lateral": "322501764",
+    "local": "TESOURO-MT",
+    "data_emissao": "11/01/1973",
+    "assinatura_emissor": "BONOMI SENTO MO",
+    "observacoes": ""
+}
+```

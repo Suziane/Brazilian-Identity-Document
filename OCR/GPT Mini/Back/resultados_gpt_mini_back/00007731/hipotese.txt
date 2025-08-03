@@ -1,0 +1,15 @@
+Aqui está o resultado formatado em JSON, conforme solicitado:
+
+```json
+{
+    "codigo": "BA860152636",
+    "numero": "013167049",
+    "numero_lateral": "47406129450",
+    "local": "CAMPOS VERDES-GO",
+    "data_emissao": "06/03/1989",
+    "assinatura_emissor": "FORIGO MASSUO",
+    "observacoes": ""
+}
+```
+
+Se precisar de mais alguma coisa, é só avisar!

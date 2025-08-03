@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "",
+  "numero": "192208449",
+  "numero_lateral": "",
+  "local": "CURITIVA-PR",
+  "data_emissao": "13/01/1987",
+  "assinatura_emissor": "Fukai Domini",
+  "observacoes": ""
+}
+```

@@ -1,0 +1,15 @@
+Aqui está o resultado em formato JSON, baseado nas informações fornecidas da imagem:
+
+```json
+{
+  "codigo": "319303701",
+  "numero": "",
+  "numero_lateral": "",
+  "local": "IPIRA-SC",
+  "data_emissao": "30/04/1968",
+  "assinatura_emissor": "ZERBINATTI SELLIN",
+  "observacoes": ""
+}
+``` 
+
+Caso precise de algo mais, estou à disposição!

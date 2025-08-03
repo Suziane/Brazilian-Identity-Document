@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "PR79460726",
+    "numero": "09043498501",
+    "numero_lateral": "068731391",
+    "local": "PONTE NOVA-MG",
+    "data_emissao": "20/07/2000",
+    "assinatura_emissor": "ZANCA FEDEL NASS ALVES",
+    "observacoes": ""
+}
+```

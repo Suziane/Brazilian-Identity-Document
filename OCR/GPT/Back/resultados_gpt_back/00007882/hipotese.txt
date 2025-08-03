@@ -1,0 +1,11 @@
+```json
+{
+    "código": "MG792585445",
+    "número": "53907240347",
+    "número_lateral": "637962186",
+    "local": "VARZEDO-BA",
+    "data_emissao": "11/03/1952",
+    "assinatura_emissor": "CARAMORI PONGEL",
+    "observacoes": "C; T; B;"
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+    "código": "PB68869728",
+    "número": "18706228900",
+    "número_lateral": "367659904",
+    "local": "MANHUACU-MG",
+    "data_emissão": "04/07/2004",
+    "assinatura_emissor": "LOLY DRCIO JEISSY SOUZA",
+    "observações": "H;"
+}
+```

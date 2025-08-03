@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "RS843628904",
+  "numero": "684402424232",
+  "numero_lateral": "049422570",
+  "local": "GANDU-BA",
+  "data_emissao": "18/02/1953",
+  "assinatura_emissor": "NASTRI ROBINSON",
+  "observacoes": "M;"
+}
+```

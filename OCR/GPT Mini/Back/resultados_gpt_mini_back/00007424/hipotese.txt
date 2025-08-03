@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "P1348721782",
+  "numero": "91112826949",
+  "numero_lateral": "62371468",
+  "local": "IPITIRA-BA",
+  "data_emissao": "10/06/1993",
+  "assinatura_emissor": "FELIPE COUTELO ONE",
+  "observacoes": ""
+}
+```

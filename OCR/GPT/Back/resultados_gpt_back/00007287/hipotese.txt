@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "SC230742073",
+  "numero": "35296210929",
+  "numero_lateral": "969842479",
+  "local": "ALHANDRA-PB",
+  "data_emissao": "18/04/2003",
+  "assinatura_emissor": "SPERANDIO MA",
+  "observacoes": ""
+}
+```

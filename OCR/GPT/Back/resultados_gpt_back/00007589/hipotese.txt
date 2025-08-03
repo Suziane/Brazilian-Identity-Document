@@ -1,0 +1,11 @@
+```json
+{
+    "código": "PR508747946",
+    "número": "52307578429",
+    "número lateral": "302744292",
+    "local": "TAPIRA-PR",
+    "data emissão": "26/09/1987",
+    "assinatura emissor": "DURANT BLENDA",
+    "observações": ""
+}
+```

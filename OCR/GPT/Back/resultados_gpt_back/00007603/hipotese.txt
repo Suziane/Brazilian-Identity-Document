@@ -1,0 +1,11 @@
+```json
+{
+  "código": "MG518674032",
+  "número": "5005068140",
+  "número_lateral": "383039557",
+  "local": "PIRAPEMAS-MA",
+  "data_emissão": "24/07/2020",
+  "assinatura_emissor": "CAPOBIANCO BELLON LO",
+  "observações": ""
+}
+```

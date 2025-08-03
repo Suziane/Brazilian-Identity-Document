@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "BA286023409",
+    "numero": "68362360962",
+    "numero_lateral": "420220513",
+    "local": "CURIMATÁ-PI",
+    "data_emissao": "10/03/2019",
+    "assinatura_emissor": "SANCHEZ VALENCIAN",
+    "observacoes": ""
+}
+```

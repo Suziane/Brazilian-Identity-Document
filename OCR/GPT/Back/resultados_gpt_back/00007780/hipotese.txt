@@ -1,0 +1,11 @@
+```json
+{
+  "código": "SP432695208",
+  "número": "11399085068",
+  "número_lateral": "88126332",
+  "local": "CRUZ-CE",
+  "data_emissão": "13/11/1990",
+  "assinatura_emissor": "JIM TAHANA DU CAMPOS",
+  "observações": ""
+}
+```

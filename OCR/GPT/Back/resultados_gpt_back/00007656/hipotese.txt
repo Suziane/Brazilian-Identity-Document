@@ -1,0 +1,11 @@
+```json
+{
+  "código": "PB698220290",
+  "número": "15541067652",
+  "número lateral": "832318549",
+  "local": "MAUES-AM",
+  "data emissão": "09/07/1981",
+  "assinatura emissor": "COL SCUDELER ROSSI",
+  "observações": ""
+}
+```

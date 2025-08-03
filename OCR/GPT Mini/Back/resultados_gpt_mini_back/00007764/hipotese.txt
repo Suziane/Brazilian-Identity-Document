@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "573870174",
+  "numero": "7232058396",
+  "numero_lateral": "",
+  "local": "CITOLINA SP",
+  "data_emissao": "23/03/1962",
+  "assinatura_emissor": "",
+  "observacoes": ""
+}
+```

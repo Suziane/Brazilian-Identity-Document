@@ -1,0 +1,11 @@
+```json
+{
+    "código": "MT984274123",
+    "número": "41861769984",
+    "número_lateral": "720924980",
+    "local": "RUY BARBOSA-BA",
+    "data_emissão": "08/04/2014",
+    "assinatura_emissor": "NAKASAWA ROVERI C",
+    "observações": ""
+}
+```

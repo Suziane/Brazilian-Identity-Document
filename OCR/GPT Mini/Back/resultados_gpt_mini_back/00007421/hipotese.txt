@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "MA404032843",
+    "numero": "574881832",
+    "numero lateral": "88266700693",
+    "local": "GUARACIABA-SC",
+    "data emissao": "29/07/1963",
+    "assinatura emissor": "JONES TEJIN RASERA",
+    "observacoes": ""
+}
+```

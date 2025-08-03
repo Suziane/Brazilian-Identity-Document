@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "PA399627608",
+  "numero": "29236100291",
+  "numero_lateral": "797396434",
+  "local": "TEJUPÁ-SP",
+  "data_emissao": "31/08/2009",
+  "assinatura_emissor": "WILFREDO ARNA",
+  "observacoes": ""
+}
+```

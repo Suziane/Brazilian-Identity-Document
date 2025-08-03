@@ -1,0 +1,13 @@
+Aqui está o resultado do reconhecimento dos campos em formato JSON:
+
+```json
+{
+    "codigo": "",
+    "numero": "013167049",
+    "numero_lateral": "",
+    "local": "CAMPOS VERDES-GO",
+    "data_emissao": "06/03/1989",
+    "assinatura_emissor": "FORIGO MASSUO",
+    "observacoes": ""
+}
+```

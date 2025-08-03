@@ -1,0 +1,13 @@
+Aqui está o reconhecimento dos campos solicitados na imagem, organizado em um formato JSON:
+
+```json
+{
+    "codigo": "SP584585372",
+    "numero": "81058911843",
+    "numero_lateral": "811020930",
+    "local": "RUROPOLIS-PA",
+    "data_emissao": "22/09/2002",
+    "assinatura_emissor": "",
+    "observacoes": ""
+}
+```

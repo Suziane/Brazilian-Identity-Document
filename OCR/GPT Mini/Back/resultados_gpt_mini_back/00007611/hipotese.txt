@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "333390831",
+  "numero": "",
+  "numero_lateral": "",
+  "local": "DENISE-MT",
+  "data_emissao": "29/06/1958",
+  "assinatura_emissor": "TOMAKI SIMPLIC PEREIRA 14031444704 AM383840638",
+  "observacoes": "C;"
+}
+```

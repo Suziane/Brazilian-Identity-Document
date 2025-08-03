@@ -1,0 +1,13 @@
+Aqui está o resultado em formato JSON baseado nas informações que você forneceu:
+
+```json
+{
+  "codigo": "SP437273288",
+  "numero": "624822220242",
+  "numero_lateral": "419677702",
+  "local": "AFRANIO-PE",
+  "data_emissao": "30/10/2010",
+  "assinatura_emissor": "",
+  "observacoes": ""
+}
+```

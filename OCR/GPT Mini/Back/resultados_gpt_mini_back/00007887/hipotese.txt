@@ -1,0 +1,13 @@
+Aqui está o resultado em formato JSON baseado nas informações da imagem:
+
+```json
+{
+    "codigo": "P1Z296117328",
+    "numero": "715127380",
+    "numero_lateral": "715127380",
+    "local": "UBA-MG",
+    "data_emissao": "07/02/2019",
+    "assinatura_emissor": "COLETI ALFERRTAO MUCIN",
+    "observacoes": ""
+}
+```

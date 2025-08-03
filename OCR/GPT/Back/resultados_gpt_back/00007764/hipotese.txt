@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "FR29818758",
+    "numero": "7323954396",
+    "numero_lateral": "573870174",
+    "local": "SÃO PAULO - SP",
+    "data_emissao": "23/03/1962",
+    "assinatura_emissor": "",
+    "observacoes": ""
+}
+```

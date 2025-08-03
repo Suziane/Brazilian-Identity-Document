@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "CE214059846",
+    "numero": "05724284968",
+    "numero_lateral": "967293334",
+    "local": "SUMARÉ-SP",
+    "data_emissao": "14/09/1986",
+    "assinatura_emissor": "REINATO OSHIYAMA",
+    "observacoes": ""
+}
+```

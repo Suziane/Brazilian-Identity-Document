@@ -1,0 +1,11 @@
+```json
+{
+  "código": "RS181017663",
+  "número": "40162263455",
+  "número_lateral": "434913068",
+  "local": "NOVA FÁTIMA-BA",
+  "data_emissão": "29/10/2004",
+  "assinatura_emissor": "SOPHIA THIESEN CA",
+  "observações": "E:"
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "código": "MG390039724",
+  "número": "84541811657",
+  "número_lateral": "055834969",
+  "local": "MATRINCHÃ-GO",
+  "data_emissão": "07/03/1967",
+  "assinatura_emissor": "SHIGUEAKI YKE",
+  "observações": ""
+}
+```

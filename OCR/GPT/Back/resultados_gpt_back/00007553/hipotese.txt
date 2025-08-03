@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "GO809352581",
+  "numero": "60399768082",
+  "numero_lateral": "173396338",
+  "local": "MILAGRES-BA",
+  "data_emissao": "09/12/2004",
+  "assinatura_emissor": "",
+  "observacoes": ""
+}
+```

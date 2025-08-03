@@ -1,0 +1,11 @@
+```json
+{
+  "código": "BA704299188",
+  "número": "29692883465",
+  "número_lateral": "364110576",
+  "local": "ITAGIBÁ-BA",
+  "data_emissão": "13/12/2011",
+  "assinatura_emissor": "LAURINDA QUELHO",
+  "observações": "F;"
+}
+```

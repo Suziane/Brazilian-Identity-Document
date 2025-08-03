@@ -1,0 +1,11 @@
+```json
+{
+    "código": "MG418196860",
+    "número": "94782201430",
+    "número lateral": "188721054",
+    "local": "TIBAU-RN",
+    "data emissão": "23/09/1955",
+    "assinatura emissor": "",
+    "observações": ""
+}
+```

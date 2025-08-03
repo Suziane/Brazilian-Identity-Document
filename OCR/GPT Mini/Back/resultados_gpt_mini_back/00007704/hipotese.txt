@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "SP263001577",
+  "numero": "035543392",
+  "numero_lateral": "42766655122",
+  "local": "BOITUVA-SP",
+  "data_emissao": "14/08/1990",
+  "assinatura_emissor": "RHUANN SCHONENWERD Y DA ROCHA",
+  "observacoes": "A;"
+}
+```

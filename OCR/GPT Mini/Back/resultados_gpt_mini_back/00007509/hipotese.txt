@@ -1,0 +1,13 @@
+Aqui está o reconhecimento dos campos solicitados em formato JSON:
+
+```json
+{
+  "codigo": "42948284469",
+  "numero": "507636162",
+  "numero_lateral": "507636162",
+  "local": "FUNDAO-ES",
+  "data_emissao": "06/03/1965",
+  "assinatura_emissor": "FRANCYELLY C",
+  "observacoes": ""
+}
+```

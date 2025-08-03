@@ -1,0 +1,11 @@
+```json
+{
+  "código": "SC485403360",
+  "número": "16428319108",
+  "número_lateral": "601327231",
+  "local": "ÓLEO-SP",
+  "data_emissão": "27/08/1968",
+  "assinatura_emissor": "TAKINAGA BALDOCCHI",
+  "observações": "N;"
+}
+```

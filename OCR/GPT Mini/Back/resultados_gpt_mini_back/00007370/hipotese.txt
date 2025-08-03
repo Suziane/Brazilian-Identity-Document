@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "0524941387",
+    "numero": "8898715042",
+    "numero_lateral": "9313546250",
+    "local": "PACUARANA PR",
+    "data_emissao": "02/10/2008",
+    "assinatura_emissor": "ASSINATURA DO EMISSOR",
+    "observacoes": ""
+}
+```

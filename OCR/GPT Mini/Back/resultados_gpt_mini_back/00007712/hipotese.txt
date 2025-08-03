@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "SC327895987",
+    "numero": "12964571137",
+    "numero_lateral": "794578741",
+    "local": "MUCURI-BA",
+    "data_emissao": "27/03/2015",
+    "assinatura_emissor": "ASSINATURA DO PORTADOR",
+    "observacoes": ""
+}
+```

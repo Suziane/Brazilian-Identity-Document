@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "901464165",
+    "numero": "12763122091",
+    "numero_lateral": "",
+    "local": "MIRAGUAI-RS",
+    "data_emissao": "14/11/1957",
+    "assinatura_emissor": "BÍTELI MAULEN",
+    "observacoes": ""
+}
+```

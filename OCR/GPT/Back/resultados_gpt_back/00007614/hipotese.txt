@@ -1,0 +1,11 @@
+```json
+{
+  "código": "PA232260720",
+  "número": "49583428127",
+  "número lateral": "314015403",
+  "local": "NOVA ERA-MG",
+  "data emissão": "30/06/1988",
+  "assinatura emissor": "TADARINI PATTI FORGA",
+  "observações": ""
+}
+```

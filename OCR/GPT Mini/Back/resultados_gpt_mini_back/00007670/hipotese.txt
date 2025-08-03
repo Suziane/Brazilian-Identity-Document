@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "RS059082861",
+    "numero": "205351197",
+    "numero lateral": "40606897972",
+    "local": "SINOP-MT",
+    "data emissao": "28/01/1978",
+    "assinatura emissor": "MAGNOLI MERRHY KOT",
+    "observacoes": "Y:"
+}
+```

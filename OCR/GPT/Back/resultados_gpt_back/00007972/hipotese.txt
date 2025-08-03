@@ -1,0 +1,11 @@
+```json
+{
+  "código": "AB521090",
+  "número": "1971801735",
+  "número lateral": "72720270",
+  "local": "ARACAJU SE",
+  "data emissão": "20/11/1972",
+  "assinatura emissor": "",
+  "observações": "EXERCER ATIVIDADE REMUNERADA"
+}
+```

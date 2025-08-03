@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "AL568406760",
+    "numero": "552359944554",
+    "numero_lateral": "08987062",
+    "local": "GETULINA-SP",
+    "data_emissao": "28/01/1991",
+    "assinatura_emissor": "ROSHELLI RODERG",
+    "observacoes": ""
+}
+```

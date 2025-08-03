@@ -1,0 +1,13 @@
+Aqui está o resultado em formato JSON com os campos reconhecidos:
+
+```json
+{
+    "codigo": "PI348721782",
+    "numero": "91112826949",
+    "numero_lateral": "62371468",
+    "local": "IPIRÁ-BA",
+    "data_emissao": "10/06/1993",
+    "assinatura_emissor": "FELIPE COVIELO ONE",
+    "observacoes": ""
+}
+```

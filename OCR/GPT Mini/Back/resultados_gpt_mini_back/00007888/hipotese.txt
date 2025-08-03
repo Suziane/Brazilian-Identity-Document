@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "G0579249746",
+  "numero": "65917523572",
+  "numero_lateral": "692534784",
+  "local": "IGUAÇU-PR",
+  "data_emissao": "13/02/1991",
+  "assinatura_emissor": "NICHETTI HERS",
+  "observacoes": ""
+}
+```

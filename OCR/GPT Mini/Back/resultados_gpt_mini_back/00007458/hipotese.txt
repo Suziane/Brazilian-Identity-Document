@@ -1,0 +1,13 @@
+Aqui está o resultado em formato JSON com os dados reconhecidos:
+
+```json
+{
+    "codigo": "PE069282046",
+    "numero": "915798075",
+    "numero_lateral": "92045418675",
+    "local": "KALORÉ-PR",
+    "data_emissao": "12/06/2011",
+    "assinatura_emissor": "CAMILA PELA MIA",
+    "observacoes": ""
+}
+```

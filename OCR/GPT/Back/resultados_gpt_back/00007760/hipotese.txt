@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "MG191897201",
+  "numero": "25216309157",
+  "numero_lateral": "586496350",
+  "local": "GUAREÍ-SP",
+  "data_emissao": "28/03/1998",
+  "assinatura_emissor": "MOSCARDINI M",
+  "observacoes": ""
+}
+```

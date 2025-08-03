@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "SC879979968",
+  "numero": "27293154",
+  "numero_lateral": "33400163784",
+  "local": "ITAJAI-SC",
+  "data_emissao": "12/07/1990",
+  "assinatura_emissor": "SELLIN MASSUE",
+  "observacoes": ""
+}
+```

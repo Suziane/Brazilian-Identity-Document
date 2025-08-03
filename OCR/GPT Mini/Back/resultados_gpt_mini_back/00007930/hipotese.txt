@@ -1,0 +1,13 @@
+Aqui está o resultado organizado em um arquivo JSON com os campos reconhecidos:
+
+```json
+{
+    "código": "SC433905426",
+    "número": "29533565424",
+    "número lateral": "472879828",
+    "local": "NOVA GLÓRIA-GO",
+    "data emissão": "02/03/1971",
+    "assinatura emissor": "ALTMAYER ERICA E",
+    "observações": ""
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "",
+  "numero": "999254033",
+  "numero_lateral": "82941186769",
+  "local": "BALIZA-GO",
+  "data_emissao": "21/12/1973",
+  "assinatura_emissor": "RAUEN TREMEL MAN DA MOTA",
+  "observacoes": ""
+}
+```

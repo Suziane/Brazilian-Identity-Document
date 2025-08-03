@@ -1,0 +1,11 @@
+```json
+{
+  "código": "AP280340577",
+  "número": "42250712482",
+  "número_lateral": "130822401",
+  "local": "PINHEIRO PRETO-SC",
+  "data_emissão": "08/10/2001",
+  "assinatura_emissor": "",
+  "observações": ""
+}
+```

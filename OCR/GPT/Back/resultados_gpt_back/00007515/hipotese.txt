@@ -1,0 +1,11 @@
+```json
+{
+  "código": "PR097975160",
+  "número": "51063167945",
+  "número_lateral": "534935425",
+  "local": "SÃO JOÃO DEL REI-MG",
+  "data_emissão": "18/09/1969",
+  "assinatura_emissor": "",
+  "observações": ""
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "código": "AB123456789",
+  "número": "4772490681",
+  "número_lateral": "834164587",
+  "local": "SANTA MARIA DO SUAUI-MG",
+  "data_emissão": "17/12/1961",
+  "assinatura_emissor": "",
+  "observações": ""
+}
+```

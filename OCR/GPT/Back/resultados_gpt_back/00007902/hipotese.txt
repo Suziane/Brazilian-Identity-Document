@@ -1,0 +1,11 @@
+```json
+{
+  "código": "SP936677630",
+  "número": "25640739050",
+  "número lateral": "407195877",
+  "local": "PATIS-MG",
+  "data emissão": "18/02/2003",
+  "assinatura emissor": "ROSA CALDENTE CH RODRIGUES",
+  "observações": "A;"
+}
+```

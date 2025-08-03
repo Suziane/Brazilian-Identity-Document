@@ -1,0 +1,13 @@
+Aqui está o resultado no formato JSON com os campos solicitados:
+
+```json
+{
+    "codigo": "BA978591903",
+    "numero": "15525961619",
+    "numero_lateral": "828071961",
+    "local": "LACUNA-SC",
+    "data_emissao": "10/04/1992",
+    "assinatura_emissor": "LISBONA MARIN",
+    "observacoes": ""
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "código": "MG944989152",
+  "número": "76983540830",
+  "número lateral": "358417243",
+  "local": "ITQUIRA-MT",
+  "data emissão": "18/06/1961",
+  "assinatura emissor": "FUMES TELEZE",
+  "observações": "F;"
+}
+```

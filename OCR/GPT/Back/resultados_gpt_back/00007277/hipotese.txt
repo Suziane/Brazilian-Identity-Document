@@ -1,0 +1,11 @@
+```json
+{
+  "código": "BA000201196",
+  "número": "88553347459",
+  "número lateral": "435969148",
+  "local": "TANGARÁ-SC",
+  "data emissão": "26/01/1961",
+  "assinatura emissor": "RAFFOUL HEL",
+  "observações": ""
+}
+```

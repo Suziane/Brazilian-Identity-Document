@@ -1,0 +1,11 @@
+```json
+{
+    "código": "SP803281359",
+    "número": "28414298366",
+    "número_lateral": "241728349",
+    "local": "POJUCA-BA",
+    "data_emissão": "01/12/1970",
+    "assinatura_emissor": "CARMO MEGA ROSAT",
+    "observações": "G"
+}
+```

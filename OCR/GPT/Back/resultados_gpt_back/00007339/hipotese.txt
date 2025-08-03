@@ -1,0 +1,11 @@
+```json
+{
+  "código": "BA179957319",
+  "número": "40106086407",
+  "número lateral": "938305869",
+  "local": "ARAÇAGI-PB",
+  "data emissão": "02/02/1955",
+  "assinatura emissor": "HELMKRECHT ALGE B",
+  "observações": ""
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "MG005351385",
+    "numero": "23702041725",
+    "numero_lateral": "261004499",
+    "local": "ITIRAPINA-SP",
+    "data_emissao": "09/05/1955",
+    "assinatura_emissor": "KATIA NUARA APAMAI",
+    "observacoes": ""
+}
+```

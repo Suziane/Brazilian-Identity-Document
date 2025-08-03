@@ -1,0 +1,13 @@
+Aqui está o resultado em formato JSON com os campos reconhecidos:
+
+```json
+{
+    "codigo": "SP515468710",
+    "numero": "03639210741",
+    "numero lateral": "578289988",
+    "local": "MARAU - RS",
+    "data emissao": "06/12/2006",
+    "assinatura emissor": "",
+    "observacoes": ""
+}
+```

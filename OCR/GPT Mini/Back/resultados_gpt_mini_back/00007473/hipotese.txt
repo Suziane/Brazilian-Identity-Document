@@ -1,0 +1,13 @@
+Aqui está o resultado formatado em JSON com os dados reconhecidos da imagem:
+
+```json
+{
+    "codigo": "P0609282046",
+    "numero": "920454198673",
+    "numero_lateral": "1579075",
+    "local": "KALCÓRE-PR",
+    "data_emissao": "12/06/2011",
+    "assinatura_emissor": "CAMILA PELA MIA",
+    "observacoes": ""
+}
+```

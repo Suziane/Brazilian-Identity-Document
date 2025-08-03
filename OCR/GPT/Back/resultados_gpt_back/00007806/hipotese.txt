@@ -1,0 +1,11 @@
+```json
+{
+  "código": "RN654620794",
+  "número": "92927152545",
+  "número_lateral": "703573713",
+  "local": "PIÚMA-ES",
+  "data_emissão": "18/09/1968",
+  "assinatura_emissor": "",
+  "observações": "A;"
+}
+```

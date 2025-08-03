@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "GO831629876",
+  "numero": "27419223667",
+  "numero_lateral": "584272107",
+  "local": "ALAGOA-MG",
+  "data_emissao": "21/05/1957",
+  "assinatura_emissor": "PRADELLA DIAN",
+  "observacoes": ""
+}
+```

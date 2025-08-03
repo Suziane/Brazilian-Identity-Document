@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "PR845177650",
+  "numero": "2053351101",
+  "numero lateral": "65316521797",
+  "local": "IPIRANGA DO SUL-RS",
+  "data emisao": "21/12/1990",
+  "assinatura emissor": "PITALUGA TABA",
+  "observacoes": ""
+}
+```

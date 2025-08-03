@@ -1,0 +1,11 @@
+```json
+{
+  "numero": "404803730397",
+  "codigo": "MG63529534",
+  "numero_lateral": "320963245",
+  "local": "CAPELA-SE",
+  "data_emissao": "05/12/1959",
+  "assinatura_emissor": "",
+  "observacoes": "B;"
+}
+```

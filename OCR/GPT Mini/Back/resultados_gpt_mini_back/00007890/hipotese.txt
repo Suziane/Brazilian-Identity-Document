@@ -1,0 +1,11 @@
+```json
+{
+  "código": "SP685230759",
+  "número": "68120190790",
+  "número_lateral": "977833451",
+  "local": "ANDARAÍ-BA",
+  "data_emissão": "04/06/1971",
+  "assinatura_emissor": "SAROKA COSSETTI",
+  "observações": ""
+}
+```

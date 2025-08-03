@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "RJ118388879",
+    "numero": "82941186769",
+    "numero_lateral": "99254033",
+    "local": "BALIZA-GO",
+    "data_emissao": "21/12/1973",
+    "assinatura_emissor": "RAUEN TEMEL MAN DA MOTA",
+    "observacoes": ""
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "código": "SP010489971",
+  "número": "69578944394",
+  "número lateral": "800418534",
+  "local": "ARARICA-RS",
+  "data emissão": "01/01/1957",
+  "assinatura emissor": "RAGASSI BOSQUE",
+  "observações": ""
+}
+```

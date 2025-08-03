@@ -1,0 +1,13 @@
+Aqui está o resultado no formato JSON com os campos reconhecidos:
+
+```json
+{
+  "codigo": "GO831629876",
+  "numero": "27419223667",
+  "numero_lateral": "584721207",
+  "local": "ALAGOAS-MG",
+  "data_emissao": "21/05/1957",
+  "assinatura_emissor": "PRADELLA DIAN",
+  "observacoes": ""
+}
+```

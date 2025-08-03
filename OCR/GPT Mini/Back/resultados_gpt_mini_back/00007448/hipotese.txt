@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "PRO31260293",
+  "numero": "82922843286",
+  "numero_lateral": "085995693",
+  "local": "MEDINA-MG",
+  "data_emissao": "03/06/2000",
+  "assinatura_emissor": "RONDELLO GADY V",
+  "observacoes": "K;"
+}
+```

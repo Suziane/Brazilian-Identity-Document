@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "457522032",
+    "numero": "33777014070",
+    "numero_lateral": "",
+    "local": "GENTIL-RS",
+    "data_emissao": "15/03/1991",
+    "assinatura_emissor": "PESSE OTTONE MACRI",
+    "observacoes": ""
+}
+```

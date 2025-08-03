@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "515749310",
+    "numero": "",
+    "numero_lateral": "",
+    "local": "GUARULHOS-SP",
+    "data_emissao": "17/12/1966",
+    "assinatura_emissor": "GRIN KEBIN 109H TEIXEIRA",
+    "observacoes": ""
+}
+```

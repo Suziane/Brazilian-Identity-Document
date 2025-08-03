@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "GO427460457",
+  "numero": "78904184901",
+  "numero_lateral": "167640510",
+  "local": "IBITITARA-BA",
+  "data_emissao": "21/06/1952",
+  "assinatura_emissor": "",
+  "observacoes": ""
+}
+```

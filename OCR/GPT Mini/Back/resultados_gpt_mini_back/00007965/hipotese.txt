@@ -1,0 +1,13 @@
+Aqui está o resultado organizado em um arquivo JSON com os dados reconhecidos da imagem:
+
+```json
+{
+    "codigo": "SE460639922",
+    "numero": "42070385635",
+    "numero_lateral": "353678595",
+    "local": "ITALVA-RJ",
+    "data_emissao": "18/04/1951",
+    "assinatura_emissor": "SIA BUNCANA J",
+    "observacoes": "Y;"
+}
+```

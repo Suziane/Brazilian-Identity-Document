@@ -1,0 +1,13 @@
+Aqui está o resultado organizado em um formato JSON conforme solicitado:
+
+```json
+{
+    "codigo": "181296622",
+    "numero": "964145252520",
+    "numero_lateral": "181296622",
+    "local": "LINDOESTE-PR",
+    "data_emissao": "12/03/2001",
+    "assinatura_emissor": "",
+    "observacoes": "VARSTREIDLE ST"
+}
+```

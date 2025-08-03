@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "MG802184608",
+    "numero": "21520881252",
+    "numero_lateral": "949485653",
+    "local": "CRISTALÂNDIA DO PIAUÍ-PI",
+    "data_emissao": "14/05/1999",
+    "assinatura_emissor": "",
+    "observacoes": ""
+}
+```

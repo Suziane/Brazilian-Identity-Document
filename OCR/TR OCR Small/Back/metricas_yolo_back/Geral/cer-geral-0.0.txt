@@ -1,0 +1,7 @@
+0 total_files 709 mean_cer 0.00321 std_cer 0.0181 success 686 error 23
+1 total_files 710 mean_cer 0.01613 std_cer 0.04673 success 612 error 98
+2 total_files 687 mean_cer 0.00226 std_cer 0.0168 success 674 error 13
+3 total_files 710 mean_cer 0.06084 std_cer 0.08041 success 372 error 338
+4 total_files 701 mean_cer 0.03638 std_cer 0.09734 success 591 error 110
+5 total_files 645 mean_cer 0.04687 std_cer 0.10311 success 416 error 229
+6 total_files 276 mean_cer 0.69913 std_cer 0.40317 success 23 error 253

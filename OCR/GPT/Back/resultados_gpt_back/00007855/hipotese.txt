@@ -1,0 +1,11 @@
+```json
+{
+    "código": "MG034254946",
+    "número": "94299340794",
+    "número lateral": "541409",
+    "local": "INIMUTABA-MG",
+    "data emissão": "02/05/1997",
+    "assinatura emissor": "BENSON KRIKOR CHEIGO",
+    "observações": ""
+}
+```

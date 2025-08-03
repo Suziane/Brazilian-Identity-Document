@@ -1,0 +1,11 @@
+```json
+{
+    "código": "2R487C05855",
+    "número": "38775006841",
+    "número_lateral": "649295448",
+    "local": "JAPI-RN",
+    "data_emissão": "19/12/1987",
+    "assinatura_emissor": "INAMASSU VERIS",
+    "observações": "K;"
+}
+```

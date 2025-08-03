@@ -1,0 +1,13 @@
+Aqui está o reconhecimento dos campos solicitados no formato JSON:
+
+```json
+{
+    "codigo": "M320312048",
+    "numero": "50586071713",
+    "numero lateral": "954323165",
+    "local": "TACIBA-SP",
+    "data emissao": "19/11/1953",
+    "assinatura emissor": "ADALIR MAZELLI",
+    "observacoes": "P; C; C;"
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "R0347185401",
+    "numero": "55619403683",
+    "numero lateral": "340748385",
+    "local": "IMBITUVA-PR",
+    "data_emissao": "06/01/1983",
+    "assinatura_emissor": "CERETO CHEI",
+    "observacoes": ""
+}
+```

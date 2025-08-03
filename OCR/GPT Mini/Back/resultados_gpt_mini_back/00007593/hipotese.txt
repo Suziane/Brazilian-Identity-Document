@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "900857930353",
+  "numero": "713596938",
+  "numero_lateral": "713596938",
+  "local": "CARUARU-PE",
+  "data_emissao": "17/07/2014",
+  "assinatura_emissor": "PALARETI BELLOIS CAMPOS",
+  "observacoes": ""
+}
+```

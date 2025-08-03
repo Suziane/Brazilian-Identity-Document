@@ -1,0 +1,11 @@
+```json
+{
+    "numero": "30999614668",
+    "codigo": "MA034739163",
+    "numero_lateral": "780297645",
+    "local": "BANANAL-SP",
+    "data_emissao": "17/08/1980",
+    "assinatura_emissor": "SATOW BONIM NAR",
+    "observacoes": ""
+}
+```

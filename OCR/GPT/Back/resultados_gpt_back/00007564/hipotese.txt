@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "SC536866612",
+  "numero": "17809884674",
+  "numero_lateral": "76866906",
+  "local": "COLUNA-MG",
+  "data_emissao": "14/05/1950",
+  "assinatura_emissor": "",
+  "observacoes": ""
+}
+```

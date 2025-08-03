@@ -1,0 +1,11 @@
+```json
+{
+  "código": "RN040796798",
+  "número": "66279130482",
+  "número_lateral": "753619394",
+  "local": "CANOCIM DE SÃO FÉLIX-PE",
+  "data_emissão": "07/04/2009",
+  "assinatura_emissor": "",
+  "observações": ""
+}
+```

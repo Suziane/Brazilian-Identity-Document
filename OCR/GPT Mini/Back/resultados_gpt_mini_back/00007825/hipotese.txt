@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "SP432695208",
+    "numero": "113990360568",
+    "numero_lateral": "88126332",
+    "local": "CRUZ-CE",
+    "data_emissao": "13/11/1990",
+    "assinatura_emissor": "JIM MALLARD DO CAMPUS",
+    "observacoes": ""
+}
+```

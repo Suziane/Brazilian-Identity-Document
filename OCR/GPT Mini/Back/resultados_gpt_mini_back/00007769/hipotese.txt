@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "465656562",
+  "numero": "52286346119",
+  "numero_lateral": "J;",
+  "local": "SALTINHO-SC",
+  "data_emissao": "01/02/1981",
+  "assinatura_emissor": "NACARATTO ELYS J",
+  "observacoes": ""
+}
+```

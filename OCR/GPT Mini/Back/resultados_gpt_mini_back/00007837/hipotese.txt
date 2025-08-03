@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "RS947153466",
+  "numero": "366779384",
+  "numero_lateral": "",
+  "local": "CARRANCAS-MG",
+  "data_emissao": "10/07/1986",
+  "assinatura_emissor": "ACQUATI VIOLETA FERNANDES",
+  "observacoes": "E; M;"
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+    "código": "SC853697507",
+    "número": "21671053266",
+    "número_lateral": "344618962",
+    "local": "OURIZONA-PR",
+    "data_emissão": "27/05/1958",
+    "assinatura_emissor": "SAMBRANO BARE",
+    "observações": "U"
+}
+```

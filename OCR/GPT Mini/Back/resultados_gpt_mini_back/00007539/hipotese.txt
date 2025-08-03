@@ -1,0 +1,13 @@
+Aqui está o resultado em formato JSON com os dados reconhecidos da imagem:
+
+```json
+{
+    "codigo": "PR294431220",
+    "numero": "328395951",
+    "numero lateral": "99450471139",
+    "local": "UTINGA-BA",
+    "data emissao": "14/11/1997",
+    "assinatura emissor": "DAI CARNIZELLO",
+    "observacoes": ""
+}
+```

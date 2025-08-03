@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "PA988049307",
+  "numero": "27904794416",
+  "numero_lateral": "102040158",
+  "local": "BELEM-AL",
+  "data_emissao": "02/10/1967",
+  "assinatura_emissor": "LORENA MAIKON",
+  "observacoes": ""
+}
+```

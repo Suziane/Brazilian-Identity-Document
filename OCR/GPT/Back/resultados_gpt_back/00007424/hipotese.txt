@@ -1,0 +1,11 @@
+```json
+{
+  "código": "PI348721782",
+  "número": "9112826949",
+  "número_lateral": "62371468",
+  "local": "IPIRA-BA",
+  "data_emissão": "10/06/1993",
+  "assinatura_emissor": "FELIPE OVIEDO CNE",
+  "observações": ""
+}
+```

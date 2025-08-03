@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "72424909",
+  "numero": "766793007781",
+  "numero_lateral": "72424909",
+  "local": "COTIA-SP",
+  "data_emissao": "26/09/1951",
+  "assinatura_emissor": "MATSUURA PULIE",
+  "observacoes": ""
+}
+```

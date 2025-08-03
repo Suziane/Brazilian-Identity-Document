@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "G011573449",
+    "numero": "1201167711",
+    "numero_lateral": "957949039",
+    "local": "HIDROLÂNDIA-CE",
+    "data_emissao": "09/02/1954",
+    "assinatura_emissor": "BRYAN GENSON",
+    "observacoes": ""
+}
+```

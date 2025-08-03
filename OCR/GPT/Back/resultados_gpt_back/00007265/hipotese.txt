@@ -1,0 +1,11 @@
+```json
+{
+  "código": "RS329378995",
+  "número": "44494936392",
+  "número_lateral": "956702858",
+  "local": "MANTENA-MG",
+  "data_emissão": "20/11/1984",
+  "assinatura_emissor": "NARUMOTO TASSI",
+  "observações": ""
+}
+```

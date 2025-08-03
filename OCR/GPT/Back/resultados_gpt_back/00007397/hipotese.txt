@@ -1,0 +1,11 @@
+```json
+{
+    "código": "MG792393734",
+    "número": "22141430343",
+    "número_lateral": "61060627",
+    "local": "NOBRES-MT",
+    "data_emissão": "19/12/1990",
+    "assinatura_emissor": "WEST PERRACINI M",
+    "observações": ""
+}
+```

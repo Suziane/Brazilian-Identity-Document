@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "MG534844611",
+  "numero": "05829689205",
+  "numero_lateral": "676753227",
+  "local": "TEJUPÁ-SP",
+  "data_emissao": "25/07/2012",
+  "assinatura_emissor": "",
+  "observacoes": "G;"
+}
+```

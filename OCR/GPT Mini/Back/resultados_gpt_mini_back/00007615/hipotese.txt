@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "834164587",
+  "numero": "4772490681",
+  "numero_lateral": "",
+  "local": "CRISTALINA DO SUL",
+  "data_emissao": "17/12/1961",
+  "assinatura_emissor": "",
+  "observacoes": ""
+}
+```

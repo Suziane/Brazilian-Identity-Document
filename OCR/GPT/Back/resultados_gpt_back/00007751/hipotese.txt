@@ -1,0 +1,11 @@
+```json
+{
+  "código": "CE006374344",
+  "número": "09668243436",
+  "número_lateral": "322501764",
+  "local": "TESOURO-MT",
+  "data_emissão": "11/01/1973",
+  "assinatura_emissor": "RONOMI SENTO MO",
+  "observações": ""
+}
+```

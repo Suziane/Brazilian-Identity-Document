@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "174283382",
+  "numero": "49536877156",
+  "numero_lateral": "BATAQUASSU-MS",
+  "local": "BATAQUASSU-MS",
+  "data_emissao": "04/07/1995",
+  "assinatura_emissor": "BARTÃO PARAY",
+  "observacoes": ""
+}
+```

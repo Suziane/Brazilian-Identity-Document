@@ -1,0 +1,13 @@
+Aqui está o resultado em formato JSON:
+
+```json
+{
+    "codigo": "081481748",
+    "numero": "95157827751",
+    "numero lateral": "",
+    "local": "IPERÓ-SP",
+    "data emissao": "05/01/2011",
+    "assinatura emissor": "ANELLI PEZETA",
+    "observacoes": ""
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "BA768942653",
+  "numero": "324994964",
+  "numero_lateral": "38287107438",
+  "local": "MURIBECA-SE",
+  "data_emissao": "11/02/1963",
+  "assinatura_emissor": "LAUAR ANNI NOEMI ARAUJO",
+  "observacoes": ""
+}
+```

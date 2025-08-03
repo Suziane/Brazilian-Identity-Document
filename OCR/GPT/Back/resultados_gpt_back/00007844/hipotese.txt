@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "SP2353037",
+    "numero": "00681777410",
+    "numero_lateral": "381561325",
+    "local": "JEREMOABO-BA",
+    "data_emissao": "03/10/1958",
+    "assinatura_emissor": "LUZIARE RODA CAT",
+    "observacoes": ""
+}
+```

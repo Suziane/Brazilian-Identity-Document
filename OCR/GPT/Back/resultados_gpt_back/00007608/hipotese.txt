@@ -1,0 +1,11 @@
+```json
+{
+    "código": "SP477917537",
+    "número": "13540205362",
+    "número_lateral": "291524057",
+    "local": "CAMAMU-BA",
+    "data_emissão": "30/04/1989",
+    "assinatura_emissor": "",
+    "observações": "X;"
+}
+```

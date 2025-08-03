@@ -1,0 +1,11 @@
+```json
+{
+    "código": "CE645521090",
+    "número": "48718601735",
+    "número lateral": "72720270",
+    "local": "ARAÇAGI-PB",
+    "data emissão": "20/11/1972",
+    "assinatura emissor": "",
+    "observações": "N; G; Y; EXERCE ATIVIDADE REMUNERADA;"
+}
+```

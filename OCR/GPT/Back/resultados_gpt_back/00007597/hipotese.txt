@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "AL117170175",
+  "numero": "52084853217",
+  "numero_lateral": "794813965",
+  "local": "COLINAS-MA",
+  "data_emissao": "01/03/1951",
+  "assinatura_emissor": "UEHARA HELON BRAGA",
+  "observacoes": ""
+}
+```

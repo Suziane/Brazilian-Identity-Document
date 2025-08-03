@@ -1,0 +1,11 @@
+```json
+{
+  "código": "MG514198562",
+  "número": "43327055957",
+  "número lateral": "180421514",
+  "local": "CAPINZAL-SC",
+  "data emissão": "15/12/1952",
+  "assinatura emissor": "CANDEIRO TOZET CALDEIRA",
+  "observações": ""
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "SC169449856",
+  "numero": "44962793472",
+  "numero_lateral": "5727621",
+  "local": "RIACHAC-PB",
+  "data_emissao": "12/01/1985",
+  "assinatura_emissor": "KOPF KLAUSS KATTY",
+  "observacoes": ""
+}
+```

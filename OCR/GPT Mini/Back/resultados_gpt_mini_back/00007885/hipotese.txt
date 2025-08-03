@@ -1,0 +1,15 @@
+Aqui está o reconhecimento dos campos solicitados, organizado em um formato JSON:
+
+```json
+{
+  "codigo": "G0673732306",
+  "numero": "95830429141",
+  "numero_lateral": "029111333",
+  "local": "BARRO-CE",
+  "data_emissao": "10/07/1996",
+  "assinatura_emissor": "BERKOVITZ MU",
+  "observacoes": ""
+}
+```
+
+Caso precise de mais alguma coisa, é só avisar!

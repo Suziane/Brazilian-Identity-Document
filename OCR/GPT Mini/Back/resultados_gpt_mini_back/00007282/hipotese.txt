@@ -1,0 +1,15 @@
+Claro! Aqui está o reconhecimento dos campos solicitados, organizado em um formato JSON:
+
+```json
+{
+  "codigo": "369469459999",
+  "numero": "66162700",
+  "numero_lateral": "66162700",
+  "local": "PARISI-SP",
+  "data_emissao": "20/02/1959",
+  "assinatura_emissor": "ESTHER HETSUKO",
+  "observacoes": ""
+}
+``` 
+
+Caso precise de mais alguma coisa, é só avisar!

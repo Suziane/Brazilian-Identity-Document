@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "BA318443536",
+    "numero": "69117003543",
+    "numero_lateral": "871197757",
+    "local": "CUPIRA-PE",
+    "data_emissao": "21/05/1969",
+    "assinatura_emissor": "JOSY TORETTI",
+    "observacoes": ""
+}
+```

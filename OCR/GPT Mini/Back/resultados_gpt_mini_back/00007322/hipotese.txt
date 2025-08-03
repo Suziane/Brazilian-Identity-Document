@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "MG247573904",
+  "numero": "293736176",
+  "numero_lateral": "293736176",
+  "local": "ACRELÂNDIA-AC",
+  "data_emissao": "24/09/2007",
+  "assinatura_emissor": "TERUMI GOBÔ SÃO",
+  "observacoes": ""
+}
+```

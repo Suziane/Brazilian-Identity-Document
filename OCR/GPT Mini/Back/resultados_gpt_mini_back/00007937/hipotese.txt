@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "MG6719800070",
+    "numero": "05083336801",
+    "numero_lateral": "603395875",
+    "local": "ROTEIRO-AL",
+    "data_emissao": "07/03/1983",
+    "assinatura_emissor": "NATALHA CARM",
+    "observacoes": ""
+}
+```

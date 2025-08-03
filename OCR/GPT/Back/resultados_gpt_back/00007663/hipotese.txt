@@ -1,0 +1,11 @@
+```json
+{
+  "código": "RN106915587",
+  "número": "12661889950",
+  "número_lateral": "686420242",
+  "local": "IPABA-MG",
+  "data_emissão": "25/10/1972",
+  "assinatura_emissor": "MARCON SILVEIRASSO LIMA",
+  "observações": "B:"
+}
+```

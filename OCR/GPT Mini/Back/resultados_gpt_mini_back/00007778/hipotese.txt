@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "SP128677751",
+    "numero": "133316551",
+    "numero_lateral": "39704780754",
+    "local": "PINHAIS-PR",
+    "data_emissao": "31/07/1986",
+    "assinatura_emissor": "MIYATAKE CONTA",
+    "observacoes": ""
+}
+```

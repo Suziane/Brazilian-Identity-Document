@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "S2725170600",
+    "numero": "61569860328",
+    "numero_lateral": "79754329",
+    "local": "JURIPIRANGA-PB",
+    "data_emissao": "12/03/1968",
+    "assinatura_emissor": "SPOILACH SOLANGE SAVAN",
+    "observacoes": ""
+}
+```

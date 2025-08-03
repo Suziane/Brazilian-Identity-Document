@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "050804931365",
+  "numero": "668401564",
+  "numero_lateral": "668401564",
+  "local": "CURRAL DE DENTRO-MG",
+  "data_emissao": "13/12/1961",
+  "assinatura_emissor": "SCHELINI KANDANI",
+  "observacoes": "L"
+}
+```

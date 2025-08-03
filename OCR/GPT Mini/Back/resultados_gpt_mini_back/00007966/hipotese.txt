@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "MG506945169",
+    "numero": "74175619405",
+    "numero_lateral": "595648557",
+    "local": "UNAI - MG",
+    "data_emissao": "20/02/1970",
+    "assinatura_emissor": "DETRAN PR (PARANÁ)",
+    "observacoes": ""
+}
+```

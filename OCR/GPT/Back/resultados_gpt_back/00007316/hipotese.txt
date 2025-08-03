@@ -1,0 +1,11 @@
+```json
+{
+  "código": "MC247573904",
+  "número": "88274346644",
+  "número_lateral": "293736176",
+  "local": "EIRLANDIA-AC",
+  "data_emissão": "24/09/2007",
+  "assinatura_emissor": "",
+  "observações": "TEROMI GOBBO SIERAN"
+}
+```

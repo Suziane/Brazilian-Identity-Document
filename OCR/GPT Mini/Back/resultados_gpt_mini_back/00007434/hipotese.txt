@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "MGS96745690",
+  "numero": "23613608128",
+  "numero_lateral": "021478",
+  "local": "NILOPOLIS-RJ",
+  "data_emissao": "29/11/1951",
+  "assinatura_emissor": "EUTA BENNETT GUI",
+  "observacoes": ""
+}
+```

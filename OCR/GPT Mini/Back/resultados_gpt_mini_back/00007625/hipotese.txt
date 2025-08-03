@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "",
+  "numero": "585051873",
+  "numero_lateral": "05263959447",
+  "local": "JUARA-MT",
+  "data_emissao": "01/03/2000",
+  "assinatura_emissor": "MS756999818",
+  "observacoes": ""
+}
+```

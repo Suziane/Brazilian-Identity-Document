@@ -1,0 +1,13 @@
+Aqui está o resultado do reconhecimento dos campos em formato JSON:
+
+```json
+{
+  "codigo": "SC957597092",
+  "numero": "39089739",
+  "numero_lateral": "19434587078",
+  "local": "MONÇÃO-MA",
+  "data_emissao": "30/03/2009",
+  "assinatura_emissor": "KANN YUGO UEZI",
+  "observacoes": ""
+}
+```

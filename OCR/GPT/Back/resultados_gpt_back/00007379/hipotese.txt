@@ -1,0 +1,11 @@
+```json
+{
+  "código": "MG174397952",
+  "número": "56319319789",
+  "número_lateral": "018103560",
+  "local": "BARRA D ALCÂNTARA-PI",
+  "data_emissão": "28/03/2004",
+  "assinatura_emissor": "FRASATTO GERMANO",
+  "observações": "Z:"
+}
+```

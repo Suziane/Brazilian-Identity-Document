@@ -1,0 +1,11 @@
+```json
+{
+    "código": "PB455114913",
+    "número": "68541464770",
+    "número_lateral": "044455779",
+    "local": "CUJUBIM-RO",
+    "data_emissao": "25/08/1972",
+    "assinatura_emissor": "",
+    "observações": ""
+}
+```

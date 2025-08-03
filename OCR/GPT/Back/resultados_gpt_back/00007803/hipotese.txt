@@ -1,0 +1,11 @@
+```json
+{
+  "código": "PI296117328",
+  "número": "25845111966",
+  "número_lateral": "715127380",
+  "local": "UBÁ - MG",
+  "data_emissão": "07/02/2019",
+  "assinatura_emissor": "",
+  "observações": ""
+}
+```

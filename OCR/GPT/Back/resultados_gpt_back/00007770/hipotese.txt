@@ -1,0 +1,11 @@
+```json
+{
+  "código": "PR664363774",
+  "número": "20985251857",
+  "número_lateral": "296196582",
+  "local": "OROCO-PE",
+  "data_emissao": "20/05/2010",
+  "assinatura_emissor": "RUSCA VELINO BOUF",
+  "observações": "C: X. D. EXERCE ATIVIDADE REMUNERADA:"
+}
+```

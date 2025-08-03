@@ -1,0 +1,13 @@
+Aqui está o resultado dos campos reconhecidos em formato JSON:
+
+```json
+{
+    "codigo": "MG191897201",
+    "numero": "586496350",
+    "numero_lateral": "252216309157",
+    "local": "GUAREÍ-SP",
+    "data_emissao": "28/03/1998",
+    "assinatura_emissor": "MOSCARDINI M",
+    "observacoes": ""
+}
+```

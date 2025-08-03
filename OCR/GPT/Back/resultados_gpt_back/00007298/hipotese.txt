@@ -1,0 +1,11 @@
+```json
+{
+    "código": "RS101924800",
+    "número": "8216175906",
+    "número_lateral": "35771323",
+    "local": "MONTEZUMA-MG",
+    "data_emissão": "02/12/1959",
+    "assinatura_emissor": "",
+    "observações": "N,"
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "MA788514474",
+    "numero": "297296678",
+    "numero lateral": "116320342921",
+    "local": "MATAÃO-SP",
+    "data emissao": "30/06/2012",
+    "assinatura emissor": "SOLIANI NOSOW",
+    "observacoes": "H; A; W;"
+}
+```

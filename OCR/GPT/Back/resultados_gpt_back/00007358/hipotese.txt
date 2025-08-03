@@ -1,0 +1,11 @@
+```json
+{
+  "número": "47406129450",
+  "código": "BA860152636",
+  "número_lateral": "013167049",
+  "local": "CAMPOS VERDES-GO",
+  "data_emissão": "06/03/1989",
+  "assinatura_emissor": "FORIGO MASSUO",
+  "observações": "G:"
+}
+```

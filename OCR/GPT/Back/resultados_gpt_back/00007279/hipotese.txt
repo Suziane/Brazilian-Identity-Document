@@ -1,0 +1,11 @@
+```json
+{
+  "código": "GO597294746",
+  "número": "65917523572",
+  "número lateral": "692534784",
+  "local": "IGUARAÇU-PR",
+  "data emissão": "13/02/1991",
+  "assinatura emissor": "NICHETTI HERS",
+  "observações": ""
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "880554304",
+    "numero": "72230411802",
+    "numero_lateral": "",
+    "local": "GUARACI-SP",
+    "data_emissao": "12/10/1994",
+    "assinatura_emissor": "ALINA GUARACI",
+    "observacoes": "R; M;"
+}
+```

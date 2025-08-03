@@ -1,0 +1,11 @@
+```json
+{
+  "código": "RJ716717218",
+  "número": "48665433447",
+  "número_lateral": "382573024",
+  "local": "URUPÁ-RO",
+  "data_emissão": "01/01/1962",
+  "assinatura_emissor": "FERNEDA MOTTI TOVO",
+  "observações": "M;"
+}
+```

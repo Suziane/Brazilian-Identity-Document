@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "SF725170600",
+  "numero": "61569860328",
+  "numero_lateral": "797554329",
+  "local": "JURIPIRANGA-PB",
+  "data_emissao": "12/03/1968",
+  "assinatura_emissor": "SOLANGE SOLANGE SAVAN",
+  "observacoes": ""
+}
+```

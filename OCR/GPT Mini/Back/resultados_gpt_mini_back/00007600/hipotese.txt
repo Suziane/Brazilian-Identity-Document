@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "BA938404532",
+  "numero": "27072607588",
+  "numero_lateral": "262457043",
+  "local": "JUSCIMEIRA-MT",
+  "data_emissao": "06/09/1956",
+  "assinatura_emissor": "VENDRAMIN NAV",
+  "observacoes": ""
+}
+```

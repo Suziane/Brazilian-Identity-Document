@@ -1,0 +1,11 @@
+```json
+{
+  "código": "MM091065747",
+  "número": "93486832259",
+  "número_lateral": "6523856425",
+  "local": "PARANÁ-TO",
+  "data_emissão": "15/07/1991",
+  "assinatura_emissor": "SLOMPO BISWARCH",
+  "observações": ""
+}
+```

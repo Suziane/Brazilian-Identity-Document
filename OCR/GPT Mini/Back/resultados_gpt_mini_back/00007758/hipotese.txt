@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "055834969",
+    "numero": "85441811657",
+    "numero_lateral": "MG390039724",
+    "local": "MATRINCHA-GO",
+    "data_emissao": "07/03/1967",
+    "assinatura_emissor": "SHIGUEAKI IKE",
+    "observacoes": ""
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "código": "SE924021520",
+  "número": "7447150751",
+  "número_lateral": "042161790",
+  "local": "ACARI-RN",
+  "data_emissão": "29/05/1957",
+  "assinatura_emissor": "IAK HERANE MA",
+  "observações": "Y: Z:"
+}
+```

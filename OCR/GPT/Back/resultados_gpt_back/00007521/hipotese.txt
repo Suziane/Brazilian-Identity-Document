@@ -1,0 +1,11 @@
+```json
+{
+    "código": "PR888750436",
+    "número": "989313646290",
+    "número_lateral": "052491387",
+    "local": "PONCÃNA, PR",
+    "data_emissão": "02/10/2008",
+    "assinatura_emissor": "",
+    "observações": ""
+}
+```

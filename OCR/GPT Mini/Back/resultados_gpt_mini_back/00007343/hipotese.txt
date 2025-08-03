@@ -1,0 +1,13 @@
+Aqui está o reconhecimento dos campos solicitados em formato JSON:
+
+```json
+{
+  "codigo": "834164587",
+  "numero": "47724910814",
+  "numero_lateral": "",
+  "local": "SANTA MARIA DO SUACUI-MG",
+  "data_emissao": "17/12/1961",
+  "assinatura_emissor": "DETRAN DF (DISTRITO FEDERAL)",
+  "observacoes": ""
+}
+```

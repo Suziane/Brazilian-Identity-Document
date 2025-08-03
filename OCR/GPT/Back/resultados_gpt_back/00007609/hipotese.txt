@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "AL542556618",
+  "numero": "53537759820",
+  "numero_lateral": "89790591",
+  "local": "MOEDA-MG",
+  "data_emissao": "12/03/1973",
+  "assinatura_emissor": "",
+  "observacoes": ""
+}
+```

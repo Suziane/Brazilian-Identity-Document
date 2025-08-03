@@ -1,0 +1,11 @@
+```json
+{
+    "código": "PE336788919",
+    "número": "45367690745",
+    "número_lateral": "855685668",
+    "local": "ITU-SP",
+    "data_emissão": "13/12/1988",
+    "assinatura_emissor": "",
+    "observações": "U:"
+}
+```

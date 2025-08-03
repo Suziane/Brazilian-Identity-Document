@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "MC418196860",
+    "numero": "188721054",
+    "numero_lateral": "",
+    "local": "TIBAU-RN",
+    "data_emissao": "23/09/1955",
+    "assinatura_emissor": "94782201430",
+    "observacoes": ""
+}
+```

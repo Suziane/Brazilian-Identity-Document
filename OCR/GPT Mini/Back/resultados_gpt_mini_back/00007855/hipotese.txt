@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "MGO3425946",
+    "numero": "942993340794",
+    "numero_lateral": "541409",
+    "local": "INIMUTABA-MG",
+    "data_emissao": "02/05/1997",
+    "assinatura_emissor": "BENSON HIKOKI CHELO",
+    "observacoes": ""
+}
+```

@@ -1,0 +1,13 @@
+Aqui está o reconhecimento dos campos solicitados em formato JSON:
+
+```json
+{
+    "codigo": "CE968900023",
+    "numero": "17956891937",
+    "numero_lateral": "922440840",
+    "local": "SALETE-SC",
+    "data_emissao": "09/09/1963",
+    "assinatura_emissor": "ADAMS RENAUT WAKS",
+    "observacoes": ""
+}
+```

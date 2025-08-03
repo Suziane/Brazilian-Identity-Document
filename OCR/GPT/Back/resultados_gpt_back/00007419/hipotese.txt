@@ -1,0 +1,11 @@
+```json
+{
+  "código": "PE406640829",
+  "número": "34823723740",
+  "número_lateral": "265490461",
+  "local": "ARARENDAC E",
+  "data_emissão": "29/04/1976",
+  "assinatura_emissor": "RICCARDI R.I",
+  "observações": ""
+}
+```

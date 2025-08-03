@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "PB325416397",
+  "numero": "796436712",
+  "numero_lateral": "282554863176",
+  "local": "MATO PEA-MT",
+  "data_emissao": "20/04/1966",
+  "assinatura_emissor": "SQUAREZ FOWITZKZ BARROS",
+  "observacoes": "I ;"
+}
+```

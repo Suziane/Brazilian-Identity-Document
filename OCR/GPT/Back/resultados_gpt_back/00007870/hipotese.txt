@@ -1,0 +1,11 @@
+```json
+{
+  "código": "PA471240975",
+  "número": "72230411802",
+  "número_lateral": "880554304",
+  "local": "GUARAÇAÍ-SP",
+  "data_emissão": "12/10/1994",
+  "assinatura_emissor": "ALINA GUARACI",
+  "observações": "R; M;"
+}
+```

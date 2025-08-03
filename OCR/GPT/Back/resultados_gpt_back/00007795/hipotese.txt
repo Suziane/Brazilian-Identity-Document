@@ -1,0 +1,11 @@
+```json
+{
+    "código": "g954466691",
+    "número": "43500495137",
+    "número_lateral": "3599460481",
+    "local": "DOMINGOS MARTINS-ES",
+    "data_emissão": "28/03/2007",
+    "assinatura_emissor": "",
+    "observações": "T."
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "RS671857665",
+    "numero": "599326361",
+    "numero_lateral": "",
+    "local": "BONFIM DO PIAUÍ-PI",
+    "data_emissao": "10/08/2002",
+    "assinatura_emissor": "SANJUAN HACHIC",
+    "observacoes": "Y;"
+}
+```

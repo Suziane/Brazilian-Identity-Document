@@ -1,0 +1,11 @@
+```json
+{
+  "código": "PR079460726",
+  "número": "090434983501",
+  "número_lateral": "08713191",
+  "local": "PONTE NOVA-MG",
+  "data_emissão": "20/07/2000",
+  "assinatura_emissor": "",
+  "observações": ""
+}
+```

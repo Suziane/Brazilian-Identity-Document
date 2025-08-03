@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "269073593",
+  "numero": "98779630860",
+  "numero_lateral": "269073593",
+  "local": "EXU-PE",
+  "data_emissao": "06/06/1950",
+  "assinatura_emissor": "MASUCHELLI OD",
+  "observacoes": "EXERCE ATIVIDADE REMUNERADA; A; EXERCE ATIVIDADE REMUNERADA;"
+}
+```

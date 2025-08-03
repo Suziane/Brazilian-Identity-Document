@@ -1,0 +1,11 @@
+```json
+{
+  "código": "MG442142451",
+  "número": "21917194627",
+  "número_lateral": "544906685",
+  "local": "TUPIRAMA-TO",
+  "data_emissão": "19/12/1990",
+  "assinatura_emissor": "LANATOVITZ KOJI",
+  "observações": ""
+}
+```

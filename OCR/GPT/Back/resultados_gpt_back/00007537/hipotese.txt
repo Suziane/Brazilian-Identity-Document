@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "BA259759699",
+    "numero": "07003913653",
+    "numero_lateral": "906058290",
+    "local": "PAVUSSU-PI",
+    "data_emissao": "19/01/1965",
+    "assinatura_emissor": "TRILLO BOMBIG",
+    "observacoes": ""
+}
+```

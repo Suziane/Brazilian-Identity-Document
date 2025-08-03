@@ -1,0 +1,11 @@
+```json
+{
+  "código": "MT840458035",
+  "número": "11690724367",
+  "número lateral": "72284553",
+  "local": "IPUMIRIM-SC",
+  "data emissão": "11/06/1979",
+  "assinatura emissor": "PETKEVICIUS SACC",
+  "observações": ""
+}
+```

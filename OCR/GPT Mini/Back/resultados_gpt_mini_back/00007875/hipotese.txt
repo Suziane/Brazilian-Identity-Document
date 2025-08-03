@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "684402424232",
+    "numero": "049242570",
+    "numero_lateral": "M",
+    "local": "GANDI-BA",
+    "data_emissao": "18/02/1933",
+    "assinatura_emissor": "NASTRI ROBINSON",
+    "observacoes": ""
+}
+```

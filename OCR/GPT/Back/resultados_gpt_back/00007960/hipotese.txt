@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "SP794312352",
+  "numero": "18562352154",
+  "numero_lateral": "560345657",
+  "local": "IEUPI-ES",
+  "data_emissao": "27/06/1994",
+  "assinatura_emissor": "",
+  "observacoes": "TAMBURUS GO"
+}
+```

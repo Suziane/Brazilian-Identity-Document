@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "SP996560468",
+    "numero": "68298070269",
+    "numero_lateral": "62881177",
+    "local": "CONTENDA-PR",
+    "data_emissao": "31/10/1985",
+    "assinatura_emissor": "DALIA TROCOLI VIEIRA",
+    "observacoes": ""
+}
+```

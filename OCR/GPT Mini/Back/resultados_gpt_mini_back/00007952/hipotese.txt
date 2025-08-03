@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "BA296506927",
+    "numero": "24500985479",
+    "numero_lateral": "65964119",
+    "local": "URUOCA-CE",
+    "data_emissao": "04/08/1967",
+    "assinatura_emissor": "HOLZHACKER BIGA",
+    "observacoes": "V;"
+}
+```

@@ -1,0 +1,13 @@
+Aqui está o JSON com os campos reconhecidos da imagem:
+
+```json
+{
+    "codigo": "G0629674569",
+    "numero": "00153876605",
+    "numero_lateral": "318246020",
+    "local": "MARQUINHO-PR",
+    "data_emissao": "06/01/1956",
+    "assinatura_emissor": "TAGORE BISTRICHE",
+    "observacoes": ""
+}
+```

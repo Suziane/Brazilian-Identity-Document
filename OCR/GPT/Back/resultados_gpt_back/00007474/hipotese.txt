@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "BA768942653",
+    "numero": "38287107439",
+    "numero_lateral": "3219991964",
+    "local": "MURIBECA-SE",
+    "data_emissao": "11/02/1963",
+    "assinatura_emissor": "",
+    "observacoes": ""
+}
+```

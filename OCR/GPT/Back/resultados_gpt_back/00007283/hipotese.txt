@@ -1,0 +1,11 @@
+```json
+{
+    "código": "GO107278981",
+    "número": "90637331679",
+    "número_lateral": "193440596",
+    "local": "GUAÇUÍ-ES",
+    "data_emissão": "27/03/1967",
+    "assinatura_emissor": "MAGNA JURASKI CAN",
+    "observações": "D:"
+}
+```

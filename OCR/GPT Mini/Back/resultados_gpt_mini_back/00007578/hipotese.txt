@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "PA993697103",
+    "numero": "382709848",
+    "numero_lateral": "22892010053",
+    "local": "UBIRETAMA-RS",
+    "data_emissao": "06/10/2005",
+    "assinatura_emissor": "MAIA SS2INCZA ANDRE PEREIRA",
+    "observacoes": "G;"
+}
+```

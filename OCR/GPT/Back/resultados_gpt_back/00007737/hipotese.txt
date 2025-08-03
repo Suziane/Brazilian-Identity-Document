@@ -1,0 +1,11 @@
+```json
+{
+  "código": "SP476414362",
+  "número": "16010376527",
+  "número lateral": "042658097",
+  "local": "IBIARA-PB",
+  "data emissão": "01/12/1995",
+  "assinatura emissor": "CALDANA GARDINAL",
+  "observações": ""
+}
+```

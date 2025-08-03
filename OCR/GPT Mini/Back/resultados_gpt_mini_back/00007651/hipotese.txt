@@ -1,0 +1,13 @@
+Aqui está o resultado em formato JSON baseado nas informações que você pediu:
+
+```json
+{
+    "codigo": "PE153100724",
+    "numero": "327420755895",
+    "numero_lateral": "055349791",
+    "local": "BELMONTE-SC",
+    "data_emissao": "02/03/1991",
+    "assinatura_emissor": "PUGLIA TOLLOZA NE MENDES",
+    "observacoes": ""
+}
+```

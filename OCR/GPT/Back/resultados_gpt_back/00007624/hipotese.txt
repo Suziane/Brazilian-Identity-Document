@@ -1,0 +1,11 @@
+```json
+{
+  "código": "MG941472842",
+  "número": "51131806397",
+  "número_lateral": "640366926",
+  "local": "IRUPI-ES",
+  "data_emissão": "18/08/1990",
+  "assinatura_emissor": "HARM SENEGUINI",
+  "observações": ""
+}
+```

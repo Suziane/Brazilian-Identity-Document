@@ -1,0 +1,11 @@
+```json
+{
+  "código": "PI199705200",
+  "número": "70888159551",
+  "número lateral": "129993437",
+  "local": "MUCURI-BA",
+  "data emissão": "31/10/1965",
+  "assinatura emissor": "",
+  "observações": ""
+}
+```

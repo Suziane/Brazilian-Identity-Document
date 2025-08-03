@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "PB025061438",
+  "numero": "60002968411",
+  "numero_lateral": "889160524",
+  "local": "CATARINA-CE",
+  "data_emissao": "08/03/1958",
+  "assinatura_emissor": "ARGOLLO FOLLADOR JESUS",
+  "observacoes": "C ;"
+}
+```

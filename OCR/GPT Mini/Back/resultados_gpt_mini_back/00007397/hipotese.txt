@@ -1,0 +1,13 @@
+Aqui está a estrutura JSON com os campos reconhecidos:
+
+```json
+{
+    "codigo": "MG792393734",
+    "numero": "22141430343",
+    "numero_lateral": "61060627",
+    "local": "NOBRES-MT",
+    "data_emissao": "19/12/1990",
+    "assinatura_emissor": "WEST PERRACINI M",
+    "observacoes": ""
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "300335286898",
+    "numero": "142624968",
+    "numero_lateral": "142624968",
+    "local": "SERRANIA-MG",
+    "data_emissao": "16/03/1983",
+    "assinatura_emissor": "FELLIPI AIEDA G",
+    "observacoes": ""
+}
+```

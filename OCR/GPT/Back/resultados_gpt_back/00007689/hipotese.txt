@@ -1,0 +1,11 @@
+```json
+{
+    "código": "RN640530446",
+    "número": "98059461144",
+    "número_lateral": "772702688",
+    "local": "LUCRÉCIA-RN",
+    "data_emissão": "22/12/1970",
+    "assinatura_emissor": "",
+    "observações": "A."
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "PA147109092",
+  "numero": "59658821561",
+  "numero_lateral": "631687801",
+  "local": "BAEPENDI-MG",
+  "data_emissao": "23/12/1974",
+  "assinatura_emissor": "REGGI BERTOLON",
+  "observacoes": ""
+}
+```

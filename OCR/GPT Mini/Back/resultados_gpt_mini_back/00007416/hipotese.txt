@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "CE657187509",
+  "numero": "569355019",
+  "numero_lateral": "10801597211",
+  "local": "MACATUBA-SP",
+  "data_emissao": "06/04/1974",
+  "assinatura_emissor": "ANDRIGO NAINE",
+  "observacoes": ""
+}
+```

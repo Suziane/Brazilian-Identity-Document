@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "PE496610220",
+  "numero": "05080493165",
+  "numero_lateral": "668401564",
+  "local": "CURRAL DE DENTRO-MG",
+  "data_emissao": "13/12/1961",
+  "assinatura_emissor": "SCHELINI KANADANI",
+  "observacoes": "L"
+}
+```

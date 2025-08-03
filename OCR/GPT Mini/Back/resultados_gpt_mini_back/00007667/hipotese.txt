@@ -1,0 +1,15 @@
+Aqui está o reconhecimento dos campos conforme solicitado:
+
+```json
+{
+  "codigo": "R5296702778",
+  "numero": "565757817742",
+  "numero_lateral": "554621250",
+  "local": "TARABAI-SP",
+  "data_emissao": "16/08/1990",
+  "assinatura_emissor": "SOLDATELLI LANGNOR GA",
+  "observacoes": ""
+}
+``` 
+
+Se precisar de mais alguma coisa, é só avisar!

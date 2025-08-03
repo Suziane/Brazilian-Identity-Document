@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "RO338154991",
+  "numero": "32043997932",
+  "numero_lateral": "21541187",
+  "local": "SILVEIRÂNIA-MG",
+  "data_emissao": "29/11/1998",
+  "assinatura_emissor": "",
+  "observacoes": ""
+}
+```

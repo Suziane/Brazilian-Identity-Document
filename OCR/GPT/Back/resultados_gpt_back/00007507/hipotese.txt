@@ -1,0 +1,11 @@
+```json
+{
+  "código": "MC34558278",
+  "número": "13774140921",
+  "número lateral": "44203680",
+  "local": "NOVA FLORESTA-PB",
+  "data emissão": "24/12/1999",
+  "assinatura emissor": "",
+  "observações": ""
+}
+```

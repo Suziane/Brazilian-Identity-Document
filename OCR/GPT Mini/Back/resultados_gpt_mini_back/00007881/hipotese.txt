@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "MA321647052",
+  "numero": "17336355320",
+  "numero_lateral": "783630076",
+  "local": "BARRA-BA",
+  "data_emissao": "17/08/1977",
+  "assinatura_emissor": "NUMAO GILLI GUAZ",
+  "observacoes": ""
+}
+```

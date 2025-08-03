@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "832318549",
+  "numero": "",
+  "numero_lateral": "",
+  "local": "MAUÉS-AM",
+  "data_emissao": "09/07/1981",
+  "assinatura_emissor": "COL SCUDELER ROSSI",
+  "observacoes": ""
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "código": "SP276605439",
+  "número": "62229625925",
+  "número_lateral": "621186674",
+  "local": "MAMBORÉ-PR",
+  "data_emissão": "20/08/2007",
+  "assinatura_emissor": "ABBARI CARNIELLI GE",
+  "observações": ""
+}
+```

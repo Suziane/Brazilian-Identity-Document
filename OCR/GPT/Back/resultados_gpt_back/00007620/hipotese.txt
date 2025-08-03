@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "6482612574S",
+  "numero": "SP541558630",
+  "numero_lateral": "374377499",
+  "local": "URUTAI-GO",
+  "data_emissao": "26/02/2004",
+  "assinatura_emissor": "SANDIM AIANI",
+  "observacoes": ""
+}
+```

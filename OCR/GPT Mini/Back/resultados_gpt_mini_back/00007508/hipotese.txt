@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "MG941830627",
+    "numero": "94367546191",
+    "numero_lateral": "605810811",
+    "local": "MIRANDA-MS",
+    "data_emissao": "18/11/2000",
+    "assinatura_emissor": "FINCATO SAMANTA BOL",
+    "observacoes": ""
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "AL542556218",
+  "numero": "53537759820",
+  "numero_lateral": "897905591",
+  "local": "MOEDA-MG",
+  "data_emissao": "12/03/1973",
+  "assinatura_emissor": "GRASSIA FORNAR",
+  "observacoes": ""
+}
+```

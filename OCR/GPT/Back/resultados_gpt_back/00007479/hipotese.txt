@@ -1,0 +1,11 @@
+```json
+{
+  "código": "PITZ5175485",
+  "número": "91234753965",
+  "número lateral": "661987441",
+  "local": "COIVARAS-PI",
+  "data emissão": "14/11/1954",
+  "assinatura emissor": "EURO PASOTTO",
+  "observações": ""
+}
+```

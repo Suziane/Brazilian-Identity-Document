@@ -1,0 +1,15 @@
+Aqui está o reconhecimento dos campos solicitados, organizado em um arquivo JSON:
+
+```json
+{
+    "codigo": "G0840877999",
+    "numero": "219651190",
+    "numero_lateral": "",
+    "local": "DUMONT-SP",
+    "data_emissao": "21/02/2012",
+    "assinatura_emissor": "KOSTRISCH THOMAIZE",
+    "observacoes": "V;"
+}
+``` 
+
+Caso algum campo não tenha sido encontrado, ele foi atribuído como uma string vazia.

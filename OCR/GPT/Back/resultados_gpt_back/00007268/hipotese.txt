@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "RN419571113",
+  "numero": "34727295931",
+  "numero_lateral": "622798350",
+  "local": "CAREACU-MG",
+  "data_emissao": "08/03/1995",
+  "assinatura_emissor": "PEZZY LIBONI CA",
+  "observacoes": "R,"
+}
+```

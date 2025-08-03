@@ -1,0 +1,11 @@
+```json
+{
+  "código": "PE204581228",
+  "número": "87390532490",
+  "número lateral": "985091829",
+  "local": "PERUIBE-SP",
+  "data emissão": "19/11/1983",
+  "assinatura emissor": "",
+  "observações": ""
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "código": "GO656943437",
+  "número": "85676610422",
+  "número_lateral": "60521632",
+  "local": "MARCELÂNDIA-MT",
+  "data_emissão": "10/01/2007",
+  "assinatura_emissor": "LEOANA NINOMIY",
+  "observações": ""
+}
+```

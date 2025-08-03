@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "3PF45305166",
+  "numero": "36866510086",
+  "numero_lateral": "4211813",
+  "local": "VANINI-RS",
+  "data_emissao": "08/10/1990",
+  "assinatura_emissor": "",
+  "observacoes": ""
+}
+```

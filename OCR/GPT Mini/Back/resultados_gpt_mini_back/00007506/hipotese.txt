@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "BA400894946",
+    "numero": "786538964",
+    "numero_lateral": "24827424499",
+    "local": "VARZEA-PB",
+    "data_emissao": "12/11/1971",
+    "assinatura_emissor": "ZUGAR LEITE SORRA",
+    "observacoes": ""
+}
+```

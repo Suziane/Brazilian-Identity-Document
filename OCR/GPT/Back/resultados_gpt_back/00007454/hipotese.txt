@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "SP348666791",
+  "numero": "43580458137",
+  "numero_lateral": "359940481",
+  "local": "DOMINGOS MARTINS-ES",
+  "data_emissao": "28/03/2007",
+  "assinatura_emissor": "CARRASCO BOSQUI",
+  "observacoes": ""
+}
+```

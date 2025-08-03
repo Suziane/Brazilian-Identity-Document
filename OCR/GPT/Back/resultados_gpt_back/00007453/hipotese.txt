@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "SP466108435",
+  "numero": "09845360210",
+  "numero_lateral": "735437002",
+  "local": "PINHEIROS-ES",
+  "data_emissao": "02/04/1993",
+  "assinatura_emissor": "AIDA BALDIN VILL SILVEIRA",
+  "observacoes": "B; E;"
+}
+```

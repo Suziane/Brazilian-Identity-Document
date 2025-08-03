@@ -1,0 +1,13 @@
+Aqui está o reconhecimento dos campos solicitados, organizado em um arquivo JSON:
+
+```json
+{
+    "codigo": "72284553",
+    "numero": "",
+    "numero_lateral": "72284553",
+    "local": "IPUMIRIM-SC",
+    "data_emissao": "11/06/1979",
+    "assinatura_emissor": "PETKEVICIUS SACC",
+    "observacoes": ""
+}
+```

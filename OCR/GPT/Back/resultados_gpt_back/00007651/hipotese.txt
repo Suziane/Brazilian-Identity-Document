@@ -1,0 +1,11 @@
+```json
+{
+  "código": "PE153100724",
+  "número": "32742075595",
+  "número lateral": "055349791",
+  "local": "BELMONTE-SC",
+  "data emissão": "02/03/1991",
+  "assinatura emissor": "PIGLIA TOLOZA NE MENDES",
+  "observações": ""
+}
+```

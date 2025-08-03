@@ -1,0 +1,11 @@
+```json
+{
+  "código": "SE465086202",
+  "número": "34081174671",
+  "número_lateral": "811980421",
+  "local": "ANTÔNIO ALMEIDA-PI",
+  "data_emissão": "15/12/1975",
+  "assinatura_emissor": "SEVALHO CALLIG FARIAS",
+  "observações": "H;"
+}
+```

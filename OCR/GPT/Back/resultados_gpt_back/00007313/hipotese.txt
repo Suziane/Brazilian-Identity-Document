@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "ES896765225",
+  "numero": "41065148018",
+  "numero_lateral": "636394962",
+  "local": "JAPARATUBA-SE",
+  "data_emissao": "08/11/1962",
+  "assinatura_emissor": "",
+  "observacoes": ""
+}
+```

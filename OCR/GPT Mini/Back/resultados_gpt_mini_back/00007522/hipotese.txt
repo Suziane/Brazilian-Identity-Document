@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "72284553",
+    "numero": "11690724367",
+    "numero_lateral": "11690724367",
+    "local": "IPUMIRIM-SC",
+    "data_emissao": "11/06/1979",
+    "assinatura_emissor": "PETKEVICIUS SACC",
+    "observacoes": ""
+}
+```

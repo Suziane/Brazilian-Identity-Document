@@ -1,0 +1,11 @@
+```json
+{
+  "código": "PR471102818",
+  "número": "97372573765",
+  "número lateral": "748398250",
+  "local": "CAMOCIM-CE",
+  "data emissão": "30/07/1993",
+  "assinatura emissor": "MALPELI SCEME",
+  "observações": ""
+}
+```

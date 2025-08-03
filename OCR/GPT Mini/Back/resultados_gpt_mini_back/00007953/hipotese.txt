@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "MG431519658",
+  "numero": "99964090128",
+  "numero_lateral": "972566279",
+  "local": "CAMPO DO TENENTE-PR",
+  "data_emissao": "26/11/1980",
+  "assinatura_emissor": "DERISSO BOTAS TEIXEIRA",
+  "observacoes": ""
+}
+```

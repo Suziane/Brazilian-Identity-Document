@@ -1,0 +1,11 @@
+```json
+{
+    "código": "SC957597092",
+    "número": "19434587078",
+    "número_lateral": "39089739",
+    "local": "MONÇÃO-MA",
+    "data_emissão": "30/03/2009",
+    "assinatura_emissor": "KANN YUGO UEZI",
+    "observações": ""
+}
+```

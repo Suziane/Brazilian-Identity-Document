@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "PTA4840660",
+    "numero": "47913954146",
+    "numero_lateral": "693322780",
+    "local": "RAPOSA-MA",
+    "data_emissao": "08/03/1967",
+    "assinatura_emissor": "NJERGES NMER",
+    "observacoes": ""
+}
+```

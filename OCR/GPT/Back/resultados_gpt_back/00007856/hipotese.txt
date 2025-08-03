@@ -1,0 +1,11 @@
+```json
+{
+  "código": "RS970756849",
+  "número": "19796857369",
+  "número lateral": "124071640",
+  "local": "MUQUI-ES",
+  "data emissão": "13/12/1956",
+  "assinatura emissor": "TUBERTINI EI",
+  "observações": ""
+}
+```

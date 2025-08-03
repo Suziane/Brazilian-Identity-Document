@@ -1,0 +1,11 @@
+```json
+{
+  "código": "MG792822468",
+  "número": "20813435357",
+  "número lateral": "471649621",
+  "local": "IACANGA-SP",
+  "data emissão": "18/10/1998",
+  "assinatura emissor": "FRANCIANI J",
+  "observações": ""
+}
+```

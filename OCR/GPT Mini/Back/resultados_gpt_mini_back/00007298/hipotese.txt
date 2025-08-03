@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "35771323",
+  "numero": "",
+  "numero_lateral": "835771323",
+  "local": "MONTEZUMA-MG",
+  "data_emissao": "02/12/1959",
+  "assinatura_emissor": "TELEBRIN SOMER DAS NEVES",
+  "observacoes": ""
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "código": "PR48875150436",
+  "número": "999313464290",
+  "número lateral": "052491387",
+  "local": "PUCARANA PR",
+  "data emissão": "02/10/2008",
+  "assinatura emissor": "",
+  "observações": ""
+}
+```

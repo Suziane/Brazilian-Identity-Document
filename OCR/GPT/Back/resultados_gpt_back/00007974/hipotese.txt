@@ -1,0 +1,11 @@
+```json
+{
+    "código": "SP726448047",
+    "número": "75619663032",
+    "número_lateral": "996188425",
+    "local": "MARCO-CE",
+    "data_emissão": "20/12/1953",
+    "assinatura_emissor": "ZAVAREZ ZAVITO MOREIRA",
+    "observações": ""
+}
+```

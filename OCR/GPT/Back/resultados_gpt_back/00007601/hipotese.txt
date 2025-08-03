@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "MG9518767672",
+  "numero": "98209606594",
+  "numero_lateral": "496134650",
+  "local": "AGUDOS-SP",
+  "data_emissao": "10/05/1964",
+  "assinatura_emissor": "",
+  "observacoes": "T;"
+}
+```

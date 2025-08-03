@@ -1,0 +1,13 @@
+Aqui está o resultado em formato JSON com os dados reconhecidos:
+
+```json
+{
+    "codigo": "T0078193816",
+    "numero": "862540139",
+    "numero_lateral": "13232761680",
+    "local": "CONCHAS-SP",
+    "data_emissao": "22/03/2017",
+    "assinatura_emissor": "PESCAROLI SALLES",
+    "observacoes": "O; H; C; E;"
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+    "código": "RS671857665",
+    "número": "14233637772",
+    "número_lateral": "599326361",
+    "local": "BONFIM DO PIAUÍ-PI",
+    "data_emissão": "10/08/2002",
+    "assinatura_emissor": "",
+    "observações": "Y"
+}
+```

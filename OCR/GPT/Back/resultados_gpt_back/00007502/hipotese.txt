@@ -1,0 +1,11 @@
+```json
+{
+  "código": "RS623317578",
+  "número": "56114572057",
+  "número_lateral": "325110183",
+  "local": "ARUJÁ-SP",
+  "data_emissão": "05/05/1988",
+  "assinatura_emissor": "MATTIO NAKID",
+  "observações": ""
+}
+```

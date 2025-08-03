@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "MG39039724",
+  "numero": "8541811657",
+  "numero_lateral": "055834969",
+  "local": "PATROCINIO-GO",
+  "data_emissao": "07/03/1967",
+  "assinatura_emissor": "SHIGUEAKI IKE",
+  "observacoes": ""
+}
+```

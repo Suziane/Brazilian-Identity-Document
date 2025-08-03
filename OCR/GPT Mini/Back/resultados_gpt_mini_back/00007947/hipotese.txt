@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "20228121967",
+    "numero": "588919702",
+    "numero_lateral": "588919702",
+    "local": "VILA BOA-GO",
+    "data_emissao": "25/12/1996",
+    "assinatura_emissor": "SPATTI FABIANO",
+    "observacoes": ""
+}
+```

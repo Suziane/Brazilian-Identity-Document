@@ -1,0 +1,11 @@
+```json
+{
+    "código": "RS795327280",
+    "número": "56442868768",
+    "número lateral": "159075075",
+    "local": "ALVORADA-RS",
+    "data emissão": "17/05/2002",
+    "assinatura emissor": "LORETII CARANI",
+    "observações": ""
+}
+```

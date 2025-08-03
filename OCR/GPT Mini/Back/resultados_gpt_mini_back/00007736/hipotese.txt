@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "SP326530537",
+    "numero": "00661777410",
+    "numero_lateral": "381561325",
+    "local": "JEREMOABO-BA",
+    "data_emissao": "03/10/1958",
+    "assinatura_emissor": "LICIANE RUDA GAT",
+    "observacoes": ""
+}
+```

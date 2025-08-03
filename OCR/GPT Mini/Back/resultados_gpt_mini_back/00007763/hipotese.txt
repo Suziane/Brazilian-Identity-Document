@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "PR262219685",
+    "numero": "47724910814",
+    "numero_lateral": "834164587",
+    "local": "SANTA MARIA DO SUACUI-MG",
+    "data_emissao": "17/12/1961",
+    "assinatura_emissor": "",
+    "observacoes": ""
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "código": "MG322606799",
+  "número": "93176048533",
+  "número_lateral": "834777387",
+  "local": "SANTA HELENA DE MINAS-MG",
+  "data_emissao": "15/03/1983",
+  "assinatura_emissor": "",
+  "observações": ""
+}
+```

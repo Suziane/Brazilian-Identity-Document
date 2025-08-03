@@ -1,0 +1,11 @@
+```json
+{
+  "código": "SP287535469",
+  "número": "13559224040",
+  "número_lateral": "516083013",
+  "local": "SERRANA-SP",
+  "data_emissão": "26/02/1954",
+  "assinatura_emissor": "NAOTTO SHEYAN",
+  "observações": ""
+}
+```

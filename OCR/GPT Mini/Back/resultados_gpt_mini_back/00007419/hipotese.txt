@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "265490461",
+    "numero": "T9640697",
+    "numero_lateral": "34823723740",
+    "local": "ARARENDA-CE",
+    "data_emissao": "29/04/1976",
+    "assinatura_emissor": "RICCARDI RI",
+    "observacoes": ""
+}
+```

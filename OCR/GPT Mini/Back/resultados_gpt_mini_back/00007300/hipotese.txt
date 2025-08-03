@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "RS168079380",
+  "numero": "566362670",
+  "numero_lateral": "6362670",
+  "local": "ANORI-AM",
+  "data_emissao": "20/01/1953",
+  "assinatura_emissor": "SMETANA ZAIRA BIZ FARIAS",
+  "observacoes": "T;"
+}
+```

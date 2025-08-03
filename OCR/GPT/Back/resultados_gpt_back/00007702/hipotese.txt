@@ -1,0 +1,11 @@
+```json
+{
+  "código": "SE193281399",
+  "número": "11060641902",
+  "número_lateral": "171606072",
+  "local": "BUJARI-AC",
+  "data_emissão": "24/05/2012",
+  "assinatura_emissor": "ROSAREF LUISIN M BARROS",
+  "observações": "H"
+}
+```

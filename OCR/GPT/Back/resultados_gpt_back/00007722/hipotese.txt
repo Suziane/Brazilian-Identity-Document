@@ -1,0 +1,11 @@
+```json
+{
+  "código": "PR998015563",
+  "número": "16745596724",
+  "número_lateral": "020014712",
+  "local": "SÃO PEDRO DO PIAUÍ-PI",
+  "data_emissão": "05/06/1957",
+  "assinatura_emissor": "",
+  "observações": ""
+}
+```

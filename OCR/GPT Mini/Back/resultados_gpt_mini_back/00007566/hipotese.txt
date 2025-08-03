@@ -1,0 +1,15 @@
+Aqui está o resultado organizado em formato JSON baseado nas informações que você pediu:
+
+```json
+{
+    "codigo": "MS213846938",
+    "numero": "02716877676",
+    "numero_lateral": "383350832",
+    "local": "IACU-BA",
+    "data_emissao": "10/09/1965",
+    "assinatura_emissor": "HUSSID BASSORA TEIXEIRA",
+    "observacoes": ""
+}
+``` 
+
+Se precisar de mais alguma coisa, é só avisar!

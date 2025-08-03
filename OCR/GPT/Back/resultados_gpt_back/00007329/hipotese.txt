@@ -1,0 +1,11 @@
+```json
+{
+  "código": "RS828297836",
+  "número": "402695893333",
+  "número_lateral": "687498920",
+  "local": "TABAPUÃ-SP",
+  "data_emissão": "21/12/2005",
+  "assinatura_emissor": "MICHIHARU B",
+  "observações": ""
+}
+```

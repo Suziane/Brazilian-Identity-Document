@@ -1,0 +1,11 @@
+```json
+{
+  "código": "PE549869120",
+  "número": "29171467552",
+  "número_lateral": "820591554",
+  "local": "DOSRADA-SP",
+  "data_emissão": "26/03/2015",
+  "assinatura_emissor": "",
+  "observações": "EXERCE ATIVIDADE REMUNERADA;"
+}
+```

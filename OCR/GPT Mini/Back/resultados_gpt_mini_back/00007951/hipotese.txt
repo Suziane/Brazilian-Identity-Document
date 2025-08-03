@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "R0513966298",
+  "numero": "565749013382",
+  "numero_lateral": "597511977",
+  "local": "ITAJA-GO",
+  "data_emissao": "10/04/1979",
+  "assinatura_emissor": "SEBYAKU WEL",
+  "observacoes": ""
+}
+```

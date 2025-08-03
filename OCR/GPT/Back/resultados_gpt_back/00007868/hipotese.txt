@@ -1,0 +1,11 @@
+```json
+{
+  "código": "SCR36451996",
+  "número": "994898484243",
+  "número_lateral": "131403694",
+  "local": "MIGUEL LEÃO-PI",
+  "data_emissão": "C4/03/1971",
+  "assinatura_emissor": "",
+  "observações": ""
+}
+```

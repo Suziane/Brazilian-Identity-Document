@@ -1,0 +1,11 @@
+```json
+{
+    "código": "RC499761118",
+    "número": "98976339850",
+    "número lateral": "269073593",
+    "local": "EXU-PE",
+    "data emissão": "06/06/1950",
+    "assinatura emissor": "MASUCHELLI OD",
+    "observações": "EXERCE ATIVIDADE REMUNERADA; A EXERCE ATIVIDADE REMUNERADA;"
+}
+```

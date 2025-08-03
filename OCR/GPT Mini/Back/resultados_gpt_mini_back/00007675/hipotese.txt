@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "MG475838678",
+    "numero": "174283382",
+    "numero_lateral": "49556877156",
+    "local": "BATAGUASSU-MS",
+    "data_emissao": "04/07/1955",
+    "assinatura_emissor": "BARIAO RABAY",
+    "observacoes": ""
+}
+```

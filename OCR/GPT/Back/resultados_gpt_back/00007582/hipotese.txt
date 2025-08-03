@@ -1,0 +1,11 @@
+```json
+{
+  "código": "SE219342199",
+  "número": "11006041902",
+  "número_lateral": "171606072",
+  "local": "UBERLÂNDIA-MG",
+  "data_emissão": "24/05/2012",
+  "assinatura_emissor": "",
+  "observações": ""
+}
+```

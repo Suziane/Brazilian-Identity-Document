@@ -1,0 +1,11 @@
+```json
+{
+    "código": "RS586644116",
+    "número": "75994263170",
+    "número_lateral": "598955230",
+    "local": "GRANITO-PE",
+    "data_emissão": "22/01/1958",
+    "assinatura_emissor": "FELIPIN SAMAR",
+    "observações": ""
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "A;",
+    "numero": "229241994",
+    "numero_lateral": "IGUATU-PR",
+    "local": "IGUATU-PR",
+    "data_emissao": "01/05/1989",
+    "assinatura_emissor": "GIROLINETO MIYAU",
+    "observacoes": "97454827778 BA02731340"
+}
+```

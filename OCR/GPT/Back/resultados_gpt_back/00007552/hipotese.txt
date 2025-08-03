@@ -1,0 +1,11 @@
+```json
+{
+    "código": "R0513960298",
+    "número": "56574991382",
+    "número lateral": "597511977",
+    "local": "ITAJÁ-GO",
+    "data emissão": "10/04/1979",
+    "assinatura emissor": "SERIKAKU WEL",
+    "observações": ""
+}
+```

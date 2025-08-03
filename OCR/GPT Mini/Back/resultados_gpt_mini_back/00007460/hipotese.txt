@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "AL963202299",
+    "numero": "81399148826",
+    "numero_lateral": "320301449",
+    "local": "AGRONOMICA-SC",
+    "data_emissao": "01/02/2000",
+    "assinatura_emissor": "",
+    "observacoes": ""
+}
+```

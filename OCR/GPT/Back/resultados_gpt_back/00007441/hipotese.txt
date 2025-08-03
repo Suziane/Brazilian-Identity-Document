@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "DR31214AR219",
+  "numero": "0023140018",
+  "numero_lateral": "0252491387",
+  "local": "APUCARANA, PR",
+  "data_emissao": "02/07/2008",
+  "assinatura_emissor": "",
+  "observacoes": ""
+}
+```

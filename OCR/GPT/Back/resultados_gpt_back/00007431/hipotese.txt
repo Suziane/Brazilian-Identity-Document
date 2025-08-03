@@ -1,0 +1,11 @@
+```json
+{
+  "código": "ES834007167",
+  "número": "10175479389",
+  "número lateral": "093809334",
+  "local": "IVAIPORÃ-PR",
+  "data emissão": "05/02/2007",
+  "assinatura emissor": "NACARATO FO",
+  "observações": ""
+}
+```

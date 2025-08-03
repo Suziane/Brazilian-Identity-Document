@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "",
+    "numero": "802670676",
+    "numero_lateral": "L;",
+    "local": "ARAPOEMA-TO",
+    "data_emissao": "17/06/1952",
+    "assinatura_emissor": "ANNABEL BRONDANI",
+    "observacoes": "39398807535 G0653453704"
+}
+```

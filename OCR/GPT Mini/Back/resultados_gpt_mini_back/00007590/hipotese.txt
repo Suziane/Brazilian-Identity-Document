@@ -1,0 +1,15 @@
+Aqui está o reconhecimento dos campos solicitados, organizado em um formato JSON:
+
+```json
+{
+    "codigo": "R$631559334",
+    "numero": "633844226",
+    "numero_lateral": "33221795179",
+    "local": "QUADRA-SP",
+    "data_emissao": "13/05/2003",
+    "assinatura_emissor": "WALDOW ZARPE",
+    "observacoes": ""
+}
+``` 
+
+Caso tenha mais alguma dúvida ou solicitação, sinta-se à vontade para perguntar!

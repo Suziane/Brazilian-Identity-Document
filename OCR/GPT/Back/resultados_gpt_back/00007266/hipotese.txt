@@ -1,0 +1,11 @@
+```json
+{
+  "número": "54610215406",
+  "código": "BA200966610",
+  "número lateral": "090953258",
+  "local": "LAGOAÕ-RS",
+  "data emissão": "22/02/1994",
+  "assinatura emissor": "",
+  "observações": "G; X; Y;"
+}
+```

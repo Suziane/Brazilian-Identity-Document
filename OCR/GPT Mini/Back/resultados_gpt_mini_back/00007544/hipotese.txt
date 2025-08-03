@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "418381153",
+  "numero": "",
+  "numero_lateral": "",
+  "local": "ITAPUCA-RS",
+  "data_emissao": "05/08/2003",
+  "assinatura_emissor": "ANALUCIA BUENO",
+  "observacoes": "DETRAN MC MINAS GERAIS"
+}
+```

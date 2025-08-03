@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "AP280340577",
+    "numero": "130822401",
+    "numero_lateral": "",
+    "local": "PINHEIRO PRETO-SC",
+    "data_emissao": "08/10/2001",
+    "assinatura_emissor": "RUANIE BONANNO KISAX 42250712482",
+    "observacoes": ""
+}
+```

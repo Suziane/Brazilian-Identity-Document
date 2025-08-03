@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "TC120399356",
+    "numero": "41007402913",
+    "numero_lateral": "8159999579",
+    "local": "TERESOPOLIS-RJ",
+    "data_emissao": "22/10/1997",
+    "assinatura_emissor": "SATAKE ALMADO VI",
+    "observacoes": ""
+}
+```

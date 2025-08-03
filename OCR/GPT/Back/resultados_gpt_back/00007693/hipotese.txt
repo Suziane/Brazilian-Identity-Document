@@ -1,0 +1,11 @@
+```json
+{
+    "código": "ES318483253",
+    "número": "76005210408",
+    "número_lateral": "059015351",
+    "local": "PALESTINA-SP",
+    "data_emissão": "17/10/1980",
+    "assinatura_emissor": "KATAGUIRE ISHURA AS",
+    "observações": ""
+}
+```

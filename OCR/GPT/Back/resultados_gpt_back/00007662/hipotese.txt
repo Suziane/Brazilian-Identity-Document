@@ -1,0 +1,11 @@
+```json
+{
+  "código": "PB699286873",
+  "número": "68080766704",
+  "número_lateral": "652273910",
+  "local": "TUNAS-RS",
+  "data_emissão": "08/07/1984",
+  "assinatura_emissor": "TELMO SEGUROLA DE CALDEIRA",
+  "observações": "A;"
+}
+```

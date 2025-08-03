@@ -1,0 +1,13 @@
+Aqui está o resultado em formato JSON com os campos reconhecidos:
+
+```json
+{
+  "codigo": "MA034739163",
+  "numero": "780297645",
+  "numero_lateral": "30999614668",
+  "local": "BANANAL-SP",
+  "data_emissao": "17/08/1980",
+  "assinatura_emissor": "SATOW BONIM NAR",
+  "observacoes": ""
+}
+```

@@ -1,0 +1,13 @@
+Aqui está o resultado em formato JSON com os campos reconhecidos:
+
+```json
+{
+    "codigo": "PR217633500",
+    "numero": "66905581921",
+    "numero_lateral": "861881785",
+    "local": "Soure-PA",
+    "data_emissao": "02/10/1971",
+    "assinatura_emissor": "HERMILDO APCEN NOGUEIRA",
+    "observacoes": "M;"
+}
+```

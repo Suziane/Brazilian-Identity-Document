@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "PR521980038",
+  "numero": "220870441",
+  "numero_lateral": "58817129246",
+  "local": "RIO DO CAMPO-SC",
+  "data_emissao": "17/03/2004",
+  "assinatura_emissor": "BIJONGERMINO ALOWA 5",
+  "observacoes": ""
+}
+```

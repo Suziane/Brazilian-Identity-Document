@@ -1,0 +1,11 @@
+```json
+{
+  "código": "PF399545646",
+  "número": "31847804139",
+  "número lateral": "842631154",
+  "local": "MANAQUIRI-AM",
+  "data emissão": "18/11/2008",
+  "assinatura emissor": "SUFLEYC RISSARDI",
+  "observações": ""
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "código": "AL6840676",
+  "número": "59235942554",
+  "número_lateral": "08987062",
+  "local": "GETULINA SP",
+  "data_emissão": "28/01/1991",
+  "assinatura_emissor": "ROSELLI ROCHA",
+  "observações": "DETRAN MG MINAS GERAIS"
+}
+```

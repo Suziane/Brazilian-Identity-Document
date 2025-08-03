@@ -1,0 +1,11 @@
+```json
+{
+  "código": "MG005351385",
+  "número": "23702041725",
+  "número lateral": "261004499",
+  "local": "ITIRAPINA-SP",
+  "data emissão": "09/05/1955",
+  "assinatura emissor": "KATIA NUARA APARECI",
+  "observações": ""
+}
+```

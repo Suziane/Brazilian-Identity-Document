@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "G0145227849",
+  "numero": "92756264731",
+  "numero_lateral": "191725867",
+  "local": "QUIJINGUE-BA",
+  "data_emissao": "01/01/2001",
+  "assinatura_emissor": "CAVALCANTI",
+  "observacoes": "EXERCE ATIVIDADE REMUNERADA;"
+}
+```

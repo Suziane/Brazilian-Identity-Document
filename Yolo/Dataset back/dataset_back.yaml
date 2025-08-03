@@ -1,0 +1,12 @@
+train: /content/drive/MyDrive/dataset_back/images/train
+val: /content/drive/MyDrive/dataset_back/images/val
+test: /content/drive/MyDrive/dataset_back/images/test
+
+names:
+  0: numero
+  1: codigo
+  2: numero_lateral
+  3: local
+  4: data_emissao
+  5: assinatura_emissor
+  6: observacoes

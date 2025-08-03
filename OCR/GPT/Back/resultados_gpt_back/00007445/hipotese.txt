@@ -1,0 +1,11 @@
+```json
+{
+  "código": "BA295610409",
+  "número": "30188720431",
+  "número_lateral": "575480002",
+  "local": "BANANAL-SP",
+  "data_emissão": "02/03/1959",
+  "assinatura_emissor": "ABUKAMAR SOLIS ROZ",
+  "observações": "E;"
+}
+```

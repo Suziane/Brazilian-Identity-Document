@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "PE833939916",
+  "numero": "62347653240",
+  "numero_lateral": "933724386",
+  "local": "VILA BOCA-GO",
+  "data_emissao": "15/02/2002",
+  "assinatura_emissor": "FOLSTER GALD",
+  "observacoes": ""
+}
+```

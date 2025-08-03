@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "160463300",
+  "numero": "",
+  "numero_lateral": "",
+  "local": "PATOS-PE",
+  "data_emissao": "01/10/1973",
+  "assinatura_emissor": "MACUCO SCHOENM",
+  "observacoes": ""
+}
+```

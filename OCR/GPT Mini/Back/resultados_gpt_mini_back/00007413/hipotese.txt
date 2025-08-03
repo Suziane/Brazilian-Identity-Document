@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "RJ959394428",
+  "numero": "006928600",
+  "numero_lateral": "09780387187",
+  "local": "JÓIA-RS",
+  "data_emissao": "09/05/2008",
+  "assinatura_emissor": "CINTO GEHRINGER DA COSTA",
+  "observacoes": "X;"
+}
+```

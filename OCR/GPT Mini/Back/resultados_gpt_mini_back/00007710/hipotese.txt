@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "PR124931522",
+  "numero": "23441187586",
+  "numero_lateral": "51758952",
+  "local": "JUAZEIRO-BA",
+  "data_emissao": "25/05/1987",
+  "assinatura_emissor": "BISSON AMIGO F",
+  "observacoes": ""
+}
+```

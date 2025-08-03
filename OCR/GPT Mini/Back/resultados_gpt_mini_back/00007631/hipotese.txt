@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "434913068",
+  "numero": "",
+  "numero_lateral": "",
+  "local": "NOVA FÁTIMA-BA",
+  "data_emissao": "29/10/2004",
+  "assinatura_emissor": "SOPHIA THEISEN CA",
+  "observacoes": ""
+}
+```

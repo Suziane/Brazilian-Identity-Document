@@ -1,0 +1,11 @@
+```json
+{
+  "código": "BA295610409",
+  "número": "30188720431",
+  "número lateral": "575480002",
+  "local": "BANANAL-SP",
+  "data emissão": "02/03/1959",
+  "assinatura emissor": "ABUKAWYA SOLIS ROR",
+  "observações": "E"
+}
+```

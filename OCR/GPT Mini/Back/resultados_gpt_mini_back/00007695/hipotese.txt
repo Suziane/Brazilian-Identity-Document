@@ -1,0 +1,13 @@
+Aqui está o resultado organizado em formato JSON:
+
+```json
+{
+    "codigo": "AL568406760",
+    "numero": "08987062",
+    "numero lateral": "55235994454",
+    "local": "GETULINA-SP",
+    "data_emissao": "28/01/1991",
+    "assinatura_emissor": "ROSSELI RODERG",
+    "observacoes": ""
+}
+```

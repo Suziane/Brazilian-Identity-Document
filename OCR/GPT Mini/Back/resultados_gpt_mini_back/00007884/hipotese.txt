@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "40061115869",
+  "numero": "346700664",
+  "numero_lateral": "346700664",
+  "local": "GUIJARÁ-MIRIM-RO",
+  "data_emissao": "01/08/1993",
+  "assinatura_emissor": "VALIUZOS ERNANI PUGLIZ",
+  "observacoes": ""
+}
+```

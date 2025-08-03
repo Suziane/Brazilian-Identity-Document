@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "SE450739715",
+  "numero": "09079623663",
+  "numero_lateral": "515749310",
+  "local": "GUARULHOS-SP",
+  "data_emissao": "17/12/1966",
+  "assinatura_emissor": "GRIN REBIN IOHN TEIXEIRA",
+  "observacoes": ""
+}
+```

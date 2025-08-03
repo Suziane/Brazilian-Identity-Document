@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "SP278030857",
+    "numero": "5827776286",
+    "numero_lateral": "582776283",
+    "local": "TRINDADE-PE",
+    "data_emissao": "29/12/1955",
+    "assinatura_emissor": "MANFREDINE KAWAO",
+    "observacoes": ""
+}
+```

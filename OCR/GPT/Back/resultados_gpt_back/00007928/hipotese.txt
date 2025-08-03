@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "PI062612039",
+  "numero": "09846154138",
+  "numero_lateral": "682092435",
+  "local": "ITATIRA-CE",
+  "data_emissao": "25/12/1978",
+  "assinatura_emissor": "MITUI VOGELAAR",
+  "observacoes": "MJ E"
+}
+```

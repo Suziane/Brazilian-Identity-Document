@@ -1,0 +1,11 @@
+```json
+{
+  "código": "BA948381357",
+  "número": "85082143160",
+  "número_lateral": "535867151",
+  "local": "ITATIM-BA",
+  "data_emissão": "BÁLSAMO-SP",
+  "assinatura_emissor": "GNIDARCHITCHI FUGISAN",
+  "observações": "S; B; A;"
+}
+```

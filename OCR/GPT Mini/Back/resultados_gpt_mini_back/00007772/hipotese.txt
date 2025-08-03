@@ -1,0 +1,15 @@
+Aqui está a estrutura JSON com os dados extraídos da imagem:
+
+```json
+{
+    "codigo": "RS4550907078",
+    "numero": "426420531",
+    "numero_lateral": "14298914668",
+    "local": "ARAGUATINS- TO",
+    "data_emissao": "12/03/1950",
+    "assinatura_emissor": "JOSILANE SUGHWAN RAMO",
+    "observacoes": ""
+}
+```
+
+Se precisar de mais alguma informação ou de outro formato, me avise!

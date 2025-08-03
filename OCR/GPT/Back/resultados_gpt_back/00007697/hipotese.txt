@@ -1,0 +1,11 @@
+```json
+{
+  "código": "BA963304266",
+  "número": "01593338029",
+  "número_lateral": "165858485",
+  "local": "LUPERCIO-SP",
+  "data_emissao": "02/01/2005",
+  "assinatura_emissor": "DAURICIO KUROISHI",
+  "observações": ""
+}
+```

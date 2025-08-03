@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "PB082298107",
+  "numero": "815124510C2",
+  "numero_lateral": "201879724",
+  "local": "GOIANINHA-RN",
+  "data_emissao": "19/01/1958",
+  "assinatura_emissor": "",
+  "observacoes": ""
+}
+```

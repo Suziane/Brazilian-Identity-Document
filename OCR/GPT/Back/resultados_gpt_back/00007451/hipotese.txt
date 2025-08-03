@@ -1,0 +1,11 @@
+```json
+{
+  "código": "GO269190879",
+  "número": "94222756877",
+  "número lateral": "516534014",
+  "local": "BACABAL-MA",
+  "data emissão": "28/06/1962",
+  "assinatura emissor": "",
+  "observações": "M;"
+}
+```

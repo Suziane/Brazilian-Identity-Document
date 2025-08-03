@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "SP350543135",
+  "numero": "09944317360",
+  "numero_lateral": "03922480",
+  "local": "BANZAÊ-BA",
+  "data_emissao": "14/10/1987",
+  "assinatura_emissor": "SRIUBAS PETEGR",
+  "observacoes": ""
+}
+```

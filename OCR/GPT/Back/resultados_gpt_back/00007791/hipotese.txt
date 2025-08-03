@@ -1,0 +1,11 @@
+```json
+{
+  "código": "ES683316131",
+  "número": "24613336776",
+  "número_lateral": "537099259",
+  "local": "CHÃ PRETA-AL",
+  "data_emissão": "31/10/2014",
+  "assinatura_emissor": "",
+  "observações": "G;"
+}
+```

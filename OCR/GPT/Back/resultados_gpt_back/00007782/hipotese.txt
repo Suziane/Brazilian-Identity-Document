@@ -1,0 +1,11 @@
+```json
+{
+  "código": "11681097172",
+  "número": "MG225111426",
+  "número_lateral": "933604675",
+  "local": "COQUEIRO BAIXO-RS",
+  "data_emissão": "02/07/1975",
+  "assinatura_emissor": "",
+  "observações": "N;"
+}
+```

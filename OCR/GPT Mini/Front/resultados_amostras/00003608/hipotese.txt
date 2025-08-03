@@ -1,0 +1,21 @@
+Aqui está a estrutura JSON com os dados reconhecidos da imagem:
+
+```json
+{
+    "nome": "TAUKEUTI LINARES CAMIL",
+    "cpf": "324.824.170-58",
+    "filiação": "GEVANILDO LARANJEIRO CASTRO RAZABONE TOLOI STROHH",
+    "data_nascimento": "26/10/1964",
+    "primeira_habilitação": "05/10/1980",
+    "validade": "01/09/1990",
+    "documento_identidade": "961634018 SNJ PI",
+    "órgão_emissor": "SNJ",
+    "uf": "PI",
+    "número_registro": "416209932208",
+    "acc": "",
+    "permissão": "AB",
+    "categoria": ""
+}
+```
+
+Caso precise de mais alguma coisa, é só avisar!

@@ -1,0 +1,11 @@
+```json
+{
+  "código": "CD251777844",
+  "número": "26247692669",
+  "número_lateral": "931204593",
+  "local": "APARECIDA-SP",
+  "data_emissão": "20/09/1991",
+  "assinatura_emissor": "IMPARATO RHA",
+  "observações": ""
+}
+```

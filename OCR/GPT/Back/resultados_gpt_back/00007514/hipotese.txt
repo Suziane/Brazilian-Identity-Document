@@ -1,0 +1,11 @@
+```json
+{
+    "código": "SP235967166",
+    "número": "81916412947",
+    "número_lateral": "024092150",
+    "local": "ITAGUAÍ-RJ",
+    "data_emissão": "23/04/1984",
+    "assinatura_emissor": "ALEXSANDRO ROBETA",
+    "observações": ""
+}
+```

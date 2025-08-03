@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "524020589",
+  "numero": "524020589",
+  "numero_lateral": "",
+  "local": "GUARANHOB",
+  "data_emissao": "25/09/1975",
+  "assinatura_emissor": "",
+  "observacoes": ""
+}
+```

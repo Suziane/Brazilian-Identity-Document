@@ -1,0 +1,11 @@
+```json
+{
+    "código": "SP645635812",
+    "número": "35890668444",
+    "número lateral": "811722086",
+    "local": "BARRA MANSA-RJ",
+    "data emissão": "29/03/1951",
+    "assinatura emissor": "ARITA EGNALD",
+    "observações": ""
+}
+```

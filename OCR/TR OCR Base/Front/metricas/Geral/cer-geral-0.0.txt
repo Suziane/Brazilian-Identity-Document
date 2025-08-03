@@ -1,0 +1,12 @@
+0 total_files 720 mean_cer 0.00486 std_cer 0.04849 success 705 error 15
+1 total_files 720 mean_cer 0.03333 std_cer 0.20138 success 698 error 22
+2 total_files 720 mean_cer 0.01042 std_cer 0.04577 success 659 error 61
+3 total_files 720 mean_cer 0.02069 std_cer 0.23125 success 708 error 12
+4 total_files 720 mean_cer 0.01669 std_cer 0.07839 success 639 error 81
+5 total_files 720 mean_cer 0.0143 std_cer 0.04944 success 498 error 222
+6 total_files 720 mean_cer 0.00745 std_cer 0.04573 success 684 error 36
+7 total_files 720 mean_cer 0.01631 std_cer 0.06443 success 584 error 136
+8 total_files 720 mean_cer 0.0175 std_cer 0.22292 success 709 error 11
+9 total_files 720 mean_cer 0.04552 std_cer 0.20447 success 685 error 35
+10 total_files 20 mean_cer 0.12222 std_cer 0.03333 success 0 error 20
+11 total_files 0 mean_cer 0 std_cer 0 success 0 error 0

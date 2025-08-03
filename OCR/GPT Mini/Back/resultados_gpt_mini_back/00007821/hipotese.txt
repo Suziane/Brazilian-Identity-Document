@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "MG635295534",
+  "numero": "320963245",
+  "numero_lateral": "404803730397",
+  "local": "CAPELA-SE",
+  "data_emissao": "05/12/1959",
+  "assinatura_emissor": "LEVI SUGUINO MOTO FERREIRA",
+  "observacoes": "B;"
+}
+```

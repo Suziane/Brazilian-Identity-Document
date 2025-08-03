@@ -1,0 +1,11 @@
+```json
+{
+  "código": "PE414473485",
+  "número": "99825322258",
+  "número_lateral": "112056837",
+  "local": "MONTE SANTO-BA",
+  "data_emissão": "08/02/1975",
+  "assinatura_emissor": "TIAMARA FUMEMI PREST",
+  "observações": ""
+}
+```

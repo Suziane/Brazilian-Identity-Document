@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "373601834",
+    "numero": "61432734576",
+    "numero_lateral": "373601834",
+    "local": "CAJARI-MA",
+    "data_emissao": "04/06/1961",
+    "assinatura_emissor": "RODOVALHO DELB",
+    "observacoes": ""
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "código": "PR165647227",
+  "número": "30658767495",
+  "número lateral": "622930834",
+  "local": "SARDOÁ-MG",
+  "data emissão": "30/08/1977",
+  "assinatura emissor": "MOSER CANSANCÃO",
+  "observações": "B: W: G:"
+}
+```

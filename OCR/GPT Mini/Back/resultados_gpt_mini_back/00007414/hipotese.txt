@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "RJ944692213",
+  "numero": "727562700",
+  "numero_lateral": "49402774680",
+  "local": "JUNDIA-RN",
+  "data_emissao": "10/01/1979",
+  "assinatura_emissor": "CALVIELLO KEYI AL",
+  "observacoes": ""
+}
+```

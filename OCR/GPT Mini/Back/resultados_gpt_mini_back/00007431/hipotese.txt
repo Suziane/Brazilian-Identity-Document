@@ -1,0 +1,13 @@
+Aqui está o reconhecimento dos campos solicitados organizado em um arquivo JSON:
+
+```json
+{
+    "codigo": "ES834007167",
+    "numero": "10175479389",
+    "numero_lateral": "093809334",
+    "local": "IVAIPORÃ-PR",
+    "data_emissao": "05/02/2007",
+    "assinatura_emissor": "NACARATO FO",
+    "observacoes": ""
+}
+```

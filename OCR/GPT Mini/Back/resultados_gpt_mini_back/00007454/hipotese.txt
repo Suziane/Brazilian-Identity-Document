@@ -1,0 +1,13 @@
+Aqui está o resultado em formato JSON, baseado nas informações fornecidas:
+
+```json
+{
+    "codigo": "",
+    "numero": "359940481",
+    "numero_lateral": "359940481",
+    "local": "DOMINGOS MARTINS-ES",
+    "data_emissao": "28/03/2007",
+    "assinatura_emissor": "CARRASCO BOSQUIL 43580458137 SP346667691",
+    "observacoes": ""
+}
+```

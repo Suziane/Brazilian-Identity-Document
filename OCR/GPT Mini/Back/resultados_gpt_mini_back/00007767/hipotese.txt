@@ -1,0 +1,13 @@
+Aqui está o reconhecimento dos campos solicitados em formato JSON:
+
+```json
+{
+  "codigo": "CE251777844",
+  "numero": "931204593",
+  "numero_lateral": "26247692569",
+  "local": "APARECIDA-SP",
+  "data_emissao": "20/09/1981",
+  "assinatura_emissor": "IMPARATO RHA",
+  "observacoes": ""
+}
+```

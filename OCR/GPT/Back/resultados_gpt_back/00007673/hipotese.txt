@@ -1,0 +1,11 @@
+```json
+{
+  "código": "PR83193423",
+  "número": "92490976705",
+  "número_lateral": "135065820",
+  "local": "SAO MANOEL DO PARANA - PR",
+  "data_emissão": "27/10/1962",
+  "assinatura_emissor": "GRAJEW LOGUER",
+  "observações": ""
+}
+```

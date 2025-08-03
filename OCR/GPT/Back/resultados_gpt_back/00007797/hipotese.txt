@@ -1,0 +1,11 @@
+```json
+{
+  "código": "SP428318954",
+  "número": "61432734576",
+  "número lateral": "373601834",
+  "local": "CAJARI-MA",
+  "data emissão": "04/06/1961",
+  "assinatura emissor": "RODOVALHO DELB",
+  "observações": ""
+}
+```

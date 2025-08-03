@@ -1,0 +1,11 @@
+```json
+{
+    "código": "MG437020443",
+    "número": "58797083955",
+    "número_lateral": "344861505",
+    "local": "SOBRADO-PB",
+    "data_emissão": "31/07/1977",
+    "assinatura_emissor": "STOPATO TAMBE",
+    "observações": ""
+}
+```

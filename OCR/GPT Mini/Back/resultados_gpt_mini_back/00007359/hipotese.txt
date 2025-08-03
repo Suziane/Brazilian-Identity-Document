@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "SP029043648",
+  "numero": "732309217",
+  "numero_lateral": "732009217",
+  "local": "CORBÉLIA-PR",
+  "data_emissao": "04/09/1975",
+  "assinatura_emissor": "BUGANO BOURROU",
+  "observacoes": ""
+}
+```

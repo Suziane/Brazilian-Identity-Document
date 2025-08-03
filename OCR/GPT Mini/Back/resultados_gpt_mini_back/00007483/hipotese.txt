@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "MG024198517",
+  "numero": "88112494460",
+  "numero lateral": "454563287",
+  "local": "MALLET-PR",
+  "data emisao": "03/12/2005",
+  "assinatura emissor": "MASTROBUONO CARAM FERNANDES",
+  "observacoes": "K;"
+}
+```

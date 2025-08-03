@@ -1,0 +1,11 @@
+```json
+{
+  "código": "GO442336007",
+  "número": "42948284469",
+  "número lateral": "507636162",
+  "local": "FUNDÃO-ES",
+  "data emissão": "06/03/1965",
+  "assinatura emissor": "FRANCYELLY C",
+  "observações": ""
+}
+```

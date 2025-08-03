@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "832318549",
+  "numero": "15541067652",
+  "numero_lateral": "PB698220290",
+  "local": "MAVES-AM",
+  "data_emissao": "09/07/1981",
+  "assinatura_emissor": "COL SCUDELER ROSSI",
+  "observacoes": ""
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+    "código": "AL700158453",
+    "número": "43556453962",
+    "número_lateral": "94022710",
+    "local": "INUBIA PAULISTA-SP",
+    "data_emissão": "19/05/2001",
+    "assinatura_emissor": "MENEGHELLO QUINTAVALL",
+    "observações": ""
+}
+```

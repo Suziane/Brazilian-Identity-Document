@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "SC463412078",
+  "numero": "40003634225",
+  "numero_lateral": "825339443",
+  "local": "JAÚ-SP",
+  "data_emissao": "17/04/1962",
+  "assinatura_emissor": "CARMO BARTLEGA LE",
+  "observacoes": "M;"
+}
+```

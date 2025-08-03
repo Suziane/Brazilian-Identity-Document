@@ -1,0 +1,13 @@
+Aqui está o resultado em formato JSON com os dados reconhecidos:
+
+```json
+{
+    "codigo": "SE443969401",
+    "numero": "62154981373",
+    "numero_lateral": "953158671",
+    "local": "DOIS CORREGOS-SP",
+    "data_emissao": "17/03/1953",
+    "assinatura_emissor": "ASSINATURA DO EMISSOR",
+    "observacoes": "OBSERVAÇÕES"
+}
+```

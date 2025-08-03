@@ -1,0 +1,11 @@
+```json
+{
+    "código": "RN429262283",
+    "número": "02462964642",
+    "número lateral": "250374764",
+    "local": "CAJAMAR-SP",
+    "data emissão": "08/05/2000",
+    "assinatura emissor": "",
+    "observações": ""
+}
+```

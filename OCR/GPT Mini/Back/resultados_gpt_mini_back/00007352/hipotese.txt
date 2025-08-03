@@ -1,0 +1,13 @@
+Aqui está o resultado em formato JSON, com os dados reconhecidos:
+
+```json
+{
+  "codigo": "327609822",
+  "numero": "",
+  "numero_lateral": "",
+  "local": "IBICUI-BA",
+  "data_emissao": "15/12/1956",
+  "assinatura_emissor": "YONEKURA FARNES C",
+  "observacoes": "I;"
+}
+```

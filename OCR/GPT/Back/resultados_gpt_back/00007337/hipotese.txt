@@ -1,0 +1,11 @@
+```json
+{
+    "código": "SC917221162",
+    "número": "03706783505",
+    "número_lateral": "389767900",
+    "local": "MATINHAS-PB",
+    "data_emissão": "04/10/1987",
+    "assinatura_emissor": "MARCELO URVANE COSTA",
+    "observações": ""
+}
+```

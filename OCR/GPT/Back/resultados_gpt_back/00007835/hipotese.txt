@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "RS350435147",
+  "numero": "55258426390",
+  "numero_lateral": "976521018",
+  "local": "JATEÍ MS",
+  "data_emissao": "11/03/1973",
+  "assinatura_emissor": "RAMEONI GREGORIOF",
+  "observacoes": "Y,"
+}
+```

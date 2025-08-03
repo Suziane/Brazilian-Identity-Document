@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "CC65634437",
+  "numero": "95676610422",
+  "numero_lateral": "60521632",
+  "local": "MARCELANDIA - MT",
+  "data_emissao": "19/01/2007",
+  "assinatura_emissor": "LEONAR MINCOVI",
+  "observacoes": ""
+}
+```

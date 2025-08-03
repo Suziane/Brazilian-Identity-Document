@@ -1,0 +1,13 @@
+Aqui está o resultado do reconhecimento dos campos na imagem, organizado em formato JSON:
+
+```json
+{
+    "codigo": "SP150055258",
+    "numero": "71216110",
+    "numero_lateral": "79076657359",
+    "local": "NOVA NAZARÉ-MT",
+    "data_emissao": "09/06/1986",
+    "assinatura_emissor": "CÉCON GHIRALFINI EMA",
+    "observacoes": ""
+}
+```

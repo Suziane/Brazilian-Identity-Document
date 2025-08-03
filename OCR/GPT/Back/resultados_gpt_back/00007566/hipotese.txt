@@ -1,0 +1,11 @@
+```json
+{
+  "código": "MS213846938",
+  "número": "02716877676",
+  "número lateral": "383350832",
+  "local": "IAÇU-BA",
+  "data emissão": "10/09/1965",
+  "assinatura emissor": "HUSSID BASSORA TEIXEIRA",
+  "observações": ""
+}
+```

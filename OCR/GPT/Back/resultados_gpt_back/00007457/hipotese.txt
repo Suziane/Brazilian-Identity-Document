@@ -1,0 +1,11 @@
+```json
+{
+  "código": "MT340810994",
+  "número": "96351867783",
+  "número lateral": "631123252",
+  "local": "TIANGUÁ-CE",
+  "data emissão": "BAGE-RS",
+  "assinatura emissor": "KAYOKO HUSTON TAKITA",
+  "observações": "S: Q: D:"
+}
+```

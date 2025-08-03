@@ -1,0 +1,11 @@
+```json
+{
+    "código": "MG247573904",
+    "número": "88274346644",
+    "número lateral": "293736176",
+    "local": "ACRELÂNDIA-AC",
+    "data emissão": "24/09/2007",
+    "assinatura emissor": "TERUMI GOBBO SPERAN",
+    "observações": ""
+}
+```

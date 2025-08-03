@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "78904184901",
+    "numero": "167640510",
+    "numero_lateral": "",
+    "local": "IBITITARA-BA",
+    "data_emissao": "21/06/1952",
+    "assinatura_emissor": "",
+    "observacoes": ""
+}
+```

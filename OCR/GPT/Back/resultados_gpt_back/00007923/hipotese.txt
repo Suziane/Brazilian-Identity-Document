@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "GO137343293",
+  "numero": "90838457846",
+  "numero_lateral": "073923298",
+  "local": "SOURE-PA",
+  "data_emissao": "21/08/1955",
+  "assinatura_emissor": "ELIESER POLIT",
+  "observacoes": "I: P: Q:"
+}
+```

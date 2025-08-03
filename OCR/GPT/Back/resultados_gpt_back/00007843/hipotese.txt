@@ -1,0 +1,11 @@
+```json
+{
+  "código": "SP655298636",
+  "número": "8172379535",
+  "número lateral": "888611846",
+  "local": "COSMORAMA-SP",
+  "data emissão": "15/11/1973",
+  "assinatura emissor": "CHEFE MARQUEZI DA MOTA",
+  "observações": "F"
+}
+```

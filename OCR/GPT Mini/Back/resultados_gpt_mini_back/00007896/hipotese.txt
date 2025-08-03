@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "408621021283",
+  "numero": "74450296",
+  "numero_lateral": "74450296",
+  "local": "ITAQUI-RS",
+  "data_emissao": "18/01/1970",
+  "assinatura_emissor": "FACIS LIKIER O",
+  "observacoes": ""
+}
+```

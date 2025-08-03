@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "MG443151208",
+    "numero": "12650809",
+    "numero_lateral": "60416534982",
+    "local": "PARAISO-SC",
+    "data_emissao": "08/07/1960",
+    "assinatura_emissor": "E.FERREIRA KOSENOR",
+    "observacoes": ""
+}
+```

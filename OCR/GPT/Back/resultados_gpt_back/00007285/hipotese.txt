@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "PR09795160",
+  "numero": "51063167945",
+  "numero_lateral": "534935425",
+  "local": "SÃO JOÃO DEL REI-MG",
+  "data_emissao": "18/09/1969",
+  "assinatura_emissor": "SPACOV ZUGLIANI TIN",
+  "observacoes": ""
+}
+```

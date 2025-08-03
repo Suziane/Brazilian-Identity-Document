@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "73111070273",
+  "numero": "476549536",
+  "numero_lateral": "476549936",
+  "local": "ELIAS FAUSTO-SP",
+  "data_emissao": "24/07/1970",
+  "assinatura_emissor": "MUZZIO BARING",
+  "observacoes": ""
+}
+```

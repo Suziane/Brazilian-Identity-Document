@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "FB920282924",
+    "numero": "891072775",
+    "numero_lateral": "44644936892",
+    "local": "NOVO MACHADO-RS",
+    "data_emissao": "18/11/1952",
+    "assinatura_emissor": "",
+    "observacoes": "B;"
+}
+```

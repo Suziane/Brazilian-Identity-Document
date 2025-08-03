@@ -1,0 +1,13 @@
+Aqui está o resultado em JSON com base nos dados reconhecidos na imagem:
+
+```json
+{
+    "codigo": "R0347185401",
+    "numero": "340748385",
+    "numero_lateral": "55619403683",
+    "local": "IMBITUVA-PR",
+    "data_emissao": "06/01/1983",
+    "assinatura_emissor": "CERETO CHEI",
+    "observacoes": ""
+}
+```

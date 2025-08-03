@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "MG087003177",
+  "numero": "95555945705",
+  "numero_lateral": "353939102",
+  "local": "OEIRAS-PI",
+  "data_emissao": "31/07/2016",
+  "assinatura_emissor": "",
+  "observacoes": ""
+}
+```

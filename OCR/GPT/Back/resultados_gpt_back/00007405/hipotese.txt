@@ -1,0 +1,11 @@
+```json
+{
+  "código": "MG236891590",
+  "número": "21839402146",
+  "número lateral": "813908050",
+  "local": "SOROCABA-SP",
+  "data emissão": "15/02/1953",
+  "assinatura emissor": "YOUNG MAETRACOUZ DUARTE",
+  "observações": ""
+}
+```

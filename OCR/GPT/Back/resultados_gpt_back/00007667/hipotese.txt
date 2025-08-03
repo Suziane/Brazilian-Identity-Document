@@ -1,0 +1,11 @@
+```json
+{
+    "código": "RS296702778",
+    "número": "56575781742",
+    "número lateral": "554621250",
+    "local": "TARABAI-SP",
+    "data emissão": "16/08/1990",
+    "assinatura emissor": "SOLDATELLI LANGNOR QA",
+    "observações": ""
+}
+```

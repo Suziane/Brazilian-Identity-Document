@@ -1,0 +1,11 @@
+```json
+{
+  "código": "GO281646705",
+  "número": "30033528698",
+  "número_lateral": "142624968",
+  "local": "SERRANIA-MG",
+  "data_emissão": "16/03/1983",
+  "assinatura_emissor": "FELLIPI AIEDA G",
+  "observações": "Y"
+}
+```

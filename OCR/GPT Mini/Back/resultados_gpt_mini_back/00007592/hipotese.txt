@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "524020589",
+  "numero": "",
+  "numero_lateral": "",
+  "local": "GUARÁ-SP",
+  "data_emissao": "25/09/1975",
+  "assinatura_emissor": "BERNAL MARECHAL F",
+  "observacoes": "G ;"
+}
+```

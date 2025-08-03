@@ -1,0 +1,11 @@
+```json
+{
+  "código": "MG915748149",
+  "número": "30284964165",
+  "número_lateral": "37761128",
+  "local": "DIVINESIA-MG",
+  "data_emissão": "20/12/2003",
+  "assinatura_emissor": "ARENDA EIKA",
+  "observações": ""
+}
+```

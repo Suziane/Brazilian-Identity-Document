@@ -1,0 +1,12 @@
+```json
+{
+    "codigo": "GO250740060",
+    "numero": "74836346",
+    "numero_lateral": "35561150662",
+    "local": "PALMEIRANTE-TO",
+    "data_emissao": "24/09/1999",
+    "assinatura_emissor": "BAILELO SAURAMETO WI",
+    "assinatura_portador": "",
+    "observacoes": ""
+}
+```

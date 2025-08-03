@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "SC768004967",
+    "numero": "96257938253",
+    "numero_lateral": "418381153",
+    "local": "ITAPUCA-RS",
+    "data_emissao": "05/08/2003",
+    "assinatura_emissor": "ANALUCIA BUENO",
+    "observacoes": ""
+}
+```

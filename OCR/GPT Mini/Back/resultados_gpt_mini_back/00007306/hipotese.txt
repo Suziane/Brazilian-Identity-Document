@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "AL589740864",
+    "numero": "490633380",
+    "numero lateral": "490633380",
+    "local": "SÃO LUÍS DO CURU-CE",
+    "data_emissao": "14/12/1958",
+    "assinatura_emissor": "BALOGH MISSAG GALLEG 131127278614",
+    "observacoes": ""
+}
+```

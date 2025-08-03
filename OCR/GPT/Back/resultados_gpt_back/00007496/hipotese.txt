@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "GO15521895",
+  "numero": "35878636073",
+  "numero_lateral": "072757119",
+  "local": "AROEAZES-PI",
+  "data_emissao": "26/09/1962",
+  "assinatura_emissor": "MASSUITT VE",
+  "observacoes": ""
+}
+```

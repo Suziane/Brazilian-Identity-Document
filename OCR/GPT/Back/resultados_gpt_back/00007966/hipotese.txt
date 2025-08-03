@@ -1,0 +1,11 @@
+```json
+{
+    "código": "MG506945169",
+    "número": "74175619405",
+    "número_lateral": "595648557",
+    "local": "UNAI - MG",
+    "data_emissão": "20/02/1970",
+    "assinatura_emissor": "",
+    "observações": ""
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "código": "SP745305186",
+  "número": "36866510086",
+  "número_lateral": "4211813",
+  "local": "VANINI-RS",
+  "data_emissão": "08/10/1990",
+  "assinatura_emissor": "GREVE PINATTI AKU",
+  "observações": ""
+}
+```

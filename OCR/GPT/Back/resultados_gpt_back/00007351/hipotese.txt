@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "MG1241544",
+    "numero": "3031962087",
+    "numero_lateral": "968239",
+    "local": "GRAVATA - PE",
+    "data_emissao": "29/08/2023",
+    "assinatura_emissor": "",
+    "observacoes": ""
+}
+```

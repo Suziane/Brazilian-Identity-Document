@@ -1,0 +1,11 @@
+```json
+{
+  "código": "ER728505486",
+  "número": "16824363916",
+  "número lateral": "213521806",
+  "local": "FELIZ-RS",
+  "data emissão": "19/04/1979",
+  "assinatura emissor": "DURBANO SAVVA TO",
+  "observações": "I"
+}
+```

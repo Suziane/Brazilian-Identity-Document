@@ -1,0 +1,13 @@
+Aqui está o resultado em formato JSON com os dados reconhecidos:
+
+```json
+{
+  "codigo": "753619394",
+  "numero": "66279130482",
+  "numero_lateral": "753619394",
+  "local": "CANOCIM DE SÃO FÉLIX-PE",
+  "data_emissao": "07/04/2009",
+  "assinatura_emissor": "RN940796798",
+  "observacoes": ""
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "código": "AP063129231",
+  "número": "70514356185",
+  "número_lateral": "944887160",
+  "local": "BLUMENAU-SC",
+  "data_emissão": "15/06/2014",
+  "assinatura_emissor": "GIESER PANUNT",
+  "observações": ""
+}
+```

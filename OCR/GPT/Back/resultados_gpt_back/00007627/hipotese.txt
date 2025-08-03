@@ -1,0 +1,11 @@
+```json
+{
+  "código": "AC246653463",
+  "número": "73928112635",
+  "número lateral": "00119558",
+  "local": "CHAPECÓ-SC",
+  "data emissão": "20/12/1983",
+  "assinatura emissor": "OCDY DELPINO K DA ROSA",
+  "observações": ""
+}
+```

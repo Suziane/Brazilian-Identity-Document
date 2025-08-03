@@ -1,0 +1,11 @@
+```json
+{
+  "código": "BA296609627",
+  "número": "24500985479",
+  "número_lateral": "65964119",
+  "local": "URUOCA-CE",
+  "data_emissão": "04/08/1967",
+  "assinatura_emissor": "HOLZHACKER RUIA",
+  "observações": "V"
+}
+```

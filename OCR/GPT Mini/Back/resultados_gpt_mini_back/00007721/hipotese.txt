@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "469A74606",
+  "numero": "707823468418",
+  "numero_lateral": "",
+  "local": "PATU-RN",
+  "data_emissao": "13/04/1954",
+  "assinatura_emissor": "WEISHEITER MASANJOS",
+  "observacoes": ""
+}
+```

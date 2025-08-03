@@ -1,0 +1,11 @@
+```json
+{
+    "código": "PR521980038",
+    "número": "56817129246",
+    "número_lateral": "220870441",
+    "local": "RIO DO CAMPO-SC",
+    "data_emissão": "17/03/2004",
+    "assinatura_emissor": "",
+    "observações": "BIOENGENHARIA ALUNA 5"
+}
+```

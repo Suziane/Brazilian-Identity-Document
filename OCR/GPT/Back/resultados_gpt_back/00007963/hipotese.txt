@@ -1,0 +1,11 @@
+```json
+{
+  "código": "MG609165557",
+  "número": "28809516824",
+  "número lateral": "347632013",
+  "local": "GUAÍRA-PR",
+  "data emissão": "22/12/2015",
+  "assinatura emissor": "NASSIM AUD CIC",
+  "observações": ""
+}
+```

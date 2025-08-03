@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "PB688672928",
+  "numero": "18706228900",
+  "numero_lateral": "367659904",
+  "local": "MANHUAÇU-MG",
+  "data_emissao": "04/07/2004",
+  "assinatura_emissor": "LONI DÉCIO JÉSSI SOUZA",
+  "observacoes": "H;"
+}
+```

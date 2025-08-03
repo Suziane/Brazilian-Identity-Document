@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "RN272363065",
+  "numero": "90766983083",
+  "numero_lateral": "121484961",
+  "local": "SABINO-SP",
+  "data_emissao": "17/12/1979",
+  "assinatura_emissor": "FAVA BERRO CATAE",
+  "observacoes": ""
+}
+```

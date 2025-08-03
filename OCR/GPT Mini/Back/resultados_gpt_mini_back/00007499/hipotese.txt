@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "49638587406",
+  "numero": "953400040",
+  "numero_lateral": "953400040",
+  "local": "SEARA-SC",
+  "data_emissao": "14/09/1996",
+  "assinatura_emissor": "LUCENTE IMPROTA PEL",
+  "observacoes": ""
+}
+```

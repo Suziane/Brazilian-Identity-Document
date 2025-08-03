@@ -1,0 +1,11 @@
+```json
+{
+  "código": "PB325416697",
+  "número": "282554863176",
+  "número_lateral": "796436712",
+  "local": "MATUPÁ-MT",
+  "data_emissão": "20/04/1966",
+  "assinatura_emissor": "SQUAREZE FOVIZEK BARROS",
+  "observações": "I;"
+}
+```

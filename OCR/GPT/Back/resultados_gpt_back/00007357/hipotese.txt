@@ -1,0 +1,11 @@
+```json
+{
+  "código": "RO338154991",
+  "número": "32043937932",
+  "número lateral": "21541187",
+  "local": "SILVEIRÂNIA-MG",
+  "data emissão": "29/11/1998",
+  "assinatura emissor": "TORBITONI MASSADI REZ",
+  "observações": ""
+}
+```

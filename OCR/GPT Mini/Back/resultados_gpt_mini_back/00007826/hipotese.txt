@@ -1,0 +1,13 @@
+Aqui está o reconhecimento dos campos solicitados, estruturado em formato JSON:
+
+```json
+{
+  "codigo": "BA295610409",
+  "numero": "575480002",
+  "numero_lateral": "30188720431",
+  "local": "BANANAL-SP",
+  "data_emissao": "02/03/1959",
+  "assinatura_emissor": "ABURAMZ SOLIS RO",
+  "observacoes": "E;"
+}
+```

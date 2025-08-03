@@ -1,0 +1,11 @@
+```json
+{
+    "código": "SP150055258",
+    "número": "79076657359",
+    "número_lateral": "71216110",
+    "local": "NOVA NAZARÉ-MT",
+    "data_emissão": "09/06/1986",
+    "assinatura_emissor": "CECCON GHIRALDINI EMA",
+    "observações": ""
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "número": "03937396023",
+  "código": "BA817315981",
+  "número_lateral": "461866046",
+  "local": "RECIFE-PE",
+  "data_emissão": "10/04/1980",
+  "assinatura_emissor": "KUNIYOSHI CABIAN",
+  "observações": "T:"
+}
+```

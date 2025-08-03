@@ -1,0 +1,11 @@
+```json
+{
+  "código": "PE536379978",
+  "número": "53751320441",
+  "número lateral": "904352399",
+  "local": "PONGAI-SP",
+  "data emissão": "07/11/2003",
+  "assinatura emissor": "SPOSITO MIYON FERNANDES",
+  "observações": ""
+}
+```

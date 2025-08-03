@@ -1,0 +1,15 @@
+Aqui está o resultado estruturado em formato JSON, conforme solicitado:
+
+```json
+{
+  "codigo": "30284964165",
+  "numero": "37761128",
+  "numero_lateral": "37761128",
+  "local": "DIVINESIA-MG",
+  "data_emissao": "20/12/2003",
+  "assinatura_emissor": "ARENDA EIKA",
+  "observacoes": ""
+}
+```
+
+Se precisar de mais alguma coisa, estou à disposição!

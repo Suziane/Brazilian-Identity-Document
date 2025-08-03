@@ -1,0 +1,11 @@
+```json
+{
+  "código": "G0840877998",
+  "número": "88835404892",
+  "número_lateral": "219651190",
+  "local": "DUMONT-SP",
+  "data_emissao": "21/02/2012",
+  "assinatura_emissor": "KOSTRISCH THOMAZEL",
+  "observacoes": "V;"
+}
+```

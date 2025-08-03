@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "72720270",
+  "numero": "19781001735",
+  "numero_lateral": "",
+  "local": "ARACAJI",
+  "data_emissao": "20/11/1972",
+  "assinatura_emissor": "GUILHERME NUNES NERIS",
+  "observacoes": "PROIBIDO PLASTIFICAR"
+}
+```

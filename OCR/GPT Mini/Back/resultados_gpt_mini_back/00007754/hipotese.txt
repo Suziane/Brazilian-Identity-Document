@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "SP464936093",
+    "numero": "062256437",
+    "numero_lateral": "836969904034",
+    "local": "ARACI-BA",
+    "data_emissao": "24/07/1991",
+    "assinatura_emissor": "SETTI MARILUZA G RAMOS",
+    "observacoes": "X; H;"
+}
+```

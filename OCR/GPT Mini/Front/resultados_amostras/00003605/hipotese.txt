@@ -1,0 +1,21 @@
+Aqui está o resultado em formato JSON baseado nos dados reconhecidos na imagem:
+
+```json
+{
+    "nome": "GALIZIA EVELY ANOUCH",
+    "CPF": "871.764.264-73",
+    "filiação": "EVIA STENEO ELIANE CASTRO BRIANEZE GLAESSNER BAKRE BARBOSA",
+    "data_de_nascimento": "20/01/1963",
+    "primeira_habilitação": "9112909060",
+    "validade": "18/04/2002",
+    "documento_de_identidade": "",
+    "órgão_emissor": "POM",
+    "UF": "SE",
+    "número_do_registro": "10550552473",
+    "ACC": "",
+    "permissão": "A",
+    "categoria": ""
+}
+```
+
+Caso precise de mais alguma informação, é só avisar!

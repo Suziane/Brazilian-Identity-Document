@@ -1,0 +1,11 @@
+```json
+{
+  "código": "MGS96745690",
+  "número": "23613608128",
+  "número lateral": "021478",
+  "local": "NILOPOLIS-RJ",
+  "data emissão": "29/11/1951",
+  "assinatura emissor": "RUTA BENNETT GUIZ",
+  "observações": ""
+}
+```

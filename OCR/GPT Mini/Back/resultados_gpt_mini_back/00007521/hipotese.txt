@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "052491387",
+  "numero": "9888759436",
+  "numero_lateral": "9681345630",
+  "local": "Pocaraná PR",
+  "data_emissao": "02/10/2008",
+  "assinatura_emissor": "Assinatura do emissor",
+  "observacoes": "Proibido plastificar"
+}
+```

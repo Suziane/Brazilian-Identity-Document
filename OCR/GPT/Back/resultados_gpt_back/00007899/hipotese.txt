@@ -1,0 +1,11 @@
+```json
+{
+  "código": "PI296117328",
+  "número": "25845111966",
+  "número lateral": "715127380",
+  "local": "UBÁ-MG",
+  "data emissão": "07/02/2019",
+  "assinatura emissor": "COLETI ARGENTÃO MUCIN",
+  "observações": ""
+}
+```

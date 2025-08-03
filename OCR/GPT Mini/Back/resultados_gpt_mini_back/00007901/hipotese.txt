@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "PB370567961",
+  "numero": "747331336249",
+  "numero_lateral": "359772",
+  "local": "PICUI-PB",
+  "data_emissao": "30/07/1957",
+  "assinatura_emissor": "DARIO PAIXAO AMOR",
+  "observacoes": ""
+}
+```

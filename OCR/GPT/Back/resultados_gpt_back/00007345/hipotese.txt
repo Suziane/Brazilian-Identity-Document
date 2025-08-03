@@ -1,0 +1,11 @@
+```json
+{
+  "código": "RS420512585",
+  "número": "48045594539",
+  "número_lateral": "169542723",
+  "local": "MORRINHOS-CE",
+  "data_emissão": "18/10/1985",
+  "assinatura_emissor": "MCNTES TERUKAZU VITH",
+  "observações": ""
+}
+```

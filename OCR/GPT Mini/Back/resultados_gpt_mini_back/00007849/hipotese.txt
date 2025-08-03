@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "PB699286873",
+  "numero": "68080760704",
+  "numero_lateral": "65273910",
+  "local": "TUNAS-RS",
+  "data_emissao": "08/07/1984",
+  "assinatura_emissor": "TEIMO SEGURA DE CALDEIRA",
+  "observacoes": "A ;"
+}
+```

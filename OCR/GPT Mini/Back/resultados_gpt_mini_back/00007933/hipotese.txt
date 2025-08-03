@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "373601834",
+  "numero": "",
+  "numero_lateral": "61432734576",
+  "local": "CJARATI-MA",
+  "data_emissao": "04/06/1961",
+  "assinatura_emissor": "RODOVÁLHO DELB",
+  "observacoes": "DETRAN MG MINAS GERAIS"
+}
+```

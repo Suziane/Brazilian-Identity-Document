@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "MA471485919",
+  "numero": "20531910036",
+  "numero_lateral": "052249800",
+  "local": "TOCANTINIA-TO",
+  "data_emissao": "06/09/2009",
+  "assinatura_emissor": "",
+  "observacoes": "V;"
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "MG443151308",
+    "numero": "60416534982",
+    "numero_lateral": "126508099",
+    "local": "PARAISO-SC",
+    "data_emissao": "08/07/1960",
+    "assinatura_emissor": "BEIRENDECH VOSKINOR",
+    "observacoes": ""
+}
+```

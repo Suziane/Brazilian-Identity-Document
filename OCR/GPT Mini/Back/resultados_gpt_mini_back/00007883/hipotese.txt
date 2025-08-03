@@ -1,0 +1,13 @@
+Aqui está o resultado em formato JSON com os campos reconhecidos com base na imagem fornecida:
+
+```json
+{
+  "codigo": "120473366508",
+  "numero": "6995436312",
+  "numero_lateral": "120473366508",
+  "local": "CANARANA-BA",
+  "data_emissao": "05/05/2008",
+  "assinatura_emissor": "VALENTIM BRUN S Nascimento",
+  "observacoes": ""
+}
+```

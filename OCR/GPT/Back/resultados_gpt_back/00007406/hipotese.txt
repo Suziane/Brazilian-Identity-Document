@@ -1,0 +1,11 @@
+```json
+{
+  "numero": "03028450526",
+  "codigo": "ES938715603",
+  "numero_lateral": "106621303",
+  "local": "GUAÌRA-SP",
+  "data_emissao": "13/05/1973",
+  "assinatura_emissor": "GHERCOY KIHARA",
+  "observacoes": ""
+}
+```

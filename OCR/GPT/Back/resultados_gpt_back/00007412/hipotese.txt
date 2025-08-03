@@ -1,0 +1,11 @@
+```json
+{
+    "código": "MG478804132",
+    "número": "54495643217",
+    "número_lateral": "404239877",
+    "local": "CHÁ DE ALEGRIA-PE",
+    "data_emissão": "06/06/1966",
+    "assinatura_emissor": "NOCE DELIBERTO BENE",
+    "observações": ""
+}
+```

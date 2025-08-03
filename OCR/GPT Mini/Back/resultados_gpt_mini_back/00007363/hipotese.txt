@@ -1,0 +1,13 @@
+Aqui está o resultado em formato JSON baseado na imagem fornecida:
+
+```json
+{
+  "codigo": "681909576",
+  "numero": "99973346157",
+  "numero_lateral": "",
+  "local": "GUARÂNIA - SP",
+  "data_emissao": "20/12/1968",
+  "assinatura_emissor": "TRAVASSOS CONCEL",
+  "observacoes": ""
+}
+```

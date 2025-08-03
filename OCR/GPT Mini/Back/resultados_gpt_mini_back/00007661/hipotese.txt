@@ -1,0 +1,13 @@
+Aqui está o JSON com os dados reconhecidos da imagem:
+
+```json
+{
+  "codigo": "SC417048312",
+  "numero": "289098397725",
+  "numero_lateral": "904693906",
+  "local": "QUILOMBO-SC",
+  "data_emissao": "19/09/1983",
+  "assinatura_emissor": "DANIA TOMEI IOST",
+  "observacoes": ""
+}
+```

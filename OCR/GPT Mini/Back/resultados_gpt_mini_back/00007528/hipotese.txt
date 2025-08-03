@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "SC441488329",
+    "numero": "76364059289",
+    "numero_lateral": "606268858",
+    "local": "MALTA-PB",
+    "data_emissao": "28/01/1985",
+    "assinatura_emissor": "ROSETTI MITSUGUI ARAGAO",
+    "observacoes": "B; G;"
+}
+```

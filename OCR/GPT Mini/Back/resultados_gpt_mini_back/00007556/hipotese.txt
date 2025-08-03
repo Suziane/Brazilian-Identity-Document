@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "PA232260720",
+  "numero": "314015403",
+  "numero_lateral": "",
+  "local": "NOVA ERA-MG",
+  "data_emissao": "30/06/1988",
+  "assinatura_emissor": "TADARINI HATI TOREGA",
+  "observacoes": ""
+}
+```

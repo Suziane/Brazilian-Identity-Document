@@ -1,0 +1,15 @@
+Aqui está o resultado em formato JSON com os campos reconhecidos:
+
+```json
+{
+  "codigo": "30319520837",
+  "numero": "968239",
+  "numero_lateral": "",
+  "local": "CRAVATA DE",
+  "data_emissao": "29/08/2023",
+  "assinatura_emissor": "",
+  "observacoes": ""
+}
+```
+
+Caso algum campo não tenha sido encontrado, ele foi escrito como uma string vazia conforme solicitado.

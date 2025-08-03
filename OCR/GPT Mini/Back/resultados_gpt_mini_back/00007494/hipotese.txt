@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "SP775829671",
+  "numero": "3219196800",
+  "numero_lateral": "1916800",
+  "local": "CORUMBÁIBA-GO",
+  "data_emissao": "26/11/2020",
+  "assinatura_emissor": "VASQUES KRIESEL C FREITAS",
+  "observacoes": ""
+}
+```

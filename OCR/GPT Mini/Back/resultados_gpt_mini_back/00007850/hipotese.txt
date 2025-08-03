@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "642249697",
+  "numero": "20008723058",
+  "numero_lateral": "",
+  "local": "LAJEDO-PE",
+  "data_emissao": "15/03/1977",
+  "assinatura_emissor": "RIBAK DESENA M",
+  "observacoes": ""
+}
+```

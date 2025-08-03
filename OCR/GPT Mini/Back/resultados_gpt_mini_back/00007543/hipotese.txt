@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "36850909382",
+    "numero": "753601204",
+    "numero_lateral": "753601204",
+    "local": "NOBRES-MT",
+    "data_emissao": "07/03/1983",
+    "assinatura_emissor": "KITAGAWA BRAGA",
+    "observacoes": ""
+}
+```

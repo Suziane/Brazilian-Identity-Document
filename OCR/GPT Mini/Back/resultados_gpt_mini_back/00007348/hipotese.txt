@@ -1,0 +1,13 @@
+Aqui está o resultado em formato JSON baseado nas informações da imagem:
+
+```json
+{
+    "codigo": "ES976450438",
+    "numero": "341539449",
+    "numero_lateral": "57735442255",
+    "local": "RIO NOVO-MG",
+    "data_emissao": "08/09/1966",
+    "assinatura_emissor": "FEEDRICE TOMA",
+    "observacoes": ""
+}
+```

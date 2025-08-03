@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "622798350",
+    "numero": "34727295931",
+    "numero_lateral": "",
+    "local": "CAREACU-MG",
+    "data_emissao": "08/03/1995",
+    "assinatura_emissor": "PEZZI LIBONI CA",
+    "observacoes": ""
+}
+```

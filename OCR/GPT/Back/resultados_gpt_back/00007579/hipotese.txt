@@ -1,0 +1,11 @@
+```json
+{
+  "código": "SC36451996",
+  "número": "994898484243",
+  "número lateral": "131403694",
+  "local": "MIGUEL LEÃO-PI",
+  "data emissão": "C4/03/1971",
+  "assinatura emissor": "",
+  "observações": ""
+}
+```

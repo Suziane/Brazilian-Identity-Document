@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "AL6480676",
+    "numero": "589239494534",
+    "numero_lateral": "09897062",
+    "local": "SABETULINA SP",
+    "data_emissao": "28/01/1991",
+    "assinatura_emissor": "ROSSELLI ROBERTO",
+    "observacoes": ""
+}
+```

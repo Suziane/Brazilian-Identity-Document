@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "9743186",
+    "numero": "95346526650",
+    "numero_lateral": "",
+    "local": "ASCURRA-SC",
+    "data_emissao": "31/03/2001",
+    "assinatura_emissor": "BENDICT HENRIQUE RODRIGUES",
+    "observacoes": ""
+}
+```

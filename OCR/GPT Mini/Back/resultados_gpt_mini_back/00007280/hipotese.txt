@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "G0811646705",
+    "numero": "30033528698",
+    "numero_lateral": "142624968",
+    "local": "SERRANIA-MG",
+    "data_emissao": "16/03/1983",
+    "assinatura_emissor": "FELLIPI ALEDA G",
+    "observacoes": "Y;"
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "PR051118062",
+  "numero": "21679555643",
+  "numero_lateral": "916496578",
+  "local": "ROSÁRIO DO IVAÍ-PR",
+  "data_emissao": "13/06/1968",
+  "assinatura_emissor": "PROSPERO LLO",
+  "observacoes": ""
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "RN343210610",
+  "numero": "24334389544",
+  "numero_lateral": "858767800",
+  "local": "QUATA-SP",
+  "data_emissao": "GOIANA-PE",
+  "assinatura_emissor": "OTUBO PONANI MAJIMA",
+  "observacoes": "O: EXERCE ATIVIDADE REMUNERADA; R;"
+}
+```

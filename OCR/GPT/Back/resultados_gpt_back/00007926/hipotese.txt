@@ -1,0 +1,11 @@
+```json
+{
+  "código": "SP99650468",
+  "número": "68298070269",
+  "número_lateral": "62891177",
+  "local": "CONTENDA-PR",
+  "data_emissão": "31/10/1985",
+  "assinatura_emissor": "",
+  "observações": ""
+}
+```

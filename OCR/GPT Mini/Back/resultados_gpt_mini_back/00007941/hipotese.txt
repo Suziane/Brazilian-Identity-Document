@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "748398250",
+  "numero": "97372573765",
+  "numero_lateral": "",
+  "local": "CAMOCIM-CE",
+  "data_emissao": "30/07/1993",
+  "assinatura_emissor": "MALPELI SCEME",
+  "observacoes": ""
+}
+```

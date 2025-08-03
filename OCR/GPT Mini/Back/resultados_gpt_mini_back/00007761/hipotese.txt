@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "926666040",
+  "numero": "",
+  "numero_lateral": "",
+  "local": "NOVA OLINDA-TO",
+  "data_emissao": "18/05/1987",
+  "assinatura_emissor": "CAMACHI CAMPECCI TH",
+  "observacoes": ""
+}
+```

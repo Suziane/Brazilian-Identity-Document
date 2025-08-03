@@ -1,0 +1,11 @@
+```json
+{
+  "código": "MG596745690",
+  "número": "23613608128",
+  "número_lateral": "027478",
+  "local": "NILOPOLIS-RJ",
+  "data_emissão": "29/11/1951",
+  "assinatura_emissor": "",
+  "observações": ""
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "599965124",
+  "numero": "267029248164",
+  "numero_lateral": "",
+  "local": "ASSARE-CE",
+  "data_emissao": "21/02/2006",
+  "assinatura_emissor": "CHIERO THAYTANA M",
+  "observacoes": ""
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "09771916",
+  "numero": "62679751117",
+  "numero_lateral": "09771916",
+  "local": "SÃO JOSÉ DO BONFIM-PB",
+  "data_emissao": "16/09/1998",
+  "assinatura_emissor": "CE066053396",
+  "observacoes": ""
+}
+```

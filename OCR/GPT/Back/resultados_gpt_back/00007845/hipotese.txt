@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "SP437273288",
+  "numero": "62482222042",
+  "numero_lateral": "449677702",
+  "local": "AFRANIO-PE",
+  "data_emissao": "30/10/2010",
+  "assinatura_emissor": "",
+  "observacoes": ""
+}
+```

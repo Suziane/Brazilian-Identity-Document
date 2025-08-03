@@ -1,0 +1,13 @@
+Aqui está o resultado em formato JSON com os dados reconhecidos:
+
+```json
+{
+  "codigo": "024092150",
+  "numero": "",
+  "numero_lateral": "",
+  "local": "ITAGUAÍ-RJ",
+  "data_emissao": "23/04/1984",
+  "assinatura_emissor": "ALEXSANDRO KOETA",
+  "observacoes": ""
+}
+```

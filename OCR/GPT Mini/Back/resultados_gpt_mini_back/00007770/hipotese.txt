@@ -1,0 +1,15 @@
+Aqui está o resultado em formato JSON com os dados reconhecidos conforme solicitado:
+
+```json
+{
+  "codigo": "PR664363774",
+  "numero": "20985251857",
+  "numero_lateral": "296196582",
+  "local": "OROCO-PE",
+  "data_emissao": "20/05/2010",
+  "assinatura_emissor": "RUSCA HELINO BOUF",
+  "observacoes": "C; X; D; EXERCE ATIVIDADE REMUNERADA:"
+}
+```
+
+Todos os campos foram organizados de acordo com as informações disponíveis na imagem. Se houver alguma dúvida ou necessidade de ajustes, por favor, avise!

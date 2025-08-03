@@ -1,0 +1,11 @@
+```json
+{
+  "código": "ES043763793",
+  "número": "12559319590",
+  "número_lateral": "55113635",
+  "local": "VITORIA BRASIL-SP",
+  "data_emissão": "24/01/2002",
+  "assinatura_emissor": "VIZZACCARO FUN",
+  "observações": ""
+}
+```

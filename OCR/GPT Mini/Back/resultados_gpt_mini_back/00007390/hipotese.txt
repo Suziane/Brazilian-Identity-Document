@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "09053258",
+  "numero": "34610221406",
+  "numero_lateral": "",
+  "local": "LAGOA DO CEDRO - RS",
+  "data_emissao": "22/04/1994",
+  "assinatura_emissor": "LAIZA BURKHARDT",
+  "observacoes": ""
+}
+```

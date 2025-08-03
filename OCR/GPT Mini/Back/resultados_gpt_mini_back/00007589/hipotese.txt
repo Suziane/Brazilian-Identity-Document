@@ -1,0 +1,13 @@
+Aqui está o reconhecimento dos campos solicitados, organizado em formato JSON:
+
+```json
+{
+  "codigo": "3027144292",
+  "numero": "",
+  "numero_lateral": "3027144292",
+  "local": "TAPIRA-PR",
+  "data_emissao": "26/09/1987",
+  "assinatura_emissor": "DURANT BLENDA",
+  "observacoes": ""
+}
+```

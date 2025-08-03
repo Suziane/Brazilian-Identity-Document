@@ -1,0 +1,11 @@
+```json
+{
+  "código": "MG952373698",
+  "número": "66598854909",
+  "número lateral": "394476985",
+  "local": "QUIXABA-PE",
+  "data emissão": "26/07/1991",
+  "assinatura emissor": "COSTARD SETOGUTE MORGIRA",
+  "observações": ""
+}
+```

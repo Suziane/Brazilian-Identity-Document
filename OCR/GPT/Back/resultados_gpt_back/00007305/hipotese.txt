@@ -1,0 +1,11 @@
+```json
+{
+  "código": "CE734618325",
+  "número": "33141155234",
+  "número_lateral": "838420150",
+  "local": "RIO POMBA-MG",
+  "data_emissao": "19/02/1971",
+  "assinatura_emissor": "LESSIO OSVALDIR VOI",
+  "observações": ""
+}
+```

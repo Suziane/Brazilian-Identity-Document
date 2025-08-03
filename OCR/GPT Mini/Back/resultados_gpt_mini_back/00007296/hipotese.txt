@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "SE922065976",
+  "numero": "71536997588",
+  "numero_lateral": "682589896",
+  "local": "SANTIAGO-RS",
+  "data_emissao": "03/04/1983",
+  "assinatura_emissor": "ODNEIA KAROL GEMI",
+  "observacoes": "F ;"
+}
+```

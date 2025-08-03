@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "BA40089446",
+  "numero": "24827424499",
+  "numero_lateral": "786538964",
+  "local": "VARZEA-PB",
+  "data_emissao": "12/11/1971",
+  "assinatura_emissor": "ZUGAR LAELIA SOCH",
+  "observacoes": ""
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "código": "PR217633500",
+  "número": "66905581921",
+  "número_lateral": "861881785",
+  "local": "SOURE-PA",
+  "data_emissão": "02/10/1971",
+  "assinatura_emissor": "HERMELINDO AFOJEN NOGUEIRA",
+  "observações": "M;"
+}
+```

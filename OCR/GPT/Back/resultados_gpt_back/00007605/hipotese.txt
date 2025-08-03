@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "PR304964254",
+  "numero": "70838973999",
+  "numero_lateral": "959524115",
+  "local": "ANGICOS-RN",
+  "data_emissao": "22/06/2013",
+  "assinatura_emissor": "",
+  "observacoes": ""
+}
+```

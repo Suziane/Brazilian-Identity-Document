@@ -1,0 +1,11 @@
+```json
+{
+  "código": "AP391317767",
+  "número": "76679300781",
+  "número_lateral": "724294909",
+  "local": "COTIA-SP",
+  "data_emissão": "26/09/1951",
+  "assinatura_emissor": "MATSUURA PULIE",
+  "observações": ""
+}
+```

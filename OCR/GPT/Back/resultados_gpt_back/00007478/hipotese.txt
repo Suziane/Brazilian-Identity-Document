@@ -1,0 +1,11 @@
+```json
+{
+  "código": "MG320312048",
+  "número": "50586071713",
+  "número lateral": "954323165",
+  "local": "TACIBA-SP",
+  "data emissão": "19/11/1953",
+  "assinatura emissor": "ADALMIER MAZZILLI",
+  "observações": "P; C;"
+}
+```

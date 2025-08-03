@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "SE381915488",
+  "numero": "05090414803",
+  "numero_lateral": "778434478",
+  "local": "JANDAIA-GO",
+  "data_emissao": "11/12/1987",
+  "assinatura_emissor": "ETC CROUZILLARD M",
+  "observacoes": "N: C: D: J:"
+}
+```

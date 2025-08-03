@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "PB869961030",
+  "numero": "22121142291",
+  "numero lateral": "740205315",
+  "local": "LAJES-RN",
+  "data emissao": "11/01/2012",
+  "assinatura emissor": "LIDIO VAZQUEZ",
+  "observacoes": "G; Q;"
+}
+```

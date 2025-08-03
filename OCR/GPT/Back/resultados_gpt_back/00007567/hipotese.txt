@@ -1,0 +1,11 @@
+```json
+{
+  "código": "RO100796439",
+  "número": "45129508354",
+  "número_lateral": "253279257",
+  "local": "CAMPO NOVO-RS",
+  "data_emissão": "16/11/1972",
+  "assinatura_emissor": "",
+  "observações": ""
+}
+```

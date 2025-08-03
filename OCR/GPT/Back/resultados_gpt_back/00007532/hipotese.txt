@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "GO941695541",
+  "numero": "35210591267",
+  "numero_lateral": "451359774",
+  "local": "IOMERÊ-SC",
+  "data_emissao": "14/04/1978",
+  "assinatura_emissor": "",
+  "observacoes": ""
+}
+```

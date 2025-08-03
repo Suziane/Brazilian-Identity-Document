@@ -1,0 +1,11 @@
+```json
+{
+  "código": "PR879174241",
+  "número": "67017867113",
+  "número_lateral": "790562519",
+  "local": "PARAISO-SP",
+  "data_emissão": "04/03/1984",
+  "assinatura_emissor": "ERISON KASUE B",
+  "observações": ""
+}
+```

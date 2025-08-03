@@ -1,0 +1,11 @@
+```json
+{
+  "código": "RJ565164598",
+  "número": "89792156425",
+  "número lateral": "667352071",
+  "local": "ITIUBA-BA",
+  "data emissão": "26/10/1959",
+  "assinatura emissor": "TRIEUZZI FLAVIAN DA LUZ",
+  "observações": ""
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+    "código": "MG038533423",
+    "número": "08945885301",
+    "número_lateral": "901340872",
+    "local": "SOURE-PA",
+    "data_emissão": "05/07/1987",
+    "assinatura_emissor": "",
+    "observações": ""
+}
+```

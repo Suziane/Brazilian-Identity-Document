@@ -1,0 +1,11 @@
+```json
+{
+  "número": "49586877156",
+  "código": "MC475838678",
+  "número lateral": "174283382",
+  "local": "BATAQUASSU-MS",
+  "data emissão": "04/07/1955",
+  "assinatura emissor": "BARÃO PAPAY",
+  "observações": ""
+}
+```

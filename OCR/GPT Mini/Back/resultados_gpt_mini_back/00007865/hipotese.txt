@@ -1,0 +1,13 @@
+Aqui está o resultado organizando os dados reconhecidos em um arquivo JSON:
+
+```json
+{
+  "codigo": "901464165",
+  "numero": "12763122091",
+  "numero_lateral": "",
+  "local": "MIRAGUAI-RS",
+  "data_emissao": "14/11/1957",
+  "assinatura_emissor": "BITELI MAULEN",
+  "observacoes": ""
+}
+```

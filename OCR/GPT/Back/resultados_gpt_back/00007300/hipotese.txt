@@ -1,0 +1,11 @@
+```json
+{
+  "código": "RS168079380",
+  "número": "99774028327",
+  "número_lateral": "566362670",
+  "local": "ANORI-AM",
+  "data_emissão": "20/01/1953",
+  "assinatura_emissor": "",
+  "observações": "T;"
+}
+```

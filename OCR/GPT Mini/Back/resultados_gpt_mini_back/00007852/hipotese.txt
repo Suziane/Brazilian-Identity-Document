@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "SP229687026",
+    "numero": "926666040",
+    "numero_lateral": "926666040",
+    "local": "NOVA OLINDAT0",
+    "data_emissao": "18/05/1987",
+    "assinatura_emissor": "CAMACHI CAMPACCI TH 04844758828",
+    "observacoes": ""
+}
+```

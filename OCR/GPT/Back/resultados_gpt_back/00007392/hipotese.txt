@@ -1,0 +1,11 @@
+```json
+{
+    "código": "ES173699314",
+    "número": "81400960249",
+    "número lateral": "96566932",
+    "local": "CALMON-SC",
+    "data emissão": "31/03/1963",
+    "assinatura emissor": "BARAGLIA KABAS",
+    "observações": ""
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "918242411",
+  "numero": "45348017126",
+  "numero_lateral": "",
+  "local": "PORTO FELIZ-SP",
+  "data_emissao": "27/05/1992",
+  "assinatura_emissor": "COLAÇO SCHRIAVETTO C",
+  "observacoes": ""
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "RE794133672",
+  "numero": "900064887732",
+  "numero_lateral": "144531822",
+  "local": "PORTO LUCENA-RS",
+  "data_emissao": "05/09/1959",
+  "assinatura_emissor": "",
+  "observacoes": "K"
+}
+```

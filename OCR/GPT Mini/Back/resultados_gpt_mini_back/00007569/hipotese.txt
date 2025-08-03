@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "PR205383868",
+    "numero": "29307212",
+    "numero_lateral": "0098750885",
+    "local": "RAFARD-SP",
+    "data_emissao": "10/03/1986",
+    "assinatura_emissor": "SPELA BAZANINI",
+    "observacoes": ""
+}
+```

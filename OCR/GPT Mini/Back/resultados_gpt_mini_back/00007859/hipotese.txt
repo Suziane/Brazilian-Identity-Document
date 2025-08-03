@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "SC004789452",
+  "numero": "597256757740",
+  "numero_lateral": "21773879",
+  "local": "MATUPÁ-MT",
+  "data_emissao": "16/02/2016",
+  "assinatura_emissor": "WILLEMBERG AMI",
+  "observacoes": ""
+}
+```

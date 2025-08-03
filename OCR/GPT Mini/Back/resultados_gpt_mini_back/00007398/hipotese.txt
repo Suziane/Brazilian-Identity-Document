@@ -1,0 +1,13 @@
+Aqui está o resultado em formato JSON com os campos reconhecidos:
+
+```json
+{
+    "codigo": "RN640530446",
+    "numero": "98059461144",
+    "numero_lateral": "772702688",
+    "local": "LUCRÉCIA-RN",
+    "data_emissao": "22/12/1970",
+    "assinatura_emissor": "NOVÍS EDILAIN",
+    "observacoes": ""
+}
+```

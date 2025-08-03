@@ -1,0 +1,13 @@
+Aqui está o resultado em formato JSON com os campos reconhecidos:
+
+```json
+{
+  "codigo": "",
+  "numero": "328395951",
+  "numero_lateral": "28395951",
+  "local": "UTINGA-BA",
+  "data_emissao": "14/11/1997",
+  "assinatura_emissor": "DAI CARNIZELLO",
+  "observacoes": ""
+}
+```

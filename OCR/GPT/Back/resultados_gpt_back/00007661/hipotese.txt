@@ -1,0 +1,11 @@
+```json
+{
+  "código": "SC417048312",
+  "número": "28909839725",
+  "número_lateral": "904693906",
+  "local": "QUILOMBO-SC",
+  "data_emissão": "19/09/1983",
+  "assinatura_emissor": "DANIA TOMZA IOST",
+  "observações": ""
+}
+```

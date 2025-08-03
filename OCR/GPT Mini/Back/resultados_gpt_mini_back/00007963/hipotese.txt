@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "MG609616557",
+    "numero": "28809516824",
+    "numero_lateral": "347632013",
+    "local": "GUAÍPA-PR",
+    "data_emissao": "22/12/2015",
+    "assinatura_emissor": "NASSIM AUD CIC",
+    "observacoes": ""
+}
+```

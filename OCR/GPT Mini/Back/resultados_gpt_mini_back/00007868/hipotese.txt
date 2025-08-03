@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "SCR364519896",
+  "numero": "994898484243",
+  "numero_lateral": "131403694",
+  "local": "MIGUEL LEÃO-PI",
+  "data_emissao": "C4/03/1971",
+  "assinatura_emissor": "DETRAN RJ (RIO DE JANEIRO)",
+  "observacoes": ""
+}
+```

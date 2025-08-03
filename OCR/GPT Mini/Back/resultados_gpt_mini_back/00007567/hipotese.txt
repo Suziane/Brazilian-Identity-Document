@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "253729257",
+    "numero": "",
+    "numero_lateral": "",
+    "local": "CAMPO NOVO-RS",
+    "data_emissao": "16/11/1972",
+    "assinatura_emissor": "GEORGES BATAGIN A",
+    "observacoes": ""
+}
+```

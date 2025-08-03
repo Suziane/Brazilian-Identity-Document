@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "AL253025310",
+    "numero": "27563740867",
+    "numero_lateral": "927563398",
+    "local": "PALMÁCIA-CE",
+    "data_emissao": "02/02/1971",
+    "assinatura_emissor": "GERIBOLA VIGNOL",
+    "observacoes": ""
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "SC922976035",
+  "numero": "99073346157",
+  "numero_lateral": "681099576",
+  "local": "GUAIRA-SP",
+  "data_emissao": "20/12/1968",
+  "assinatura_emissor": "TRAVASSOS CONGALTI",
+  "observacoes": ""
+}
+```

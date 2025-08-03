@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "G0249190874",
+  "numero": "94222756877",
+  "numero_lateral": "516534014",
+  "local": "BARASAL-MA",
+  "data_emissao": "28/05/1962",
+  "assinatura_emissor": "",
+  "observacoes": "M"
+}
+```

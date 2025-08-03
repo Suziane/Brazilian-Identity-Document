@@ -1,0 +1,11 @@
+```json
+{
+  "código": "SP229687026",
+  "número": "04844758828",
+  "número_lateral": "926666040",
+  "local": "NOVA OLINDA-TO",
+  "data_emissão": "18/05/1987",
+  "assinatura_emissor": "CAMACHI CAMPACCI TH",
+  "observações": ""
+}
+```

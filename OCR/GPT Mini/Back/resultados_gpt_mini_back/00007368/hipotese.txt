@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "269073593",
+  "numero": "987906390580",
+  "numero_lateral": "EXU-PE",
+  "local": "EXU-PE",
+  "data_emissao": "06/06/1950",
+  "assinatura_emissor": "MASUCHELI OD",
+  "observacoes": ""
+}
+```

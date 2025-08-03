@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "SP85793716",
+  "numero": "274610739",
+  "numero_lateral": "85265134688",
+  "local": "HUMAITÁ-RS",
+  "data_emissao": "ABATIA-PR",
+  "assinatura_emissor": "RALEONI MARTINHO FUS",
+  "observacoes": ""
+}
+```

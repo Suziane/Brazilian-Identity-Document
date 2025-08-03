@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "SP045636227",
+  "numero": "43980318373",
+  "numero_lateral": "743139532",
+  "local": "ESCADA-PE",
+  "data_emissao": "04/01/1958",
+  "assinatura_emissor": "",
+  "observacoes": "G;"
+}
+```

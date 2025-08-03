@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "199704992",
+  "numero": "50922343601",
+  "numero_lateral": "",
+  "local": "CONSOLIDAÇÃO-MG",
+  "data_emissao": "20/01/1998",
+  "assinatura_emissor": "PB216451561",
+  "observacoes": ""
+}
+```

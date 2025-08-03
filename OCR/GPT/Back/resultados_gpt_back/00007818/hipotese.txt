@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "PR52198038",
+  "numero": "58817129246",
+  "numero_lateral": "220870441",
+  "local": "RIO DO CAMPO-SC",
+  "data_emissao": "17/03/2004",
+  "assinatura_emissor": "BUONGERMINO ALCINO",
+  "observacoes": ""
+}
+```

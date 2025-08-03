@@ -1,0 +1,11 @@
+```json
+{
+  "código": "SP939517119",
+  "número": "12763122091",
+  "número_lateral": "901464165",
+  "local": "MIRAGUAI-RS",
+  "data_emissão": "14/11/1957",
+  "assinatura_emissor": "BITELI MAULEN",
+  "observações": ""
+}
+```

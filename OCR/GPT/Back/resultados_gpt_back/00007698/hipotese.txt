@@ -1,0 +1,11 @@
+```json
+{
+    "código": "SP647877376",
+    "número": "83573238538",
+    "número lateral": "028623940",
+    "local": "CASCAVEL-CE",
+    "data emissão": "04/05/1966",
+    "assinatura emissor": "",
+    "observações": ""
+}
+```

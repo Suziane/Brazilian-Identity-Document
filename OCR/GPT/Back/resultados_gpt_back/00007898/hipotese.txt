@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "MG543607335",
+  "numero": "64293100220",
+  "numero_lateral": "847869469",
+  "local": "ITAARA-RS",
+  "data_emissao": "17/02/1995",
+  "assinatura_emissor": "ARYANE KODA",
+  "observacoes": ""
+}
+```

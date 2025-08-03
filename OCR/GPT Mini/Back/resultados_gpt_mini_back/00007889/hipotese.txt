@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "R317116053",
+  "numero": "95449284817",
+  "numero_lateral": "462345975",
+  "local": "GUAXUPÉ-MG",
+  "data_emissao": "09/02/1994",
+  "assinatura_emissor": "CHEUNG PAP TAVE",
+  "observacoes": ""
+}
+```

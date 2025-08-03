@@ -1,0 +1,11 @@
+```json
+{
+    "código": "MA204036057",
+    "número": "79429657084",
+    "número_lateral": "970614565",
+    "local": "PIRANGA-MG",
+    "data_emissão": "08/07/1961",
+    "assinatura_emissor": "NUNES",
+    "observações": "B;"
+}
+```

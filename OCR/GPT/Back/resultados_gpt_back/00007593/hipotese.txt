@@ -1,0 +1,11 @@
+```json
+{
+  "código": "MC673595438",
+  "número": "90085790353",
+  "número_lateral": "713596938",
+  "local": "CARUARU-PE",
+  "data_emissão": "17/07/2014",
+  "assinatura_emissor": "PALARETTI BELLOTE CAMPOS",
+  "observações": "NA"
+}
+```

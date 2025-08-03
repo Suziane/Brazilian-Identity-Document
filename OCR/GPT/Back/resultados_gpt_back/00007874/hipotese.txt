@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "BA978591903",
+  "numero": "15529591619",
+  "numero_lateral": "828071961",
+  "local": "LAGUNA-SC",
+  "data_emissao": "10/04/1992",
+  "assinatura_emissor": "LISBONA MARIN",
+  "observacoes": ""
+}
+```

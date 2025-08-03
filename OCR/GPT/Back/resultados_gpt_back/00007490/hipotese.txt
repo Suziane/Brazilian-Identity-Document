@@ -1,0 +1,11 @@
+```json
+{
+  "código": "RC499876118",
+  "número": "98979630860",
+  "número_lateral": "269073593",
+  "local": "EXU-PE",
+  "data_emissão": "06/06/1950",
+  "assinatura_emissor": "MASUCHELLI OD",
+  "observações": "EXERCE ATIVIDADE REMUNERADA: A, EXERCE ATIVIDADE REMUNERADA;"
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+    "código": "SC922976035",
+    "número": "99073346157",
+    "número_lateral": "682099576",
+    "local": "GUAIRA SP",
+    "data_emissão": "20/12/1968",
+    "assinatura_emissor": "TRAVASSOS CONSUL",
+    "observações": ""
+}
+```

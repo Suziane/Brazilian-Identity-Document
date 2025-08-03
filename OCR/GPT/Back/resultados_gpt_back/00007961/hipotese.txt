@@ -1,0 +1,11 @@
+```json
+{
+  "código": "PE763459973",
+  "número": "03225651872",
+  "número lateral": "976969231",
+  "local": "COLINAS-MA",
+  "data emissão": "03/07/2008",
+  "assinatura emissor": "SUGIMATI WRIG",
+  "observações": ""
+}
+```

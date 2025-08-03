@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "PT628992931",
+  "numero": "01388405818",
+  "numero_lateral": "928507580",
+  "local": "CAÇADOR-SC",
+  "data_emissao": "24/05/1976",
+  "assinatura_emissor": "BONDUKI BON T",
+  "observacoes": "A;"
+}
+```

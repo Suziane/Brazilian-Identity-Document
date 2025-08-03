@@ -1,0 +1,11 @@
+```json
+{
+  "código": "GO67373606",
+  "número": "95830429141",
+  "número_lateral": "02911333",
+  "local": "BARRO-CE",
+  "data_emissão": "10/07/1996",
+  "assinatura_emissor": "BERKOVITZ MU",
+  "observações": ""
+}
+```

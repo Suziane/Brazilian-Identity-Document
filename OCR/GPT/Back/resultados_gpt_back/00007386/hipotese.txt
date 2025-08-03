@@ -1,0 +1,11 @@
+```json
+{
+  "código": "GO145227849",
+  "número": "92756264731",
+  "número_lateral": "191725867",
+  "local": "QUIJINGUE-BA",
+  "data_emissão": "01/01/2001",
+  "assinatura_emissor": "",
+  "observações": "EXERCE ATIVIDADE REMUNERADA"
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "RS420512585",
+  "numero": "48045594539",
+  "numero_lateral": "169542723",
+  "local": "MORRINHOS-CE",
+  "data_emissao": "18/10/1985",
+  "assinatura_emissor": "MONTES TERUKAZU VITH",
+  "observacoes": ""
+}
+```

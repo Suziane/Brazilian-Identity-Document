@@ -1,0 +1,11 @@
+```json
+{
+  "código": "RO513960298",
+  "número": "56574913182",
+  "número_lateral": "597511977",
+  "local": "ITAJÁ-GO",
+  "data_emissao": "10/04/1979",
+  "assinatura_emissor": "SERT/KAKU WEL",
+  "observações": ""
+}
+```

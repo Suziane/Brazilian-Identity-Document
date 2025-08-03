@@ -1,0 +1,11 @@
+```json
+{
+  "número": "87822832773",
+  "código": "TO378583675",
+  "número lateral": "808386921",
+  "local": "TOMBOS-MG",
+  "data emissão": "02/05/2020",
+  "assinatura emissor": "CABAU LIMONE Y",
+  "observações": ""
+}
+```

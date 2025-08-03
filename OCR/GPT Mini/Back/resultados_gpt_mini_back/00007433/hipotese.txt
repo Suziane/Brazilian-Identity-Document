@@ -1,0 +1,13 @@
+Aqui está o JSON com os dados reconhecidos da imagem:
+
+```json
+{
+    "codigo": "321801698",
+    "numero": "",
+    "numero_lateral": "14832486089",
+    "local": "PRADO FERREIRAS - PR",
+    "data_emissao": "31/03/1961",
+    "assinatura_emissor": "BOCADRO AUTO CHA",
+    "observacoes": "EXERCE ATIVIDADE REMUNERADA;"
+}
+```

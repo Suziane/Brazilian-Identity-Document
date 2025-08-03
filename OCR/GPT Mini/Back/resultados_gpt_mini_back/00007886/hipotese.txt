@@ -1,0 +1,13 @@
+Aqui está o resultado do reconhecimento dos campos conforme solicitado:
+
+```json
+{
+  "codigo": "AL117170175",
+  "numero": "794813965",
+  "numero lateral": "520848532217",
+  "local": "COLINAS-MA",
+  "data_emissao": "01/03/1951",
+  "assinatura_emissor": "UEHARA HELON BRAGA",
+  "observacoes": ""
+}
+```

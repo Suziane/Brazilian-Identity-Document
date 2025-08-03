@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "PE274155575",
+  "numero": "72356870535",
+  "numero_lateral": "377809900",
+  "local": "IUNA-ES",
+  "data_emissao": "12/10/1982",
+  "assinatura_emissor": "SHYH IANOVALI V",
+  "observacoes": "Y"
+}
+```

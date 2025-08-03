@@ -1,0 +1,13 @@
+Aqui está o resultado em formato JSON com os campos reconhecidos:
+
+```json
+{
+  "codigo": "MG769923058",
+  "numero": "129991735",
+  "numero_lateral": "129991735",
+  "local": "VARZEA-PE",
+  "data_emissao": "12/05/1989",
+  "assinatura_emissor": "NARAZORA ROLI MUIL",
+  "observacoes": ""
+}
+```

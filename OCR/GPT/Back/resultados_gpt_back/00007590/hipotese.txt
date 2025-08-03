@@ -1,0 +1,11 @@
+```json
+{
+  "código": "RS631559334",
+  "número": "33221795179",
+  "número_lateral": "633844226",
+  "local": "QUADRA-SP",
+  "data_emissão": "13/05/2003",
+  "assinatura_emissor": "WALDOW ZARPE",
+  "observações": ""
+}
+```

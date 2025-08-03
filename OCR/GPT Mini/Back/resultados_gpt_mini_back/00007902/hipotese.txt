@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "407195877",
+  "numero": "25640739050",
+  "numero_lateral": "",
+  "local": "PATIS-MG",
+  "data_emissao": "18/02/2003",
+  "assinatura_emissor": "ROSA CALDENTE H RODRIGUES",
+  "observacoes": "A;"
+}
+```

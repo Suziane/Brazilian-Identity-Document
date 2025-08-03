@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "FB026136092",
+  "numero": "6777414644",
+  "numero_lateral": "88390153",
+  "local": "TRES FRONTEIRAS-SP",
+  "data_emissao": "08/06/1993",
+  "assinatura_emissor": "MIGUEL MONTE N VE REZENDE",
+  "observacoes": ""
+}
+```

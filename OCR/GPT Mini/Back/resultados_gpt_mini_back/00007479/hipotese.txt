@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "91234753965",
+    "numero": "661987441",
+    "numero_lateral": "661987441",
+    "local": "COIVARAS-PI",
+    "data_emissao": "14/11/1954",
+    "assinatura_emissor": "EURO PASOTTO",
+    "observacoes": ""
+}
+```

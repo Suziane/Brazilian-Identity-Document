@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "TAKUEUTI LINARES CAMIL",
+  "cpf": "324.824.170-58",
+  "filiacao": "GEVANILDO LARANJEIRO CASTRO, RAZABONE TOLOI STROHH",
+  "data_de_nascimento": "26/10/1964",
+  "primeira_habilitacao": "05/10/1980",
+  "validade": "01/09/1990",
+  "documento_de_identidade": "961634018",
+  "orgao_emissor": "SNJ",
+  "uf": "PI",
+  "numero_do_registro": "41620993208",
+  "acc": "",
+  "permissao": "",
+  "categoria": "AB",
+  "numero_valido": "343798404"
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "62229625925",
+    "numero": "621186674",
+    "numero_lateral": "621186674",
+    "local": "MAMBORÉ-PR",
+    "data_emissao": "20/08/2007",
+    "assinatura_emissor": "ABBARI CARNIELLI GE",
+    "observacoes": ""
+}
+```

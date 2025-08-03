@@ -1,0 +1,13 @@
+Aqui está o resultado no formato JSON com os dados reconhecidos:
+
+```json
+{
+    "codigo": "407195877",
+    "numero": "25640739050",
+    "numero_lateral": "071195877",
+    "local": "PATIS-MG",
+    "data_emissao": "18/02/2003",
+    "assinatura_emissor": "KOGA CALIBRANTE CH RODRIGUES",
+    "observacoes": "A;"
+}
+```

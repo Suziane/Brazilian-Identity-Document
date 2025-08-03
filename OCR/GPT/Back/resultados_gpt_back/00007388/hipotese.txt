@@ -1,0 +1,11 @@
+```json
+{
+  "código": "MG81207392",
+  "número": "74836085436",
+  "número_lateral": "601146601",
+  "local": "PEDRÃO-BA",
+  "data_emissão": "28/12/2009",
+  "assinatura_emissor": "CAVAZZANA RENAM",
+  "observações": ""
+}
+```

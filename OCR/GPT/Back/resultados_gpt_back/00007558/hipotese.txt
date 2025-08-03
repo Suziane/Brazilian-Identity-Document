@@ -1,0 +1,11 @@
+```json
+{
+  "código": "RS050190817",
+  "número": "87076353519",
+  "número lateral": "295096839",
+  "local": "CAPELINHA-MG",
+  "data emissão": "24/12/2016",
+  "assinatura emissor": "",
+  "observações": "N; Q;"
+}
+```

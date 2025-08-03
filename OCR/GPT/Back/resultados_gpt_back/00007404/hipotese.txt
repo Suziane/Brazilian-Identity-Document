@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "SE924937092",
+  "numero": "52797772365",
+  "numero_lateral": "223922765",
+  "local": "RODELAS-BA",
+  "data_emissao": "ASSIS-SP",
+  "assinatura_emissor": "GUMERCINDO BAILO ARA",
+  "observacoes": "EXERCE ATIVIDADE REMUNERADA; E; V;"
+}
+```

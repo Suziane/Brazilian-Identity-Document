@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "BA781063768",
+  "numero": "90426324069",
+  "numero_lateral": "923322371",
+  "local": "CUPARACU-MG",
+  "data_emissao": "23/03/1997",
+  "assinatura_emissor": "RAGAZINE KRISTHIAN CAMPOS",
+  "observacoes": "V ;"
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "SUIARI-AC",
+  "numero": "171606072",
+  "numero_lateral": "",
+  "local": "SUIARI-AC",
+  "data_emissao": "24/05/2012",
+  "assinatura_emissor": "ROGÉRIO JÚNIOR M BARBOSA",
+  "observacoes": "DETRAN MG MÂNUS GERAIS"
+}
+```

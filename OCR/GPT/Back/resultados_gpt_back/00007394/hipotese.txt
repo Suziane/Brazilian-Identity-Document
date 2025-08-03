@@ -1,0 +1,11 @@
+```json
+{
+  "código": "PK684646332",
+  "número": "81149527145",
+  "número_lateral": "741304451",
+  "local": "CAÉM-BA",
+  "data_emissão": "02/02/1990",
+  "assinatura_emissor": "BOZZANO EDNEI VI CALDEIRA",
+  "observações": ""
+}
+```

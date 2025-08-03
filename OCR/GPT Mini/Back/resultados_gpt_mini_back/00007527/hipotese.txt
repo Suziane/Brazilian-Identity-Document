@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "SC573896150",
+    "numero": "562220886428",
+    "numero_lateral": "689432925",
+    "local": "ITAPITANGA-BA",
+    "data_emissao": "04/05/1980",
+    "assinatura_emissor": "HOSTER FRAGOSO",
+    "observacoes": ""
+}
+```

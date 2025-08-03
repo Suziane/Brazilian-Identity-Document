@@ -1,0 +1,11 @@
+```json
+{
+    "código": "SP846107217",
+    "número": "03112015772",
+    "número lateral": "175946567",
+    "local": "CUMARI-GO",
+    "data emissão": "14/05/1990",
+    "assinatura emissor": "",
+    "observações": "GUINOZA PANE WA"
+}
+```

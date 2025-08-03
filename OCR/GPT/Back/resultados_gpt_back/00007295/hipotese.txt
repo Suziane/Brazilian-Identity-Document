@@ -1,0 +1,11 @@
+```json
+{
+    "código": "SP057807857",
+    "número": "92217171730",
+    "número_lateral": "160463300",
+    "local": "PATOS-PB",
+    "data_emissão": "01/10/1973",
+    "assinatura_emissor": "MACUCO SCHOENM",
+    "observações": ""
+}
+```

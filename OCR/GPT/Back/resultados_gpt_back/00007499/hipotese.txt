@@ -1,0 +1,11 @@
+```json
+{
+  "código": "SP926262429",
+  "número": "49638587406",
+  "número lateral": "953400040",
+  "local": "SEARA-SC",
+  "data emissão": "14/09/1996",
+  "assinatura emissor": "LUCENTE IMPROTA PEL",
+  "observações": ""
+}
+```

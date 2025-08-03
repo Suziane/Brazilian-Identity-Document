@@ -1,0 +1,11 @@
+```json
+{
+  "código": "BA363010974",
+  "número": "21958456230",
+  "número lateral": "524020589",
+  "local": "GUARÁ - SP",
+  "data emissão": "25/09/1975",
+  "assinatura emissor": "",
+  "observações": ""
+}
+```

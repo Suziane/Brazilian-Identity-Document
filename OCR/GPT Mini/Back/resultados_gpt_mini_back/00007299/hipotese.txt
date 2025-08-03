@@ -1,0 +1,13 @@
+Aqui está o resultado do reconhecimento dos campos solicitados, organizado em formato JSON:
+
+```json
+{
+    "codigo": "831248620",
+    "numero": "167189296963",
+    "numero_lateral": "831248620",
+    "local": "BARRACÃO-RS",
+    "data_emissao": "16/04/1984",
+    "assinatura_emissor": "ANDREAZZA ULI",
+    "observacoes": ""
+}
+```

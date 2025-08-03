@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "931204593",
+  "numero": "262276929569",
+  "numero_lateral": "AB123456789",
+  "local": "APARECIDA - SF",
+  "data_emissao": "20/09/1991",
+  "assinatura_emissor": "IMPARATO RHA",
+  "observacoes": ""
+}
+```

@@ -1,0 +1,13 @@
+Aqui está o reconhecimento dos campos solicitados, organizado em um formato JSON:
+
+```json
+{
+    "codigo": "MGO87003177",
+    "numero": "95555943705",
+    "numero lateral": "353939102",
+    "local": "OEIRAS-PI",
+    "data emissao": "31/07/2016",
+    "assinatura emissor": "",
+    "observacoes": ""
+}
+```

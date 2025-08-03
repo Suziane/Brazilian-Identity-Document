@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "PR888750436",
+  "numero": "899313646290",
+  "numero_lateral": "052491387",
+  "local": "FOZ DO IGUACU PR",
+  "data_emissao": "02/10/2008",
+  "assinatura_emissor": "",
+  "observacoes": ""
+}
+```

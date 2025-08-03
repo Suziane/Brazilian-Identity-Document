@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "MG941230267",
+    "numero": "34367546191",
+    "numero_lateral": "605819431",
+    "local": "MIRANDA-MS",
+    "data_emissao": "18/11/2000",
+    "assinatura_emissor": "",
+    "observacoes": ""
+}
+```

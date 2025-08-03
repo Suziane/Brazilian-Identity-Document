@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "561342023",
+  "numero": "",
+  "numero_lateral": "561342023",
+  "local": "ITAPE-BA",
+  "data_emissao": "20/04/2004",
+  "assinatura_emissor": "STAMATO KELLEN MANAI 066293230232",
+  "observacoes": ""
+}
+```

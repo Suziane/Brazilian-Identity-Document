@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "MG951867672",
+  "numero": "496134650",
+  "numero_lateral": "",
+  "local": "AGUDOS-SP",
+  "data_emissao": "10/05/1964",
+  "assinatura_emissor": "COFIEL HANSENN MO",
+  "observacoes": "T;"
+}
+```

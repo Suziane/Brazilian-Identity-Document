@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "19434867078",
+    "numero": "30",
+    "numero_lateral": "390893729",
+    "local": "MODOCA-MA",
+    "data_emissao": "30/03/2009",
+    "assinatura_emissor": "KENN YUGO UZZI",
+    "observacoes": ""
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "BA200385616",
+  "numero": "54610215406",
+  "numero_lateral": "090953258",
+  "local": "LAJEADO-RS",
+  "data_emissao": "22/02/1994",
+  "assinatura_emissor": "",
+  "observacoes": "DETRAN DE MINAS GERAIS"
+}
+```

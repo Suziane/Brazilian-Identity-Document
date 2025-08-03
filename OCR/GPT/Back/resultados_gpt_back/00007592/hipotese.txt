@@ -1,0 +1,11 @@
+```json
+{
+  "código": "BA363010974",
+  "número": "21958456230",
+  "número_lateral": "524020589",
+  "local": "GUARÁ-SP",
+  "data_emissão": "25/09/1975",
+  "assinatura_emissor": "BERNAL MARECHAL F",
+  "observações": "G;"
+}
+```

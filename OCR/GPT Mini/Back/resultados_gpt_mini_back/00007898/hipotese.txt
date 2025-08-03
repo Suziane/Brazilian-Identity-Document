@@ -1,0 +1,13 @@
+Aqui está o resultado organizado no formato JSON com os campos reconhecidos:
+
+```json
+{
+    "codigo": "MG543679335",
+    "numero": "64293100220",
+    "numero_lateral": "847869469",
+    "local": "ITAARA-RS",
+    "data_emissao": "17/02/1995",
+    "assinatura_emissor": "ARYANE KODA",
+    "observacoes": ""
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "código": "CE251777844",
+  "número": "26247692569",
+  "número_lateral": "931204593",
+  "local": "APARECIDA-SP",
+  "data_emissao": "20/09/1981",
+  "assinatura_emissor": "IMPARATO RHA",
+  "observações": ""
+}
+```

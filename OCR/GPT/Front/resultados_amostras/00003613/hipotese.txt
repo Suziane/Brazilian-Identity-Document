@@ -1,0 +1,18 @@
+```json
+{
+  "nome": "SZASZ MULATO FERNOCHI",
+  "cpf": "083.740.410-05",
+  "filiacao": "SADRIANO PINEDA MAIO ALVES, HOCHUN REBECA MIYAUTI DUARTE",
+  "data_de_nascimento": "22/01/2013",
+  "primeira_habilitacao": "28/05/1995",
+  "validade": "31/12/1982",
+  "documento_de_identidade": "773390650",
+  "orgao_emissor": "SES",
+  "uf": "PI",
+  "numero_do_registro": "56539974056",
+  "acc": "",
+  "permissao": "",
+  "categoria": "A",
+  "numero_valido": "701145151"
+}
+```

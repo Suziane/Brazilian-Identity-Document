@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "PB031757414",
+  "numero": "527850309",
+  "numero_lateral": "527850309",
+  "local": "INDIANA-SP",
+  "data_emissao": "16/04/1991",
+  "assinatura_emissor": "YIDUKA ZOI SEJE FERNANDES",
+  "observacoes": "E;"
+}
+```

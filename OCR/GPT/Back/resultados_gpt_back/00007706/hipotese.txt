@@ -1,0 +1,11 @@
+```json
+{
+  "código": "CE968900023",
+  "número": "17956891937",
+  "número_lateral": "922440840",
+  "local": "SALETE-SC",
+  "data_emissão": "09/09/1963",
+  "assinatura_emissor": "",
+  "observações": ""
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "042658097",
+    "numero": "",
+    "numero lateral": "",
+    "local": "IBIARA-PB",
+    "data emissao": "01/12/1995",
+    "assinatura emissor": "CALDANA GARDINAL",
+    "observacoes": ""
+}
+```

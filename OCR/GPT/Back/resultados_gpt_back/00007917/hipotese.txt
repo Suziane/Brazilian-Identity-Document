@@ -1,0 +1,11 @@
+```json
+{
+  "código": "RS456007076",
+  "número": "14298814068",
+  "número lateral": "426420531",
+  "local": "ARAGUATINS-TO",
+  "data emissão": "12/03/1950",
+  "assinatura emissor": "JOSILAINE SUGHYAN RAMOS",
+  "observações": "J"
+}
+```

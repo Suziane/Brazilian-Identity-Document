@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "PB244567910",
+  "numero": "86784785803",
+  "numero_lateral": "672051803",
+  "local": "UBERABA-MG",
+  "data_emissao": "13/12/1976",
+  "assinatura_emissor": "GISLEINE LA",
+  "observacoes": ""
+}
+```

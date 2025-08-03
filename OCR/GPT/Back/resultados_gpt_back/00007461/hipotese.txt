@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "SP860066914",
+    "numero": "72118648682",
+    "numero_lateral": "740422055",
+    "local": "CAMPINORTE-GO",
+    "data_emissao": "16/10/1951",
+    "assinatura_emissor": "TORIHARA JEISSIANE",
+    "observacoes": ""
+}
+```

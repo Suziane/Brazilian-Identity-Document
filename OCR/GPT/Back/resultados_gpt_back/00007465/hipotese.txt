@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "RN108687707",
+  "numero": "01367901534",
+  "numero_lateral": "987903720",
+  "local": "CERES-GO",
+  "data_emissao": "30/01/2015",
+  "assinatura_emissor": "JUNIA WIDNIC",
+  "observacoes": ""
+}
+```

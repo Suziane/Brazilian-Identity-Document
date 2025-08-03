@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "RS738165158",
+  "numero": "590338177",
+  "numero_lateral": "",
+  "local": "CATARINA-CE",
+  "data_emissao": "28/09/1971",
+  "assinatura_emissor": "CHIARELLI BAND FONTO",
+  "observacoes": "v;"
+}
+```

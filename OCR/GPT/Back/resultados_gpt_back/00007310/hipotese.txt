@@ -1,0 +1,11 @@
+```json
+{
+    "código": "BA027313140",
+    "número": "97454827778",
+    "número_lateral": "229241994",
+    "local": "IGUATU-PR",
+    "data_emissão": "01/05/1989",
+    "assinatura_emissor": "GIROLINETO MIYAU",
+    "observações": ""
+}
+```

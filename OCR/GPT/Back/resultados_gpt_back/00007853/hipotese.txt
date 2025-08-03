@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "AM527166247",
+  "numero": "13895828911",
+  "numero_lateral": "781854830",
+  "local": "INDAIATUBA-SP",
+  "data_emissao": "31/10/2017",
+  "assinatura_emissor": "CESCONETTO VETTO LOPES",
+  "observacoes": ""
+}
+```

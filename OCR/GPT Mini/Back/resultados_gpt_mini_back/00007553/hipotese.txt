@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "G0B09352581",
+    "numero": "603997568082",
+    "numero_lateral": "173396338",
+    "local": "MILAGRES-BA",
+    "data_emissao": "09/12/2004",
+    "assinatura_emissor": "ASBAHR KANITZ GIGLI",
+    "observacoes": ""
+}
+```

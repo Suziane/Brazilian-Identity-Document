@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "PT296117328",
+  "numero": "715127380",
+  "numero_lateral": "",
+  "local": "UBA-MG",
+  "data_emissao": "07/02/2019",
+  "assinatura_emissor": "COLETI ARGENTAO MUCHIN",
+  "observacoes": ""
+}
+```

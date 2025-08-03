@@ -1,0 +1,11 @@
+```json
+{
+    "código": "PR205383868",
+    "número": "00988750885",
+    "número lateral": "29307212",
+    "local": "RAFARD-SP",
+    "data emissão": "10/03/1996",
+    "assinatura emissor": "SPELTA BAZANINI",
+    "observações": ""
+}
+```

@@ -1,0 +1,13 @@
+Aqui está o reconhecimento dos campos no formato JSON:
+
+```json
+{
+  "codigo": "169542723",
+  "numero": "",
+  "numero_lateral": "",
+  "local": "MORRINHOS-CE",
+  "data_emissao": "18/10/1985",
+  "assinatura_emissor": "MONTES TERUKAZU VITH 480455943539 RS420512583",
+  "observacoes": ""
+}
+```

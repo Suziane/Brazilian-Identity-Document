@@ -1,0 +1,11 @@
+```json
+{
+  "código": "PI755976337",
+  "número": "02116857345",
+  "número_lateral": "461821752",
+  "local": "GOIANIRA-GO",
+  "data_emissão": "09/02/1954",
+  "assinatura_emissor": "BERNARDELO SYRG G DIAS",
+  "observações": "I;"
+}
+```

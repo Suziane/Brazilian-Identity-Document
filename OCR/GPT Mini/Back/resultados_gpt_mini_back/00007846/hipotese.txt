@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "601327231",
+  "numero": "",
+  "numero_lateral": "N;",
+  "local": "ÓLEO-SP",
+  "data_emissao": "27/08/1968",
+  "assinatura_emissor": "TAKINAGA BALDOCCHI",
+  "observacoes": ""
+}
+```

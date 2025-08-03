@@ -1,0 +1,13 @@
+Aqui está o resultado em formato JSON, com os campos identificados:
+
+```json
+{
+    "codigo": "496285969",
+    "numero": "06667529530",
+    "numero_lateral": "",
+    "local": "SOCORRO-SP",
+    "data_emissao": "11/02/1996",
+    "assinatura_emissor": "NACAMURA NILZA BA.",
+    "observacoes": ""
+}
+```

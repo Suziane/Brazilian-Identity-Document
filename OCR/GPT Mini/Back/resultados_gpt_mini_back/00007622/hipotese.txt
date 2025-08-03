@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "MG303402853",
+    "numero": "471568719",
+    "numero_lateral": "32130905668",
+    "local": "SÃO PEDRO-RN",
+    "data_emissao": "15/11/1986",
+    "assinatura_emissor": "CHENCINSKI YAS",
+    "observacoes": ""
+}
+```

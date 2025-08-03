@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "PE005303498",
+  "numero": "875449579",
+  "numero_lateral": "875449579",
+  "local": "UITRAPURU-GO",
+  "data_emissao": "15/04/1977",
+  "assinatura_emissor": "GUISSONI COLACICCO",
+  "observacoes": "F;"
+}
+```

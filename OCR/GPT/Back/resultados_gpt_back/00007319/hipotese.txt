@@ -1,0 +1,11 @@
+```json
+{
+    "código": "BC573896150",
+    "número": "56220888428",
+    "número_lateral": "689452925",
+    "local": "ITAPITANGA-BA",
+    "data_emissao": "04/05/1980",
+    "assinatura_emissor": "ROSTER FRACOS PO",
+    "observacoes": ""
+}
+```

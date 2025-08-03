@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "BP654213893",
+  "numero": "79462634508",
+  "numero_lateral": "10730150",
+  "local": "CANGUARETAMA-RN",
+  "data_emissao": "12/12/1983",
+  "assinatura_emissor": "",
+  "observacoes": ""
+}
+```

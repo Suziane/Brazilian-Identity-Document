@@ -1,0 +1,11 @@
+```json
+{
+    "código": "PB031757414",
+    "número": "79276943857",
+    "número_lateral": "527850309",
+    "local": "INDIANA-SP",
+    "data_emissão": "16/04/1991",
+    "assinatura_emissor": "YIDUKA ZOU SEJE FERNANDES",
+    "observações": "E;"
+}
+```

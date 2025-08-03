@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "7183881",
+  "numero": "",
+  "numero_lateral": "83064302496",
+  "local": "ALTO LONGA-PI",
+  "data_emissao": "16/02/1960",
+  "assinatura_emissor": "PALOPOLI PEGORER",
+  "observacoes": ""
+}
+```

@@ -1,0 +1,13 @@
+Aqui está o resultado no formato JSON, conforme solicitado:
+
+```json
+{
+  "codigo": "MG802184608",
+  "numero": "21520881252",
+  "numero_lateral": "9494836563",
+  "local": "CRISTALÂNDIA DO PIAUÍ-PI",
+  "data_emissao": "14/05/1999",
+  "assinatura_emissor": "",
+  "observacoes": ""
+}
+```

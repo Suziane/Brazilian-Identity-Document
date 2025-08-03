@@ -1,0 +1,13 @@
+Aqui está o resultado organizado em um arquivo JSON com os campos reconhecidos:
+
+```json
+{
+    "codigo": "RS970756849",
+    "numero": "19796857369",
+    "numero_lateral": "124071640",
+    "local": "MUQUI-ES",
+    "data_emissao": "13/12/1956",
+    "assinatura_emissor": "TUBERTINI EI",
+    "observacoes": ""
+}
+```

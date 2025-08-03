@@ -1,0 +1,13 @@
+Aqui está o resultado organizado em formato JSON com os dados reconhecidos da imagem fornecida:
+
+```json
+{
+    "codigo": "RS050190817",
+    "numero": "870763353519",
+    "numero_lateral": "295096839",
+    "local": "CAPELINHA-MG",
+    "data_emissao": "24/12/2016",
+    "assinatura_emissor": "CHABU PENARRUBIA PEREIRA",
+    "observacoes": ""
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "código": "SE511435182",
+  "número": "55810062975",
+  "número_lateral": "526299640",
+  "local": "JACUPIRANGA-SP",
+  "data_emissao": "16/01/1990",
+  "assinatura_emissor": "CIRINO FRANCELI ALVES",
+  "observações": ""
+}
+```

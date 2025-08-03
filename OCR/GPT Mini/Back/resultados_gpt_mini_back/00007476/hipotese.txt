@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "CE55693302",
+  "numero": "05773365015",
+  "numero_lateral": "645309434",
+  "local": "ANAHY-PR",
+  "data_emissao": "20/03/1993",
+  "assinatura_emissor": "LIOR CONSOL",
+  "observacoes": ""
+}
+```

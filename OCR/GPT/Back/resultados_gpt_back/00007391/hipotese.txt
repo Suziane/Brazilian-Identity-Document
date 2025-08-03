@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "MG514198562",
+  "numero": "43927055957",
+  "numero_lateral": "180421514",
+  "local": "CAPINZAL-SC",
+  "data_emissao": "15/12/1952",
+  "assinatura_emissor": "CANDELARIO TOZETTI CALDEIRA",
+  "observacoes": ""
+}
+```

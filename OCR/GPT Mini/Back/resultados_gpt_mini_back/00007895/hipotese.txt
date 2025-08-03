@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "BA456239926",
+    "numero": "37035214513",
+    "numero_lateral": "501200350",
+    "local": "ERMC - SC",
+    "data_emissao": "13/09/1955",
+    "assinatura_emissor": "",
+    "observacoes": "H ;"
+}
+```

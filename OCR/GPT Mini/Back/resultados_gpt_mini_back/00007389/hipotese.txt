@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "R340943043",
+    "numero": "40375184",
+    "numero_lateral": "65909739511",
+    "local": "CALUMBI-PE",
+    "data_emissao": "21/11/1990",
+    "assinatura_emissor": "CHEVALIER TOM",
+    "observacoes": ""
+}
+```

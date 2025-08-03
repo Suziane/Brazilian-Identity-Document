@@ -1,0 +1,11 @@
+```json
+{
+  "código": "SE460639922",
+  "número": "42070385635",
+  "número_lateral": "353678595",
+  "local": "ITALVA-RJ",
+  "data_emissão": "18/04/1951",
+  "assinatura_emissor": "SIA BUNCANA J",
+  "observações": "Y;"
+}
+```

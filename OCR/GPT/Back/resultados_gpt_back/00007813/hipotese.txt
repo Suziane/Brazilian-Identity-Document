@@ -1,0 +1,11 @@
+```json
+{
+  "código": "PE345547158",
+  "número": "26702948164",
+  "número_lateral": "599965124",
+  "local": "ASSARÉ-CE",
+  "data_emissão": "21/02/2006",
+  "assinatura_emissor": "CHIERAŌ THATYANA M",
+  "observações": "A;"
+}
+```

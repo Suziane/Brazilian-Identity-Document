@@ -1,0 +1,15 @@
+Aqui está o reconhecimento dos campos solicitados na imagem, organizado no formato JSON:
+
+```json
+{
+    "codigo": "72720270",
+    "numero": "",
+    "numero_lateral": "48718601735",
+    "local": "ARACAGI-PB",
+    "data_emissao": "20/11/1972",
+    "assinatura_emissor": "GULA SINJIN ALOI",
+    "observacoes": "N; G; Y; EXERCE ATIVIDADE REMUNERADA;"
+}
+``` 
+
+Se precisar de mais alguma informação, fique à vontade para perguntar!

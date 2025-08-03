@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "808398585",
+  "numero": "18779922580",
+  "numero_lateral": "",
+  "local": "GAVIÃO-BA",
+  "data_emissao": "12/01/1996",
+  "assinatura_emissor": "SEAWRIGHT MOURI JESUS",
+  "observacoes": ""
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "código": "PT755976337",
+  "número": "02116857345",
+  "número_lateral": "461821752",
+  "local": "GOIANIA-GO",
+  "data_emissão": "09/02/1954",
+  "assinatura_emissor": "",
+  "observações": "I."
+}
+```

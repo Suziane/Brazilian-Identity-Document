@@ -1,0 +1,11 @@
+```json
+{
+  "código": "SP239671166",
+  "número": "91916412947",
+  "número_lateral": "024092150",
+  "local": "ITAGUAI - RJ",
+  "data_emissão": "23/04/1984",
+  "assinatura_emissor": "ALEXSANDRO KRASTA",
+  "observações": ""
+}
+```

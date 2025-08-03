@@ -1,0 +1,11 @@
+```json
+{
+  "código": "MG284258525",
+  "número": "61410219996",
+  "número lateral": "192208449",
+  "local": "CURIUVA-PR",
+  "data emissão": "13/01/1987",
+  "assinatura emissor": "FUKAI DOMINI",
+  "observações": ""
+}
+```

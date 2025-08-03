@@ -1,0 +1,11 @@
+```json
+{
+  "código": "AL717555517",
+  "número": "59435829660",
+  "número lateral": "368936390",
+  "local": "FORTALEZA-CE",
+  "data emissão": "12/10/2009",
+  "assinatura emissor": "CORCINO PASTE CO",
+  "observações": ""
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "SP747847286",
+  "numero": "752678692",
+  "numero_lateral": "93560167083",
+  "local": "JAPI-RN",
+  "data_emissao": "28/10/1994",
+  "assinatura_emissor": "KAROL MILONE",
+  "observacoes": ""
+}
+```

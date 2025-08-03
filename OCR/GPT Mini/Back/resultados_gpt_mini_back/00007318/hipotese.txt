@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "MG765923058",
+  "numero": "129991735",
+  "numero_lateral": "",
+  "local": "VÁRZEA-PE",
+  "data_emissao": "12/05/1989",
+  "assinatura_emissor": "NAKAZORA ROLF MUHL",
+  "observacoes": ""
+}
+```

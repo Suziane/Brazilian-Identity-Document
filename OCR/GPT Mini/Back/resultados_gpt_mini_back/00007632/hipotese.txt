@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "MG418196860",
+  "numero": "188721054",
+  "numero_lateral": "188721054",
+  "local": "TIBAU-RN",
+  "data_emissao": "23/09/1955",
+  "assinatura_emissor": "DETAN PR (PARANÁ)",
+  "observacoes": ""
+}
+```

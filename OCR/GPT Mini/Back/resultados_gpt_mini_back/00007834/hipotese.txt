@@ -1,0 +1,13 @@
+Aqui está o JSON formatado com os dados reconhecidos:
+
+```json
+{
+    "codigo": "RS795257280",
+    "numero": "159075075",
+    "numero_lateral": "56442868798",
+    "local": "ALVORADA-RS",
+    "data_emissao": "17/05/2002",
+    "assinatura_emissor": "LORETTI CARANI",
+    "observacoes": ""
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "GO17838813",
+    "numero": "363899825211",
+    "numero_lateral": "981486370",
+    "local": "ITATIM-BA",
+    "data_emissao": "31/10/1999",
+    "assinatura_emissor": "PISARUK BODSTEIN",
+    "observacoes": "L;"
+}
+```

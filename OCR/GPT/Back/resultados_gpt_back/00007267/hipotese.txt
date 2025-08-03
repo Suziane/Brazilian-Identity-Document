@@ -1,0 +1,11 @@
+```json
+{
+    "código": "RS234903296",
+    "número": "21904008525",
+    "número_lateral": "324431460",
+    "local": "BREJOES-BA",
+    "data_emissão": "12/10/1972",
+    "assinatura_emissor": "GANASSIM GENTA T DIAS",
+    "observações": ""
+}
+```

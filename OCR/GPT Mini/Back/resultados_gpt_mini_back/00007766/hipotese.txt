@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "CE878375919",
+    "numero": "659606594823",
+    "numero_lateral": "972493518",
+    "local": "RODEIO-SC",
+    "data_emissao": "26/04/1990",
+    "assinatura_emissor": "GUARDA HIRAMA VAN",
+    "observacoes": ""
+}
+```

@@ -1,0 +1,13 @@
+Aqui está o resultado em formato JSON com os campos reconhecidos:
+
+```json
+{
+  "codigo": "BA636330140",
+  "numero": "72049559423",
+  "numero_lateral": "424264884",
+  "local": "TERRA NOVA-BA",
+  "data_emissao": "05/02/2017",
+  "assinatura_emissor": "TULLII BUDIN",
+  "observacoes": ""
+}
+```

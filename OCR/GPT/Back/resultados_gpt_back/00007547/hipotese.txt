@@ -1,0 +1,11 @@
+```json
+{
+    "código": "PI229123545",
+    "número": "51411590058",
+    "número_lateral": "224500635",
+    "local": "ABATIÁ-PR",
+    "data_emissão": "26/02/1962",
+    "assinatura_emissor": "VIOTO GCYA PARMIGI",
+    "observações": ""
+}
+```

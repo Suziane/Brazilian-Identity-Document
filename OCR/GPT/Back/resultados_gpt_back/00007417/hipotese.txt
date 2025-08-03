@@ -1,0 +1,11 @@
+```json
+{
+  "código": "BA0712899445",
+  "número": "73659278105",
+  "número_lateral": "802229824",
+  "local": "BEEZERROS-PE",
+  "data_emissão": "24/02/2012",
+  "assinatura_emissor": "IAN DULA BORNEA",
+  "observações": "Y;"
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "MA456385383",
+  "numero": "79871131629",
+  "numero_lateral": "327609822",
+  "local": "IBICUÍ-BA",
+  "data_emissao": "15/12/1956",
+  "assinatura_emissor": "YONEKURA FARNESE C",
+  "observacoes": "I;"
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "935834721",
+  "numero": "",
+  "numero_lateral": "",
+  "local": "GUARINOS-GO",
+  "data_emissao": "26/08/2002",
+  "assinatura_emissor": "VENTUROLI QEST NUNES",
+  "observacoes": "EXERCE ATIVIDADE REMUNERADA;"
+}
+```

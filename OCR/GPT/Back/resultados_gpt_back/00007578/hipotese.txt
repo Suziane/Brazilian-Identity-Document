@@ -1,0 +1,11 @@
+```json
+{
+    "código": "PA993697103",
+    "número": "22892010053",
+    "número_lateral": "382709848",
+    "local": "UBIRETAMA-RS",
+    "data_emissão": "06/10/2005",
+    "assinatura_emissor": "MAIA ESZINCZA ANDE PEREIRA",
+    "observações": "G;"
+}
+```

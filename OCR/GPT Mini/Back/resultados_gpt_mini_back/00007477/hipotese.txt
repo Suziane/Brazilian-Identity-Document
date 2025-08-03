@@ -1,0 +1,13 @@
+Aqui está a estrutura JSON com os campos reconhecidos a partir da sua descrição:
+
+```json
+{
+    "codigo": "BA070238988",
+    "numero": "21992172188",
+    "numero_lateral": "331273053",
+    "local": "Aquidabá-SE",
+    "data_emissao": "05/12/1978",
+    "assinatura_emissor": "Trevisani Far",
+    "observacoes": ""
+}
+```

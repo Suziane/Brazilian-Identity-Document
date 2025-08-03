@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "BA125670990",
+    "numero": "30073745432",
+    "numero_lateral": "958410557",
+    "local": "CHOROZINHO-CE",
+    "data_emissao": "19/03/1989",
+    "assinatura_emissor": "DETRAN MG (MINAS GERAIS)",
+    "observacoes": "IN CORDOUTIS FRE"
+}
+```

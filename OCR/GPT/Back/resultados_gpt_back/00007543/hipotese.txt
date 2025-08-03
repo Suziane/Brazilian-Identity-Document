@@ -1,0 +1,11 @@
+```json
+{
+  "código": "RS65380925Z",
+  "número": "36850909382",
+  "número_lateral": "753601204",
+  "local": "NOBRES-MT",
+  "data_emissão": "07/03/1983",
+  "assinatura_emissor": "KITAGAWA BRAGA",
+  "observações": ""
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "SC032943408",
+  "numero": "13275526772",
+  "numero_lateral": "139004067",
+  "local": "FAMA-MG",
+  "data_emissao": "14/06/1980",
+  "assinatura_emissor": "OSTROWIECKI B",
+  "observacoes": ""
+}
+```

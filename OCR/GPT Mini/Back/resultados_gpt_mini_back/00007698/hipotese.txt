@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "SP6478977376",
+  "numero": "028623940",
+  "numero_lateral": "",
+  "local": "CASCAVEL-CE",
+  "data_emissao": "04/05/1966",
+  "assinatura_emissor": "SCHENKMAN FUEN",
+  "observacoes": ""
+}
+```

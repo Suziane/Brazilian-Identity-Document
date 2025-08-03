@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "PE195096155",
+    "numero": "67378991779",
+    "numero_lateral": "548918090",
+    "local": "TURVO-PR",
+    "data_emissao": "02/09/1981",
+    "assinatura_emissor": "YOSHIKAZU BOBUR DA ROSA",
+    "observacoes": "EXERCE ATIVIDADE REMUNERADA;"
+}
+```

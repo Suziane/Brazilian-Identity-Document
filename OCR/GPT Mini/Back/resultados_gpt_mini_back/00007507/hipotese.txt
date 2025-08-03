@@ -1,0 +1,13 @@
+Aqui está o resultado em formato JSON conforme solicitado:
+
+```json
+{
+    "codigo": "MC34558278",
+    "numero": "13774140921",
+    "numero_lateral": "44203680",
+    "local": "NOVA FLORESTA-PB",
+    "data_emissao": "24/12/1999",
+    "assinatura_emissor": "",
+    "observacoes": ""
+}
+```

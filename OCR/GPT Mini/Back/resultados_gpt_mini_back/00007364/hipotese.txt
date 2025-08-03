@@ -1,0 +1,13 @@
+Aqui está o resultado em formato JSON com os dados reconhecidos da imagem:
+
+```json
+{
+  "codigo": "129991735",
+  "numero": "",
+  "numero_lateral": "49680595393",
+  "local": "VARZEA-PB",
+  "data_emissao": "12/05/1989",
+  "assinatura_emissor": "NARAZORA ROLF MUBL",
+  "observacoes": ""
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "código": "EA070238988",
+  "número": "21992172188",
+  "número_lateral": "331273053",
+  "local": "AQUIDABA-SE",
+  "data_emissao": "05/12/1978",
+  "assinatura_emissor": "TREVISANI FAR",
+  "observações": "V"
+}
+```

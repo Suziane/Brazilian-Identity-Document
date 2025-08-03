@@ -1,0 +1,13 @@
+Aqui está o resultado em formato JSON, com base nas informações extraídas da imagem:
+
+```json
+{
+  "codigo": "MG423Q22698",
+  "numero": "00974990",
+  "numero_lateral": "37775126855",
+  "local": "IBIRITÉ-MG",
+  "data_emissao": "17/11/2000",
+  "assinatura_emissor": "HERMIONIO HR",
+  "observacoes": ""
+}
+```

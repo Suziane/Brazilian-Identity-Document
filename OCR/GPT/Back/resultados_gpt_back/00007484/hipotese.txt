@@ -1,0 +1,11 @@
+```json
+{
+  "código": "PE965876902",
+  "número": "72294046512",
+  "número lateral": "322533317",
+  "local": "CUIABA-MT",
+  "data emissão": "21/04/2018",
+  "assinatura emissor": "SAGLIETTI S",
+  "observações": ""
+}
+```

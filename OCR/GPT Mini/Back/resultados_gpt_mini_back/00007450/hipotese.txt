@@ -1,0 +1,13 @@
+Aqui está o reconhecimento dos campos em formato JSON:
+
+```json
+{
+    "codigo": "PA070177833",
+    "numero": "85950160893",
+    "numero_lateral": "80658244",
+    "local": "CARAPEBUS-RJ",
+    "data_emissao": "15/09/1959",
+    "assinatura_emissor": "NEDDE CAROL FLAVIA",
+    "observacoes": ""
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "FA744296931",
+  "numero": "76511222157",
+  "numero_lateral": "846418",
+  "local": "BIRIGUI-SP",
+  "data_emissao": "28/01/2009",
+  "assinatura_emissor": "LUCIO MANTELATO",
+  "observacoes": ""
+}
+```

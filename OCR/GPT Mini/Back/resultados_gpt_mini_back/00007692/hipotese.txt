@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "MG691065747",
+  "numero": "934568322259",
+  "numero_lateral": "652385425",
+  "local": "PARANÁ-TO",
+  "data_emissao": "15/07/1991",
+  "assinatura_emissor": "SÍCLO BISMARCH",
+  "observacoes": ""
+}
+```

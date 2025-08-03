@@ -1,0 +1,11 @@
+```json
+{
+  "código": "BA216455199",
+  "número": "40520333013",
+  "número_lateral": "107769543",
+  "local": "BOM JESUS-SC",
+  "data_emissão": "14/07/1975",
+  "assinatura_emissor": "",
+  "observações": "P;"
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+    "número": "05704561456",
+    "código": "SP609780550",
+    "número_lateral": "775681620",
+    "local": "MONÇÕES-SP",
+    "data_emissão": "11/02/1974",
+    "assinatura_emissor": "PENAROTI JOA",
+    "observações": ""
+}
+```

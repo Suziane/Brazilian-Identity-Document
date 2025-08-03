@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "17809884674",
+  "numero": "768690906",
+  "numero_lateral": "768690906",
+  "local": "COLUNA-MG",
+  "data_emissao": "14/05/1950",
+  "assinatura_emissor": "IWASAKI GUINDAINI C",
+  "observacoes": ""
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "MG756406153",
+    "numero": "97826723134",
+    "numero_lateral": "654993757",
+    "local": "CUPARAQUE-MG",
+    "data_emissao": "10/10/2012",
+    "assinatura_emissor": "LOPES PASSALACQ",
+    "observacoes": ""
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "código": "SC536002772",
+  "número": "78515964067",
+  "número lateral": "593834036",
+  "local": "MIMOSO DE GOIÁS-GO",
+  "data emissão": "17/07/1973",
+  "assinatura emissor": "OGATA KISHIDA BUTL",
+  "observações": ""
+}
+```

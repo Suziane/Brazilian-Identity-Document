@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "G0621893312",
+    "numero": "22301750958",
+    "numero_lateral": "665522540",
+    "local": "JUARA-MT",
+    "data_emissao": "10/07/1995",
+    "assinatura_emissor": "KENAH GERALDO BA",
+    "observacoes": ""
+}
+```

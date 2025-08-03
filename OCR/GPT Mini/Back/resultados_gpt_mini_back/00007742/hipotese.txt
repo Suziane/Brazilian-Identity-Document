@@ -1,0 +1,13 @@
+Aqui está o resultado organizado em um arquivo JSON com as informações extraídas da imagem:
+
+```json
+{
+  "codigo": "732009217",
+  "numero": "7329341733",
+  "numero_lateral": "732009217",
+  "local": "CORBELIA-PR",
+  "data_emissao": "04/09/1975",
+  "assinatura_emissor": "BUGANCO BOURROU",
+  "observacoes": ""
+}
+```

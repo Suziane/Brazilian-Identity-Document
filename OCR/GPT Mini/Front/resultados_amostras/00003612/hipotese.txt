@@ -1,0 +1,22 @@
+Aqui está o reconhecimento dos campos solicitados, organizados em formato JSON:
+
+```json
+{
+  "nome": "SARTORI ILIIV REITER",
+  "cpf": "135.987.299-01",
+  "filiação": "HARBS IDALGO LÚCILA SOUZA, JARDL REBERTE HANK",
+  "data_nascimento": "03/11/2013",
+  "primeira_habilitação": "16/09/1968",
+  "validade": "05/07/1958",
+  "documento_identidade": "152502087",
+  "orgão_emissor": "POF",
+  "uf": "RS",
+  "número_registro": "16670407047",
+  "acc": "",
+  "permissão": "",
+  "categoria": "D",
+  "número_válido": "26278533"
+}
+```
+
+Caso precise de mais alguma informação ou ajuste, fique à vontade para pedir!

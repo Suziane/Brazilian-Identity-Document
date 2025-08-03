@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "RS185817180",
+    "numero": "301505752",
+    "numero_lateral": "",
+    "local": "RIACHO FRIO-PI",
+    "data_emissao": "06/04/2006",
+    "assinatura_emissor": "MAJOLINI MECCHI A",
+    "observacoes": ""
+}
+```

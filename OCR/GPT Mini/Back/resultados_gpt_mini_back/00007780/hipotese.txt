@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "SP432695208",
+  "numero": "11399085668",
+  "numero_lateral": "88126332",
+  "local": "CRUZ-CE",
+  "data_emissao": "13/11/1990",
+  "assinatura_emissor": "JIM TAHAZAN DU CAMPOS",
+  "observacoes": ""
+}
+```

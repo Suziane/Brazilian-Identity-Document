@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "RN106915587",
+    "numero": "12661889050",
+    "numero_lateral": "6863420242",
+    "local": "IPARA-MG",
+    "data_emissao": "25/10/1972",
+    "assinatura_emissor": "MARON PEREIROS LIMA",
+    "observacoes": ""
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "640891209",
+    "numero": "60798079",
+    "numero_lateral": "64519262924",
+    "local": "JOSE DE FREITAS-PI",
+    "data_emissao": "14/07/1958",
+    "assinatura_emissor": "PETERSON MEC",
+    "observacoes": ""
+}
+```

@@ -1,0 +1,13 @@
+Aqui está o resultado em formato JSON:
+
+```json
+{
+  "codigo": "MG792822468",
+  "numero": "208134335357",
+  "numero_lateral": "471649621",
+  "local": "IACANGA-SP",
+  "data_emissao": "18/10/1998",
+  "assinatura_emissor": "FRANCIANI J",
+  "observacoes": ""
+}
+```

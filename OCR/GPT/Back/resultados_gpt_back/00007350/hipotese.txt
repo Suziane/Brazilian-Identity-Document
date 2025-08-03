@@ -1,0 +1,11 @@
+```json
+{
+  "código": "MG345590331",
+  "número": "83708545308",
+  "número_lateral": "390725567",
+  "local": "DOBRADA-SP",
+  "data_emissão": "05/03/1970",
+  "assinatura_emissor": "",
+  "observações": ""
+}
+```

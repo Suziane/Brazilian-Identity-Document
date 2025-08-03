@@ -1,0 +1,13 @@
+Aqui está o resultado em formato JSON com os campos reconhecidos da imagem:
+
+```json
+{
+    "codigo": "PRG37550291",
+    "numero": "06629323032",
+    "numero_lateral": "561342023",
+    "local": "ITAPÉ-BA",
+    "data_emissao": "20/04/2004",
+    "assinatura_emissor": "STAMATO KELLEN MANAI",
+    "observacoes": ""
+}
+```

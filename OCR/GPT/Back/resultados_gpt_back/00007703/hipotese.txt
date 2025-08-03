@@ -1,0 +1,11 @@
+```json
+{
+    "código": "MG423C22698",
+    "número": "37775126855",
+    "número lateral": "009747990",
+    "local": "IBIRITÉ-MG",
+    "data emissão": "17/11/2000",
+    "assinatura emissor": "HERMINIO HIR",
+    "observações": ""
+}
+```

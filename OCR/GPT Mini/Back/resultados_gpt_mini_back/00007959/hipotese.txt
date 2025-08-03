@@ -1,0 +1,13 @@
+Aqui está o JSON conforme solicitado:
+
+```json
+{
+  "codigo": "PR888750436",
+  "numero": "89913546290",
+  "numero_lateral": "052491387",
+  "local": "APUCARANA, PR",
+  "data_emissao": "02/10/2008",
+  "assinatura_emissor": "",
+  "observacoes": ""
+}
+```

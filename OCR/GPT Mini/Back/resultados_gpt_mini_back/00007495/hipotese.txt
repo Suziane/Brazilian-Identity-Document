@@ -1,0 +1,13 @@
+Aqui está o resultado reconhecido e organizado em formato JSON:
+
+```json
+{
+    "codigo": "ER728505486",
+    "numero": "213521806",
+    "numero_lateral": "",
+    "local": "FELIZ-RS",
+    "data_emissao": "19/04/1979",
+    "assinatura_emissor": "DURBANO SAVVA TO",
+    "observacoes": ""
+}
+```

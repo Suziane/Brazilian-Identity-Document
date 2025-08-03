@@ -1,0 +1,11 @@
+```json
+{
+  "código": "MG024198517",
+  "número": "88112494460",
+  "número_lateral": "454563287",
+  "local": "MALLET-PR",
+  "data_emissão": "03/12/2005",
+  "assinatura_emissor": "",
+  "observações": "K;"
+}
+```

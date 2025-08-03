@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "180421514",
+    "numero": "43327055957",
+    "numero_lateral": "",
+    "local": "CAPINZAL-SC",
+    "data_emissao": "15/12/1952",
+    "assinatura_emissor": "CANDELEIRO TOZET CALDEIRA",
+    "observacoes": ""
+}
+```

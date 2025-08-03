@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "SP263001577",
+    "numero": "42766555122",
+    "numero_lateral": "035514392",
+    "local": "BOITUVA-SP",
+    "data_emissao": "14/08/1990",
+    "assinatura_emissor": "RHUANN SCHNEEWEISS DA ROCHA",
+    "observacoes": "A;"
+}
+```

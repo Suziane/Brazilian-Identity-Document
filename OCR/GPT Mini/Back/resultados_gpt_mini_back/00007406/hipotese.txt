@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "E938715603",
+  "numero": "03028450526",
+  "numero lateral": "106621303",
+  "local": "GUAÍRA-SP",
+  "data emissão": "13/05/1973",
+  "assinatura emissor": "GHERCY KIHARA",
+  "observações": ""
+}
+```

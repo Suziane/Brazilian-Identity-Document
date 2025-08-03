@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "PRO79460726",
+    "numero": "090434398501",
+    "numero_lateral": "068731391",
+    "local": "PONTE NOVA-MG",
+    "data_emissao": "20/07/2000",
+    "assinatura_emissor": "ZANICA, FIDEL NASC ALVES",
+    "observacoes": ""
+}
+```

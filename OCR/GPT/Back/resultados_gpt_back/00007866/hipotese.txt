@@ -1,0 +1,11 @@
+```json
+{
+    "código": "MG310420613",
+    "número": "83064302496",
+    "número lateral": "7183881",
+    "local": "ALTO LONGA-PI",
+    "data emissão": "16/02/1960",
+    "assinatura emissor": "PALOPOLI PEGORER",
+    "observações": ""
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "código": "SC973119458",
+  "número": "40862102183",
+  "número lateral": "74450296",
+  "local": "ITAQUI-RS",
+  "data emissão": "18/01/1970",
+  "assinatura emissor": "FACIS LIKIER O",
+  "observações": ""
+}
+```

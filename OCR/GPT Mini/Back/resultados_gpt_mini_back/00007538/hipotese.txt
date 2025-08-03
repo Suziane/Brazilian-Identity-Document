@@ -1,0 +1,13 @@
+Aqui está o reconhecimento dos campos solicitados, organizados no formato JSON:
+
+```json
+{
+    "codigo": "699543612",
+    "numero": "12047366508",
+    "numero_lateral": "",
+    "local": "CANARANA-BA",
+    "data_emissao": "05/05/2008",
+    "assinatura_emissor": "VALENTIM BRUN Nascimento",
+    "observacoes": ""
+}
+```

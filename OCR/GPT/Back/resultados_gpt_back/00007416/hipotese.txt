@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "CE657187509",
+  "numero": "10801597211",
+  "numero_lateral": "569335019",
+  "local": "MACATUBA-SP",
+  "data_emissao": "06/04/1974",
+  "assinatura_emissor": "ANDRIGO NAIME",
+  "observacoes": ""
+}
+```

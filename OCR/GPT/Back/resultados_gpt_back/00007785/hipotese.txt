@@ -1,0 +1,11 @@
+```json
+{
+  "código": "PI348721782",
+  "número": "91112826949",
+  "número lateral": "62371468",
+  "local": "IPIRÁ-BA",
+  "data emissão": "10/06/1993",
+  "assinatura emissor": "FELIP OVIEDO ONE",
+  "observações": ""
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "código": "MG080634712",
+  "número": "99888290348",
+  "número lateral": "319303701",
+  "local": "IPIRA-SC",
+  "data emissão": "30/04/1968",
+  "assinatura emissor": "ZERBINATTI SELLIN",
+  "observações": "R"
+}
+```

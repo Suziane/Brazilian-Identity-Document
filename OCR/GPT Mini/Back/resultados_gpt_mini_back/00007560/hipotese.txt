@@ -1,0 +1,13 @@
+Claro! Segue abaixo o resultado organizado em formato JSON, conforme solicitado:
+
+```json
+{
+    "codigo": "SP432695208",
+    "numero": "113990850668",
+    "numero_lateral": "88126332",
+    "local": "CRUZ-CE",
+    "data_emissao": "13/11/1990",
+    "assinatura_emissor": "JIM TAHARA DU CAMPOS",
+    "observacoes": ""
+}
+```

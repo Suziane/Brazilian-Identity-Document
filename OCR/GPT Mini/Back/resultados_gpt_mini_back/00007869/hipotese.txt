@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "PE336788919",
+    "numero": "453767690745",
+    "numero_lateral": "855685668",
+    "local": "ITU-SP",
+    "data_emissao": "13/12/1988",
+    "assinatura_emissor": "TAKANO NAZARE BO",
+    "observacoes": ""
+}
+```

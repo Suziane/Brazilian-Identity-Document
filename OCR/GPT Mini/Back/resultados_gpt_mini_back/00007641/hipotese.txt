@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "M769544700",
+  "numero": "513497621",
+  "numero_lateral": "T769621",
+  "local": "SÃO FELIPE-BA",
+  "data_emissao": "24/04/1961",
+  "assinatura_emissor": "BRUNO TECLIN ASL MARTINS",
+  "observacoes": ""
+}
+```

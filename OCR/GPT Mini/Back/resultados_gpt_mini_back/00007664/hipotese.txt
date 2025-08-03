@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "PR852278801",
+  "numero": "22031949772",
+  "numero_lateral": "7973487",
+  "local": "ITATINGA-SP",
+  "data_emissao": "05/11/2007",
+  "assinatura_emissor": "DELSON MAS MARLEI",
+  "observacoes": ""
+}
+```

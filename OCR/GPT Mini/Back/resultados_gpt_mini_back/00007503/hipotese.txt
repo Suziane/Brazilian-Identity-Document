@@ -1,0 +1,15 @@
+Claro! Aqui está o reconhecimento dos campos solicitados em formato JSON:
+
+```json
+{
+    "codigo": "845273560604",
+    "numero": "135932296",
+    "numero_lateral": "135932296",
+    "local": "ITAOCARA-RJ",
+    "data_emissao": "19/05/1954",
+    "assinatura_emissor": "ASSINATURA DO EMISSOR",
+    "observacoes": ""
+}
+```
+
+Se precisar de mais alguma coisa, é só avisar!

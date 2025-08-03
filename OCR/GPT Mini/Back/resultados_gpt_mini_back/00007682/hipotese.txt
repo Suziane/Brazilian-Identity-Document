@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "AF558455017",
+    "numero": "101428581",
+    "numero_lateral": "773913267777",
+    "local": "PRESIDENTE GETÚLIO-SC",
+    "data_emissao": "08/10/1975",
+    "assinatura_emissor": "NOVO MOLOTVIESCH ALVES",
+    "observacoes": "D; S;"
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+    "código": "RS456007078",
+    "número": "14298814068",
+    "número_lateral": "426420531",
+    "local": "ARAGUATINS-TO",
+    "data_emissão": "12/03/1950",
+    "assinatura_emissor": "",
+    "observações": "J;"
+}
+```

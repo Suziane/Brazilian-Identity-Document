@@ -1,0 +1,13 @@
+Aqui está o resultado em formato JSON com os campos reconhecidos:
+
+```json
+{
+    "codigo": "SC441488329",
+    "numero": "763640592869",
+    "numero_lateral": "606268858",
+    "local": "MALTA-PB",
+    "data_emissao": "28/01/1985",
+    "assinatura_emissor": "ROSETTI MITSUGUI ARAGAO",
+    "observacoes": "B; G;"
+}
+```

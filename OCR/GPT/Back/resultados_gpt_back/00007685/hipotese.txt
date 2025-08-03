@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "PR025484914",
+  "numero": "56908317690",
+  "numero_lateral": "066353741",
+  "local": "MORENO-PE",
+  "data_emissao": "18/07/2010",
+  "assinatura_emissor": "MANTELLO BLEY SU GUMES",
+  "observacoes": ""
+}
+```

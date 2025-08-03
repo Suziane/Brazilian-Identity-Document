@@ -1,0 +1,11 @@
+```json
+{
+    "código": "RS548307577",
+    "número": "79347340705",
+    "número lateral": "470393852",
+    "local": "PEROLÂNDIA-GO",
+    "data emissão": "02/04/1951",
+    "assinatura emissor": "CHIMENTI EUGENIO S",
+    "observações": ""
+}
+```

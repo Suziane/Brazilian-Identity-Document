@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "PE991738082",
+  "numero": "70063916727",
+  "numero_lateral": "368895940",
+  "local": "CAETÉS-PE",
+  "data_emissao": "21/12/2015",
+  "assinatura_emissor": "LAZARETTI SARBADI",
+  "observacoes": "M"
+}
+```

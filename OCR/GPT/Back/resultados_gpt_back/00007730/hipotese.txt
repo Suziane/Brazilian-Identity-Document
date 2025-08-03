@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "PT712644339",
+  "numero": "69280929090",
+  "numero_lateral": "0489295877",
+  "local": "ITAÚ-RN",
+  "data_emissao": "13/03/1988",
+  "assinatura_emissor": "APOLLO GRIGOLO SO",
+  "observacoes": "C:"
+}
+```

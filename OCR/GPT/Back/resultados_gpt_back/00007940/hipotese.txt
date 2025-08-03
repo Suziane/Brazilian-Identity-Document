@@ -1,0 +1,11 @@
+```json
+{
+    "código": "SP128677751",
+    "número": "39704780754",
+    "número_lateral": "133316551",
+    "local": "Pinhais-PR",
+    "data_emissão": "31/07/1986",
+    "assinatura_emissor": "",
+    "observações": ""
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "PI296117328",
+  "numero": "715127380",
+  "numero_lateral": "25845111966",
+  "local": "UBA-MG",
+  "data_emissao": "07/02/2019",
+  "assinatura_emissor": "COLETI ARGENTAO MUCIN",
+  "observacoes": ""
+}
+```

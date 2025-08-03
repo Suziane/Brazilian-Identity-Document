@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "MG453275140",
+  "numero": "49554430680",
+  "numero_lateral": "002660440",
+  "local": "HIDROLÂNDIA-CE",
+  "data_emissao": "27/06/1993",
+  "assinatura_emissor": "",
+  "observacoes": ""
+}
+```

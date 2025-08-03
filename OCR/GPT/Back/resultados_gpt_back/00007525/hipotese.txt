@@ -1,0 +1,11 @@
+```json
+{
+    "código": "BA400899446",
+    "número": "24827424499",
+    "número_lateral": "786538964",
+    "local": "VARZEA-PB",
+    "data_emissao": "12/11/1971",
+    "assinatura_emissor": "EDUARDO LOPERA SOECH",
+    "observações": ""
+}
+```

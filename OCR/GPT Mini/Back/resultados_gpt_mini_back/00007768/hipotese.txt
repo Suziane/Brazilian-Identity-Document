@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "05090414803",
+  "numero": "778434478",
+  "numero_lateral": "778434478",
+  "local": "JANDAIA-GO",
+  "data_emissao": "11/12/1987",
+  "assinatura_emissor": "EIC CROUZILIARD M",
+  "observacoes": ""
+}
+```

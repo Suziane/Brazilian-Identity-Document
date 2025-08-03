@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "BA069437600",
+    "numero": "24359847107",
+    "numero_lateral": "686413447",
+    "local": "CAPIM-PB",
+    "data_emissao": "17/01/1967",
+    "assinatura_emissor": "",
+    "observacoes": "I;"
+}
+```

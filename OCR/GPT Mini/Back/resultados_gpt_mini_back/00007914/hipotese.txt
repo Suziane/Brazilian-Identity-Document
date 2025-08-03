@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "PR863193423",
+    "numero": "92450976705",
+    "numero_lateral": "135065820",
+    "local": "SÃO MANOEL DO PARANÁ-PR",
+    "data_emissao": "27/10/1962",
+    "assinatura_emissor": "GRAJEW LOCUER",
+    "observacoes": ""
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "AL717555517",
+  "numero": "594358296660",
+  "numero_lateral": "368936390",
+  "local": "FORTALEZA-CE",
+  "data_emissao": "12/10/2009",
+  "assinatura_emissor": "DETRAN MG (MINAS GERAIS)",
+  "observacoes": ""
+}
+```

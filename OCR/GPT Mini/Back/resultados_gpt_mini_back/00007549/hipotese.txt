@@ -1,0 +1,13 @@
+Aqui está o resultado formatado em JSON com os dados reconhecidos:
+
+```json
+{
+  "codigo": "T0706294695",
+  "numero": "845273560604",
+  "numero_lateral": "135932296",
+  "local": "ITAOCARA-RJ",
+  "data_emissao": "19/05/1954",
+  "assinatura_emissor": "DILLAS FACTOR CARN",
+  "observacoes": ""
+}
+```

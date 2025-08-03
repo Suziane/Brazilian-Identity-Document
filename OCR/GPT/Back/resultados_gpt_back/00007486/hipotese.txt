@@ -1,0 +1,11 @@
+```json
+{
+  "código": "PR473012389",
+  "número": "12296401494",
+  "número_lateral": "144563058",
+  "local": "CORUMBÁ-MS",
+  "data_emissao": "PALMA-MG",
+  "assinatura_emissor": "MICAI ORJANA EERNICA",
+  "observações": "X: P: I:"
+}
+```

@@ -1,0 +1,13 @@
+Aqui está o resultado em formato JSON, conforme solicitado:
+
+```json
+{
+  "codigo": "PE345547158",
+  "numero": "599965124",
+  "numero_lateral": "26702948164",
+  "local": "ASSARÉ-CE",
+  "data_emissao": "21/02/2006",
+  "assinatura_emissor": "CHIERBÃO THAYANA M",
+  "observacoes": "A;"
+}
+```

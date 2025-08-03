@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "MG345590331",
+    "numero": "83708545308",
+    "numero_lateral": "390725567",
+    "local": "DOBRADA-SP",
+    "data_emissao": "05/03/1970",
+    "assinatura_emissor": "DET PR (PARANÁ)",
+    "observacoes": ""
+}
+```

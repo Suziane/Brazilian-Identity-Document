@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "665532540",
+  "numero": "22301750958",
+  "numero_lateral": "",
+  "local": "JUARA-MT",
+  "data_emissao": "10/07/1995",
+  "assinatura_emissor": "KENAH GERALDO BA",
+  "observacoes": ""
+}
+```

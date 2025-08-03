@@ -1,0 +1,13 @@
+Aqui está o resultado em formato JSON com os campos reconhecidos:
+
+```json
+{
+    "codigo": "SP251879001",
+    "numero": "154262133487",
+    "numero_lateral": "499008468",
+    "local": "ROLADOR-RS",
+    "data_emissao": "11/07/2014",
+    "assinatura_emissor": "KABASHIMA F",
+    "observacoes": ""
+}
+```

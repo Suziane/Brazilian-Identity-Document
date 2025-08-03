@@ -1,0 +1,11 @@
+```json
+{
+    "código": "SC454849531",
+    "número": "61031952906",
+    "número lateral": "699721815",
+    "local": "PINHALAO-PR",
+    "data emissão": "16/05/2002",
+    "assinatura emissor": "UMEKITA MONARI",
+    "observações": ""
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+  "código": "MS328943318",
+  "número": "35945264883",
+  "número_lateral": "630959554",
+  "local": "CAMAPUÃ-MS",
+  "data_emissão": "28/12/1997",
+  "assinatura_emissor": "USIZIMA VANTI",
+  "observações": "A; K;"
+}
+```

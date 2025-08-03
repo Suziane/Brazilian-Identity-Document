@@ -1,0 +1,11 @@
+```json
+{
+  "código": "EA4649392",
+  "número": "7651222157",
+  "número_lateral": "846418",
+  "local": "BIRIGUI-SP",
+  "data_emissao": "23/01/2009",
+  "assinatura_emissor": "",
+  "observações": ""
+}
+```

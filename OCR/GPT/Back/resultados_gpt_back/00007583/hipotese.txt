@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "SP814928942",
+  "numero": "32807797802",
+  "numero_lateral": "34215642",
+  "local": "FÊNIX-PR",
+  "data_emissao": "09/07/1987",
+  "assinatura_emissor": "GARGIONE RAPHA",
+  "observacoes": ""
+}
+```

@@ -1,0 +1,11 @@
+```json
+{
+    "codigo": "MG084903886",
+    "numero": "90337364970",
+    "numero_lateral": "645381152",
+    "local": "GUAÇUÍ-ES",
+    "data_emissao": "05/04/1987",
+    "assinatura_emissor": "IMAJOR CAICE GLE",
+    "observacoes": "Q'"
+}
+```

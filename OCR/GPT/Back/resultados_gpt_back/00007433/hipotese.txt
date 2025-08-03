@@ -1,0 +1,11 @@
+```json
+{
+  "código": "NR385397195",
+  "número": "14832496089",
+  "número_lateral": "321801698",
+  "local": "PRADO FERREIRA-PR",
+  "data_emissão": "31/03/1961",
+  "assinatura_emissor": "BOCARDO AUTO CAA",
+  "observações": "EXERCE ATIVIDADE REMUNERADA"
+}
+```

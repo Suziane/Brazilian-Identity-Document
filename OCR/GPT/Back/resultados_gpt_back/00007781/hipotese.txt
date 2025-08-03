@@ -1,0 +1,11 @@
+```json
+{
+  "codigo": "PA917625798",
+  "numero": "90117107861",
+  "numero_lateral": "413552629",
+  "local": "VENTANIA-PR",
+  "data_emissao": "07/09/1975",
+  "assinatura_emissor": "VANDSON SCHELIGA",
+  "observacoes": ""
+}
+```

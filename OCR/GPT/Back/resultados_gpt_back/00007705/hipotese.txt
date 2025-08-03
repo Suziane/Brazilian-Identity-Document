@@ -1,0 +1,11 @@
+```json
+{
+  "código": "RS738165158",
+  "número": "97080266421",
+  "número_lateral": "590338177",
+  "local": "CATARINA-CE",
+  "data_emissao": "28/09/1971",
+  "assinatura_emissor": "",
+  "observações": "V;"
+}
+```

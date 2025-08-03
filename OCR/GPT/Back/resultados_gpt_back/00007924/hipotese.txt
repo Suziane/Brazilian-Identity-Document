@@ -1,0 +1,11 @@
+```json
+{
+    "número": "86590161669",
+    "código": "PI856264944",
+    "número lateral": "291614000",
+    "local": "ITÁ-SC",
+    "data emissão": "12/01/1972",
+    "assinatura emissor": "ONOFRE PESSE",
+    "observações": "L; Q;"
+}
+```
