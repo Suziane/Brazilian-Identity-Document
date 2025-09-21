@@ -1,4 +1,4 @@
-# Repositório da Dissertação de Mestrado  
+# Repositório
 
 Este repositório faz parte da dissertação de mestrado **“EXTRACTING FIELDS IN BRAZILIAN NATIONAL DRIVER’S LICENSE: A STUDY FOCUSING ON DEEP LEARNING TEXT RECOGNITION METHODS”**, cujo objetivo é investigar métodos de reconhecimento de texto baseados em *deep learning* aplicados à extração de campos na Carteira Nacional de Habilitação (CNH) brasileira.  
 
