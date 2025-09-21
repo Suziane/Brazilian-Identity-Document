@@ -7,6 +7,6 @@
 6 total_files 720 mean_cer 0.00745 std_cer 0.04573 success 684 error 36
 7 total_files 720 mean_cer 0.01631 std_cer 0.06443 success 584 error 136
 8 total_files 720 mean_cer 0.0175 std_cer 0.22292 success 709 error 11
-9 total_files 720 mean_cer 0.04552 std_cer 0.20447 success 685 error 35
+9 total_files 686 mean_cer 0.00016 std_cer 0.00424 success 685 error 1
 10 total_files 20 mean_cer 0.12222 std_cer 0.03333 success 0 error 20
 11 total_files 0 mean_cer 0 std_cer 0 success 0 error 0
